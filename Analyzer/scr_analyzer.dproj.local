@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.341,=C:\Users\HeMet\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\Users\HeMet\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Analyze.PosibleOperatorsSearch.pas=D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Analyze.PosibleStrings.pas=D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\scr_analyzer.dproj=C:\Users\HeMet\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,=D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=D:\MyWorks\Delphi Projects\MaW2 Tools\Analyzer\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
