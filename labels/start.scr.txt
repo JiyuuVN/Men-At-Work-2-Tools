@@ -1,0 +1,4 @@
+logo	0000002D
+title	00000069
+continue	000000B7
+test	000000CF

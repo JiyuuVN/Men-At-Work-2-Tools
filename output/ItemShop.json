@@ -1,0 +1,442 @@
+{
+ "Headers": [
+  {
+   "string": "Lucy",
+   "offsets": [
+    1182,1297,1452,1514,1695,1798,1929,2067,2181,2323,2459,2604,2790,2908,3010,3177,3250,3375,3496,3665,3783,4011,4118,4408,4535,4676,4828,5006,5123,5329,5480,5677,5973,6102,6195,6531,6639,6754,6960,7137,7305,7622,7780,7899,8143,8204,8370,8453,8523,8700,8824,8971,9076,9367,9435,9690,9805,9948,10105,10281,10518,10737,10960,11178,11277,11346,11615,11705,11845,11966,12094,12258,12372,12548,12693,12732,12872,12992,13182,13347,13482,13626,13688,13798,13961,14062,14173,14308,14404,14533,14663,14789,14856,15019,15091,15229,15313,15455,15500,15651,16048,16104],
+   "size": 4
+  },{
+   "string": "Cliff",
+   "offsets": [
+    1215,1348,1647,1849,2118,2272,2408,2516,2708,2847,2964,3113,3314,3727,3833,4185,4359,4453,4612,4780,5042,5213,5253,5433,5628,5779,5860,6030,6360,6482,6893,7218,7361,7718,8043,8297,8407,8604,8769,8921,9016,9159,9261,9514,9757,9890,10049,10219,10441,10565,10664,10782,10860,11105,11224,11435,11551,11795,11902,12017,12175,12483,12608,12808,12923,13121,13399,13542,13733,13871,14258,14454,14600,14734,14938,15161,15383,15591],
+   "size": 5
+  }],
+ "PlayerInput": [
+  {
+   "offset": 10399,
+   "sizes": [
+    11,14],
+   "choices": [
+    "I'll buy it","I won't buy it"]
+  }],
+ "Dialogs": [
+  {
+   "000004AF;0000000B": "\"Welcome!!\""
+  },{
+   "000004DA;00000029": "\"...Thanks for your hard work, Lucy-san.\""
+  },{
+   "00000522;0000001D": "\"Oh, it's just you, Ku-chan.\""
+  },{
+   "0000055F;0000003F": "\"Lucy-san... aren't you cold always wearing clothes like that?\""
+  },{
+   "000005BD;0000001F": "\"Oh, are you worried about me?\""
+  },{
+   "000005FB;0000006F": "\"Well, it's still warm right now. I'll wear something over this when it gets cold, so you don't need to worry.\""
+  },{
+   "0000068A;00000007": "\"Oh...\""
+  },{
+   "000006B0;00000048": "\"And I can't waste the summer. I want to show off when I can, you know?\""
+  },{
+   "00000717;0000001D": "\"You prefer that too, right?\""
+  },{
+   "00000754;00000027": "\"I-I'm not looking at you like that...\""
+  },{
+   "0000079A;00000032": "\"Oh, you're embarrassed. You're really pure, man.\""
+  },{
+   "000007D3;00000022": "I wish she'd not make fun of me..."
+  },{
+   "00000824;0000001D": "\"Hey, Ku-chan. How ya doing?\""
+  },{
+   "00000861;00000016": "\"You seem to be busy.\""
+  },{
+   "00000896;0000001D": "\"...That sarcasm hurts, man.\""
+  },{
+   "000008BA;00000021": "...I'm the only one in the store."
+  },{
+   "000008FB;0000000A": "\"S-Sorry.\""
+  },{
+   "00000924;0000003F": "\"Well, it can't be helped. Only Hunters use things like these.\""
+  },{
+   "00000983;0000000A": "\"...Yeah.\""
+  },{
+   "000009AC;00000023": "\"Well, wish for more sales for me.\""
+  },{
+   "000009EF;0000002F": "\"Okay. Please wish for the Academy's best too.\""
+  },{
+   "00000A3D;00000015": "\"Haha. You're right.\""
+  },{
+   "00000A69;00000026": "I pass an old man as I exit the store."
+  },{
+   "00000AAF;00000029": "\"That's rare for you to have a customer.\""
+  },{
+   "00000AF7;00000023": "\"Sorry customers are so rare here.\""
+  },{
+   "00000B3A;00000014": "\"Oh... Sorry. Um...\""
+  },{
+   "00000B6D;00000022": "\"Well, that's what I thought too.\""
+  },{
+   "00000BAF;00000005": "\"Oh.\""
+  },{
+   "00000BD3;00000051": "\"He bought some weird stuff too. Eastern turtle powder and dried mountain snake.\""
+  },{
+   "00000C44;00000017": "\"You have such things?\""
+  },{
+   "00000C7A;0000002A": "\"Actually, he specially had them ordered.\""
+  },{
+   "00000CC3;0000002A": "\"But... I wonder what he'll use them for?\""
+  },{
+   "00000D0D;00000014": "\"Maybe some ritual?\""
+  },{
+   "00000D40;0000002D": "\"That old guy didn't look like a mage to me.\""
+  },{
+   "00000D74;00000016": "We wonder for a while."
+  },{
+   "00000DB9;0000002B": "\"Oh, Ku-chan. That old guy was here again.\""
+  },{
+   "00000DEB;00000058": "Is she talking about the one that bought the turtle powder and the dried mountain snake?"
+  },{
+   "00000E62;00000028": "\"What do you think he bought this time?\""
+  },{
+   "00000EAA;0000000F": "\"I don't know.\""
+  },{
+   "00000ED8;0000001C": "\"Blood of turtle and snake.\""
+  },{
+   "00000F14;0000000C": "\"Blood...!?\""
+  },{
+   "00000F27;00000076": "I don't know who would actually buy this stuff, but I didn't know about a store that would actually carry such things."
+  },{
+   "00000FBC;00000055": "\"I asked him what the hell he'd use the stuff for, but he wouldn't tell me anything.\""
+  },{
+   "00001027;0000002D": "\"It might be a strange ritual like you said.\""
+  },{
+   "00001074;00000008": "\"Hmm...\""
+  },{
+   "00001083;00000027": "He didn't look like a bad person to me."
+  },{
+   "00001122;00000008": "\"Hello.\""
+  },{
+   "00001149;00000017": "\"Oh, Ku-chan. Welcome.\""
+  },{
+   "00001180;00000029": "\"Hear about anything involving monsters?\""
+  },{
+   "000011C8;00000037": "\"There's a rumor. It doesn't sound like a job, though.\""
+  },{
+   "0000121F;00000017": "\"What kind of a rumor?\""
+  },{
+   "00001255;00000052": "\"I hear there's an outbreak of mice. I hear everyday about food getting eaten up.\""
+  },{
+   "000012C7;00000007": "\"Oh...\""
+  },{
+   "000012ED;0000003C": "\"I hate it. I'd love to send all mice to hell or something.\""
+  },{
+   "00001330;00000040": "But she's right that there's nothing we can do about this rumor."
+  },{
+   "0000139F;0000000E": "\"Oh, Ku-chan.\""
+  },{
+   "000013CD;00000028": "\"...You look like you're in a bad mood.\""
+  },{
+   "00001414;00000044": "\"Oh, crap. Smile, smile. It's a basic thing for a service. Welcome!\""
+  },{
+   "00001478;00000008": "\"......\""
+  },{
+   "000014A0;00000023": "\"So... why were you in a bad mood?\""
+  },{
+   "000014E2;00000052": "\"Well, you try seeing a group of mice on your way here... you'd be depressed too.\""
+  },{
+   "00001554;00000006": "\"Wow.\""
+  },{
+   "00001579;00000047": "\"Maybe I'll ask the store owner to get some items to keep them away...\""
+  },{
+   "000015C7;00000020": "It seems Lucy really hates mice."
+  },{
+   "00001617;00000008": "\"Hello.\""
+  },{
+   "0000163E;0000004C": "\"Oh, Ku-chan. You came at the right time. Take care of the store for a bit.\""
+  },{
+   "000016AE;0000000F": "\"Huh!? W-Wait!\""
+  },{
+   "000016C4;0000001B": "...Lucy runs out the store."
+  },{
+   "000016FF;0000000A": "\"...What?\""
+  },{
+   "00001710;00000037": "After about 30 minutes, Lucy comes back with a big bag."
+  },{
+   "00001766;00000023": "\"You really helped me out. Thanks.\""
+  },{
+   "000017A9;0000001F": "\"You're welcome. What is that?\""
+  },{
+   "000017E7;0000003E": "\"It's emerald fruit. I saw this at the market on my way here.\""
+  },{
+   "00001844;00000050": "\"I was troubled since I wanted to buy it, but I couldn't leave the store empty.\""
+  },{
+   "0000189B;00000038": "Lucy's bag contains these brown, hairy, egg-like things."
+  },{
+   "000018F3;00000022": "\"Emerald fruit...? This is fruit?\""
+  },{
+   "0000191C;00000031": "Lucy takes out a knife and cuts open one of them."
+  },{
+   "0000196D;00000008": "\"Wow...\""
+  },{
+   "00001994;00000018": "\"It's beautiful, right?\""
+  },{
+   "000019B3;0000002E": "The cut end is pure green like a real emerald."
+  },{
+   "00001A00;00000054": "\"This is a special good in my hometown. I missed it so much that I had to buy some.\""
+  },{
+   "00001A73;00000014": "\"Try it. It's good.\""
+  },{
+   "00001A8E;00000028": "I take a piece Lucy gives me and eat it."
+  },{
+   "00001AB9;0000002F": "Sweet juice fills my mouth... It's really good."
+  },{
+   "00001B08;0000001A": "\"You're right. It's good.\""
+  },{
+   "00001B41;00000053": "\"Let's ask Me-chan and have her use it to decorate a cake. It'll be really pretty.\""
+  },{
+   "00001B9B;00000028": "Yeah. I think it'll be a beautiful cake."
+  },{
+   "00001BF2;0000003B": "\"Oh, Ku-chan. Can I ask you to look after the store again?\""
+  },{
+   "00001C4D;0000000B": "\"Oh, okay.\""
+  },{
+   "00001C5F;0000001C": "Is she going shopping again?"
+  },{
+   "00001C9A;00000022": "\"Nope. I'm going to the bathroom.\""
+  },{
+   "00001CDC;0000000E": "\"Oh... Sorry.\""
+  },{
+   "00001CF5;00000026": "Lucy hurries to the back of the store."
+  },{
+   "00001DD7;0000004A": "\"Man... The Academy's getting crowded. I didn't think a ghost would join.\""
+  },{
+   "00001E41;00000015": "\"Haha. You're right.\""
+  },{
+   "00001E75;00000058": "\"Well, it looks like Aoi's having some trouble. She lives to kill off ghosts, you know?\""
+  },{
+   "00001EEC;00000046": "\"Well... I don't think there are that many ghost with that much guts.\""
+  },{
+   "00001F39;00000029": "I don't think guts has to do with this..."
+  },{
+   "00001F86;0000003B": "\"Have you heard of any rumors or incidents about monsters?\""
+  },{
+   "00001FE0;0000001E": "\"Hmm. This is a rumor, but...\""
+  },{
+   "0000201D;00000047": "\"I heard that there's a cave where you can hear a girl's crying voice.\""
+  },{
+   "00002084;00000020": "\"A girl...? Which cave is that?\""
+  },{
+   "000020C3;0000000F": "\"I don't know.\""
+  },{
+   "000020F2;00000005": "\"Oh.\""
+  },{
+   "00002116;00000027": "\"Hey now. I only heard about it, okay?\""
+  },{
+   "0000215C;0000003B": "\"I'll get more details next time. Gimme a break this time.\""
+  },{
+   "000021B7;0000000F": "\"Yeah, please.\""
+  },{
+   "0000220D;0000002F": "\"Oh, Ku-chan. Aoi was here until a second ago.\""
+  },{
+   "0000225C;0000000E": "\"Aoi-san was?\""
+  },{
+   "00002289;0000004B": "\"She bought many things, saying she'll make sure to send Sheryl to heaven.\""
+  },{
+   "000022F4;00000009": "\"Haha...\""
+  },{
+   "0000231C;00000017": "\"...What do you think?\""
+  },{
+   "00002353;00000013": "\"What do you mean?\""
+  },{
+   "00002385;0000003D": "\"Do you think you can get her to heaven just by using items?\""
+  },{
+   "000023E2;00000046": "\"...It's impossible. I'm not saying Aoi-san isn't good enough, but...\""
+  },{
+   "00002448;00000041": "\"Aoi-san's skill should be much more than just relying on items.\""
+  },{
+   "000024A8;00000025": "\"Well, you're right. I think so too.\""
+  },{
+   "000024EC;00000039": "\"But, seeing Aoi get in a tussle is worrisome and funny.\""
+  },{
+   "00002545;00000027": "\"You shouldn't be entertained by this.\""
+  },{
+   "00002573;0000003D": "But... I think it's a bit easier to talk to Aoi-san recently."
+  },{
+   "000025EB;0000002D": "\"Hey Ku-chan. I've got something to ask you.\""
+  },{
+   "00002638;00000007": "\"What?\""
+  },{
+   "0000265E;0000003F": "\"I got something good. Can you pay for it out of our expenses?\""
+  },{
+   "000026BD;00000011": "\"Something good?\""
+  },{
+   "000026ED;0000000C": "\"It's this.\""
+  },{
+   "00002700;0000003C": "Lucy puts something that looks like medicine on the counter."
+  },{
+   "0000275C;0000000F": "\"What is this?\""
+  },{
+   "0000278A;0000005C": "\"It's stuff to keep mice away. I hear mice won't come near it if you put it in the kitchen.\""
+  },{
+   "00002806;00000015": "\"Wow, that's useful.\""
+  },{
+   "0000283A;00000044": "\"I'll make it cheap too. It's 50 Zel, but how about it for 30 Zel!?\""
+  },{
+   "00002895;00000005": "Um..."
+  },{
+   "000028E4;00000024": "\"No. We have to stop wasting money.\""
+  },{
+   "00002927;00000019": "\"Wasting money? Come on.\""
+  },{
+   "00002960;0000003B": "\"We have to use our money sparingly. We're poor, you know?\""
+  },{
+   "000029C3;00000020": "\"All right. It's 30 Zel, right?\""
+  },{
+   "00002A02;00000017": "\"You're gonna buy it!?\""
+  },{
+   "00002A39;0000002E": "\"Yeah. I can't ignore the damage mice can do.\""
+  },{
+   "00002A87;0000003B": "\"I don't think it's a waste of money for things like this.\""
+  },{
+   "00002AE1;00000038": "\"Ohhh, that's why I like you! Thanks for your business!\""
+  },{
+   "00002B20;0000002C": "I'll set this in the kitchen once I go back."
+  },{
+   "00002B7C;00000020": "\"... Sorry. I don't have money.\""
+  },{
+   "00002BBB;00000018": "\"Man... you're useless.\""
+  },{
+   "00002BF3;0000000C": "\"Come on...\""
+  },{
+   "00002C1E;00000026": "\"Fine. I'll buy it with my own money.\""
+  },{
+   "00002C63;00000043": "\"Man... I feel sad for saying thank you to myself for buying this.\""
+  },{
+   "00002CC6;00000008": "\"......\""
+  },{
+   "00002D3A;00000017": "\"You look happy, Lucy.\""
+  },{
+   "00002D70;0000003B": "\"Well, yeah. I just thought the Academy's getting crowded.\""
+  },{
+   "00002DCA;00000044": "\"Although the new ones are strange people like ghosts and Succubus.\""
+  },{
+   "00002E2E;00000009": "\"Haha...\""
+  },{
+   "00002E56;00000023": "\"Well, it's fine because it's fun.\""
+  },{
+   "00002E99;00000007": "\"Yeah.\""
+  },{
+   "00002ECF;0000001D": "\"What's Kit doing right now?\""
+  },{
+   "00002F0C;00000024": "\"I don't know... probably sleeping.\""
+  },{
+   "00002F4F;0000003B": "\"I see. Come to think of it, she's mostly active at night.\""
+  },{
+   "00002FAA;0000002A": "\"But I think she sleeps at night as well.\""
+  },{
+   "00002FF3;0000001D": "\"...Well, she's still a kid.\""
+  },{
+   "00003017;0000001F": "They say those that sleep grow."
+  },{
+   "00003065;00000059": "\"Now that there are 2 people that can fly, I wonder if we can make a business out of it.\""
+  },{
+   "000030DE;00000018": "\"Like a new job for us?\""
+  },{
+   "00003115;00000026": "\"Yup. Can you think of anything good?\""
+  },{
+   "0000315B;0000002C": "\"Like flying taxi or sightseeing flights...\""
+  },{
+   "000031A6;00000008": "\"......\""
+  },{
+   "000031CD;00000036": "\"They sound tiring. I guess being a Hunter is easier.\""
+  },{
+   "00003223;00000007": "\"Haha.\""
+  },{
+   "00003259;0000001D": "\"How's the job thing coming?\""
+  },{
+   "00003296;0000001C": "\"Hmm... It's pretty hard...\""
+  },{
+   "000032D1;0000006B": "\"I'll get weak if I don't keep on fighting. We could call it training and go beat some monsters somewhere.\""
+  },{
+   "0000335C;00000014": "\"...Like the sewer?\""
+  },{
+   "0000338F;00000022": "\"...You're getting mean recently.\""
+  },{
+   "00003434;0000001E": "\"Oh, how's business, Ku-chan?\""
+  },{
+   "00003472;0000002A": "\"You should know that all too well, Lucy.\""
+  },{
+   "000034BB;00000026": "\"Haha... It's a bit of a recession...\""
+  },{
+   "00003501;0000002B": "\"Well, I won't give up and keep searching.\""
+  },{
+   "0000354B;0000000F": "\"Yeah, please.\""
+  },{
+   "00003589;00000017": "\"Oh. Welcome, Ku-chan.\""
+  },{
+   "000035C0;00000018": "\"How's the store doing?\""
+  },{
+   "000035F7;00000033": "\"Not good at all. You're the third customer today.\""
+  },{
+   "0000364A;00000031": "\"...I'm surprised this store isn't closing down.\""
+  },{
+   "0000369A;00000046": "\"I guess the mail order the store owner's doing for fun is a big hit.\""
+  },{
+   "000036FF;00000050": "\"Thanks to that, he's rich even though the actual store isn't making any money.\""
+  },{
+   "0000376E;0000003F": "\"So, this job pays pretty good even though it's not that busy.\""
+  },{
+   "000037CD;00000009": "\"Haha...\""
+  },{
+   "000037F5;00000041": "\"But still... I'll get weak if I just live peacefully like this.\""
+  },{
+   "00003855;0000001C": "\"Go find us a good job, ok?\""
+  },{
+   "00003891;00000016": "\"I-I'll do my best...\""
+  },{
+   "000038D6;0000002D": "\"Oh yeah, Aoi was talking about this, but...\""
+  },{
+   "00003923;00000016": "\"What was she saying?\""
+  },{
+   "00003958;00000031": "\"I guess some strange air is covering this town.\""
+  },{
+   "000039A9;0000000E": "\"Strange air?\""
+  },{
+   "000039D6;00000024": "\"Yeah. Aoi was calling it evil air.\""
+  },{
+   "00003A19;0000003C": "\"You should watch out too. We don't know what might happen.\""
+  },{
+   "00003A75;00000018": "\"Yeah. I'll be careful.\""
+  },{
+   "00003ABC;00000029": "\"...It's not because Aoi said it, but...\""
+  },{
+   "00003B04;00000030": "\"It feels like something bad's about to happen.\""
+  },{
+   "00003B54;0000001B": "\"Could there be something?\""
+  },{
+   "00003B8E;00000035": "\"I don't know... but it doesn't hurt to be prepared.\""
+  },{
+   "00003BE2;00000030": "\"So I'll let you be in charge of that, Ku-chan.\""
+  },{
+   "00003C32;0000000F": "\"Yeah, I know.\""
+  },{
+   "00003C70;0000000E": "\"Oh, Ku-chan.\""
+  },{
+   "00003C9D;00000045": "\"I'm counting on you for the preparations. I'm ready to go any time.\""
+  },{
+   "00003D02;0000000F": "\"Yeah, I know.\""
+  },{
+   "00003D34;00000042": "\"Well, take your time and choose. You don't have to buy anything.\""
+  },{
+   "00003DB7;0000002A": "There's no one in the store. How careless."
+  },{
+   "00003DFE;00000029": "I put the money on the counter and leave."
+  },{
+   "00003E32;00000026": "I exit the store after looking around."
+  },{
+   "00003E63;0000001F": "...The store is already closed."
+  },{
+   "00003EC1;00000015": "\"Thanks! Come again!\""
+  },{
+   "00003EF9;00000026": "\"I'll be waiting for your next visit.\""
+  }]
+}

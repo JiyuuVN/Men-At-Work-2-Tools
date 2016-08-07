@@ -1,0 +1,1353 @@
+{
+ "Headers": [
+  {
+   "string": "Lucy",
+   "offsets": [
+    3068,3349,3536,3773,3912,4732,5299,5486,6196,6432,6664,7077,7275,7501,7660,7829,7974,8316,8489,8700,9221,9584,9745,9909,10064,10220,10387,10672,10928,11273,12106,12692,13429,13551,13796,14115,14304,14521,14980,15179,15315,16749,17419,17582,17802,18256,18354,19003,19383,19504,20089,20758,20896,21085,21238,21319,21501,21866,22209,22405,22596,22789,22947,23373,23517,23771,24011,24219,24808,25089,25427,25802,26414,27090,27441,27601,27677,27868,28178,28437,28540,28887,29011,29178,29278,29348,29765,30201,30537,30870,31293,31680,31954,32963,33367,34448,34994,35225,35539,35708,36645,37178,37341,37609,38009,38271,38715,38989,39232,39372,39443,39574,40131,40617,40812,41221,41488,42405,42708,42783,43034,43259,43706,44213,45155,45279,46104,46251,46522,46619,47535,48379],
+   "size": 4
+  },{
+   "string": "Aoi",
+   "offsets": [
+    3161,3433,4019,6842,6997,7141,8227,8365,8594,9340,9640,9970,10150,10801,10977,11434,11850,13015,14209,14678,15470,15590,15925,16140,16355,16399,16550,16641,16809,16969,17245,18515,19286,19447,19673,19800,20009,20262,20335,20458,21153,21432,21575,22332,22660,23228,23567,24121,25360,25513,27348,27503,28806,29239,29420,29546,30365,31396,31791,32176,32493,32777,32907,33052,33266,33461,34232,34611,34721,34855,35280,35457,35829,35977,37102,37252,37392,37814,39158,39678,40201,40696,41091,42078,42202,42344,42530,42904,43315,43916,44270,45537,45892,46581,47717,48221],
+   "size": 3
+  },{
+   "string": "Mena",
+   "offsets": [
+    3591,4379,4653,6592,6786,7454,7557,7746,8790,8874,9402,9786,10336,10510,10735,11096,11351,11537,11677,11809,11907,12026,12197,12248,12554,12789,12851,13253,13342,13479,13683,13840,13948,14057,14245,14440,14613,14825,14918,15030,15070,15257,15422,15664,16897,17320,18045,18453,19085,20847,21718,21785,22047,22286,22740,22896,23022,23446,23902,24355,25029,25663,26010,26176,26359,26489,27246,27761,28039,29098,29981,30609,30766,31157,32028,33176,34792,34954,35331,36307,36581,36918,37458,37767,38187,38378,38837,39520,39611,40378,41036,41597,41798,43140,43502,43614,43782,43845,44527,44920,45392,46413,46811,46885,46957,47093,47181,47237,47320,47374,47614,47775],
+   "size": 4
+  },{
+   "string": "Cliff",
+   "offsets": [
+    3837,4319,5690,5837,6147,6313,6907,8037,8126,10266,11030,11615,11950,12351,12474,12589,12740,12933,13127,13888,14371,14856,17523,17720,18097,18139,18575,19226,19546,19744,20181,20583,21660,21975,22122,23134,23852,24738,24954,25183,25554,25740,25929,27178,30150,30452,30994,31458,32099,32382,32621,32842,33504,33681,33780,33909,34101,34274,34549,34658,35035,35630,36021,36802,39092,39805,39893,43076,43995,44368,45439,45590,46677,47888,48302,48469],
+   "size": 5
+  },{
+   "string": "Iry",
+   "offsets": [
+    4111,4847,5004,5144,5245],
+   "size": 3
+  },{
+   "string": "Will",
+   "offsets": [
+    4225,4929,5056,5560,5628,5741],
+   "size": 4
+  },{
+   "string": "Sheryl",
+   "offsets": [
+    16101,16209,16267,16501,16696,17012,17886,18769,19953,20149,20413,20552,21029,21617,22528,23067,23645,24279,25276,27543,27929,28644,29478,30500,31588,31843,32260,33738,33879,34002,34148,34358,35111,35917,36247,36455,37020,37700,37887,38078,38556,38916,39750,39986,40289,40482,41337,41418,41528,41701,41887,43363,44149,44433,44582,44721,44959,45095,45233,45353,45711,45793,45954,46054,46174,46305,46357,46459,47472],
+   "size": 6
+  },{
+   "string": "Kitty",
+   "offsets": [
+    25242,26079,26130,26284,26568,27300,27978,28293,29836,30071,30717,30822,31096,31231,34513,35399,36753,36876,38136,38652,38787,40939,42034,42162,42283,42488,42630,43447,44093,45014,46000,48436],
+   "size": 5
+  }],
+ "PlayerInput": [],
+ "Dialogs": [
+  {
+   "000006EB;00000008": "Job_act5"
+  },{
+   "00000A66;00000004": "act5"
+  },{
+   "00000A95;0000003D": "The meal today is the dragon stew that Hanna-san made for us."
+  },{
+   "00000AD9;00000032": "The meat was really tender and it was really good."
+  },{
+   "00000B3A;00000033": "It's dinnertime. Meals are better with more people."
+  },{
+   "00000B70;00000031": "By the way, Aoi-san is the one that cooked today."
+  },{
+   "00000BA4;0000004A": "The meal consists of sour vegetables and light soup. It's not much either."
+  },{
+   "00000C0D;0000003D": "\"Aoi, I won't get energy from this. Don't you have any meat?\""
+  },{
+   "00000C69;00000057": "\"You always eat meat. You need to eat vegetables as well to balance out the nutrition.\""
+  },{
+   "00000CC7;00000040": "...But I don't think eating only vegetables will be a balance..."
+  },{
+   "00000D26;00000034": "\"But this won't fill me up with energy! Gimme meat!\""
+  },{
+   "00000D79;00000052": "\"...You will get fat. I will not be held responsible if you get too heavy to fly.\""
+  },{
+   "00000DE1;00000017": "\"I won't get that fat!\""
+  },{
+   "00000E18;00000018": "\"Now, now, calm down...\""
+  },{
+   "00000E37;00000027": "But I would like more volume as well..."
+  },{
+   "00000E6F;00000012": "It's dinner again."
+  },{
+   "00000E84;0000002B": "I'm the one in charge of cooking this time."
+  },{
+   "00000ECE;0000002A": "\"...Ku-chan, what is this supposed to be?\""
+  },{
+   "00000F18;00000022": "\"Um... it's supposed to be salad.\""
+  },{
+   "00000F59;00000038": "\"...This thing with lettuce and cabbage with some salt?\""
+  },{
+   "00000FC3;0000003E": "\"...The rice is not cooked well either. It is soft and dry...\""
+  },{
+   "0000101F;00000053": "\"Now, now... we made someone who hasn't cooked before cook. Don't make fun of him.\""
+  },{
+   "00001092;00000048": "\"But... When I first cooked, I made something that was far more edible.\""
+  },{
+   "000010FA;00000013": "\"Ohh... I'm sorry.\""
+  },{
+   "0000112C;0000003A": "\"Don't cry. I'll show you the basics of cooking sometime.\""
+  },{
+   "0000116D;00000055": "Although all I managed to make after getting lots of cuts was just a bowl of salad..."
+  },{
+   "000011C5;00000021": "But still... it was a fun dinner."
+  },{
+   "000011F7;00000028": "Iry-Sensei is in charge of dinner today."
+  },{
+   "0000123E;0000002F": "\"This pinto bean boiled in sugar sure is good.\""
+  },{
+   "0000128D;00000054": "\"This pork in sweet vinegar is great. Wow, Sensei, as expected from someone's wife.\""
+  },{
+   "000012FF;00000033": "\"Of course. A wife should be able to do this much.\""
+  },{
+   "00001352;0000002C": "\"But... I would like to say one thing, Iry.\""
+  },{
+   "0000139C;00000015": "\"What is it, Sensei?\""
+  },{
+   "000013D1;00000039": "\"You don't have to sweeten an already sweet food, right?\""
+  },{
+   "00001428;00000020": "\"What? Is it really that sweet?\""
+  },{
+   "0000144F;00000029": "Honestly, I think this is pretty sweet..."
+  },{
+   "0000148D;00000017": "\"...It's good, though.\""
+  },{
+   "000014C4;00000018": "\"I think it's good too.\""
+  },{
+   "000014E3;00000023": "Well... people have their tastes..."
+  },{
+   "00001509;00000021": "Aoi-san is eating without a word."
+  },{
+   "0000153B;00000025": "There's a gorgeous meal on the table."
+  },{
+   "0000157F;0000002A": "\"Wow... did you really make this, Sensei?\""
+  },{
+   "000015C9;00000024": "\"That's rude. I can cook, you know?\""
+  },{
+   "0000160D;00000028": "\"I lived by myself for a long time too.\""
+  },{
+   "00001655;00000009": "\"Sigh...\""
+  },{
+   "0000167E;0000004A": "\"...You'll get better at it too in no time. It's just getting used to it.\""
+  },{
+   "000016E8;0000000B": "\"Oh, okay.\""
+  },{
+   "000016FA;0000002C": "I decide to trust those words and work hard."
+  },{
+   "000017B1;00000028": "It's Lucy's turn to cook tonight. But..."
+  },{
+   "00001815;0000001A": "\"Lucy...!! What is this!?\""
+  },{
+   "00001845;0000005F": "\"Um... Aoi taught this to me. I guess this is a dish called Shibushibu in the eastern country.\""
+  },{
+   "000018BB;0000000F": "\"T-This is...?\""
+  },{
+   "000018D1;0000004A": "The meal in front of me is this weird tasting soup with a fat steak in it."
+  },{
+   "00001931;0000003C": "\"I heard the secret to it is not to cook the meat too much.\""
+  },{
+   "00001974;00000047": "But... it's really hard to eat this meat when it's not cooked at all..."
+  },{
+   "000019D1;00000032": "\"It's hot, sour, and bitter... it tastes weird...\""
+  },{
+   "00001A19;00000043": "\"Hmm... well, I forgot to ask how to flavor it, so I just guessed.\""
+  },{
+   "00001A63;0000001A": "Aoi-san is eating quietly."
+  },{
+   "00001A93;00000022": "\"Aoi-san... how can you eat this?\""
+  },{
+   "00001ACA;00000019": "\"I am used to it by now.\""
+  },{
+   "00001AEA;0000000C": "............"
+  },{
+   "00001B0D;00000043": "\"Hey, Aoi-san... is this really what you guys eat in your country?\""
+  },{
+   "00001B65;0000003B": "\"Of course not... Lucy-san has the wrong fundamental idea.\""
+  },{
+   "00001BB6;0000002A": "\"Really? I made it just like you told me.\""
+  },{
+   "00001BF5;00000071": "\"...I believe I told you that you take thin slices of beef, let it through boiling water, and eat it with a dip.\""
+  },{
+   "00001C7C;0000003E": "\"What? But it's better to have fat meat instead of thin ones.\""
+  },{
+   "00001CC1;00000038": "...I think she's got the whole concept of cooking wrong."
+  },{
+   "00001D2F;0000000F": "\"What a waste!\""
+  },{
+   "00001D5E;00000022": "\"W-What is it all of a sudden...?\""
+  },{
+   "00001D96;00000047": "\"Using such good meat for something like this... this is such a waste!\""
+  },{
+   "00001DFD;00000040": "\"Oh... Sorry. I'm actually more into the eating than cooking...\""
+  },{
+   "00001E53;00000033": "\"Give them all to me! I'm going to go recook them!\""
+  },{
+   "00001EA6;0000000D": "\"Me-chan...?\""
+  },{
+   "00001EC3;00000039": "Mena takes the weird meat and goes back into the kitchen."
+  },{
+   "00001F37;00000029": "\"I-It seems Me-chan's really fired up...\""
+  },{
+   "00001F80;00000039": "\"Mena used to manage the kitchen by herself at my place.\""
+  },{
+   "00001FD0;00000031": "\"I guess she has something to say about cooking.\""
+  },{
+   "00002033;0000003A": "\"But... I have to agree that the meal was indeed a waste.\""
+  },{
+   "0000208D;00000012": "\"Aoi, you too...?\""
+  },{
+   "000020BD;0000005D": "\"I have ate your food without complaining because I thought it would be a waste otherwise...\""
+  },{
+   "0000213A;0000004A": "\"You don't need to tell me the obvious. I know I'm not good at cooking...\""
+  },{
+   "000021A2;0000004B": "\"...It is not that you are not good. I believe you just lack common sense.\""
+  },{
+   "0000220D;00000014": "\"Aoi... that hurts.\""
+  },{
+   "00002267;00000035": "\"Salt, pepper, garlic... all set. The soup should...\""
+  },{
+   "000022BB;00000069": "\"I'll suppress the saltiness, and use something else... tomato should be good. All right, let's do this!\""
+  },{
+   "00002344;00000042": "While we talk, I start to smell something good from the kitchen..."
+  },{
+   "0000238D;00000041": "I hear the meat sizzling and smell the vegetables being cooked..."
+  },{
+   "000023D1;00000026": "The smell flow into the dining room..."
+  },{
+   "00002416;00000044": "\"Wow... it smells great. This is something I'd never be able to do.\""
+  },{
+   "0000248C;00000020": "\"Do not say so with confidence.\""
+  },{
+   "000024CB;0000000E": "\"Here you go!\""
+  },{
+   "000024E0;00000023": "Mena brings out good-smelling food."
+  },{
+   "00002506;0000005B": "The weird meat Lucy made has been turned into good looking steak and vegetable tomato soup."
+  },{
+   "00002581;00000019": "\"Wow... it smells great.\""
+  },{
+   "000025B8;0000004A": "\"Amazing. How did you manage to turn Lucy-san's absurd meal into this...?\""
+  },{
+   "00002622;0000000A": "\"Hey now.\""
+  },{
+   "0000264B;0000001E": "\"Here, eat it while it's hot.\""
+  },{
+   "00002674;0000002E": "Urged by Mena, we start to eat the new meal..."
+  },{
+   "000026C6;0000001E": "\"...This is amazingly good...\""
+  },{
+   "00002702;0000003F": "\"Yes... I cannot believe this used to be that ridiculous meal.\""
+  },{
+   "00002761;00000037": "\"You're being rude, calling my cooking deadly and all.\""
+  },{
+   "000027B6;00000027": "\"I did not say they are deadly... yet.\""
+  },{
+   "000027FD;00000018": "\"What do you mean, yet?\""
+  },{
+   "00002835;0000001D": "\"But... this is really good.\""
+  },{
+   "00002871;00000013": "\"Really? I'm glad.\""
+  },{
+   "000028A4;0000002D": "\"I want Me-chan to cook all the time for us.\""
+  },{
+   "000028D8;00000028": "Lucy must've meant that as a compliment."
+  },{
+   "0000291F;00000047": "\"Um... if you all want, I can really do all the cooking from now on...\""
+  },{
+   "0000296D;00000034": "In that instant... Lucy and Aoi-san's eyes light up."
+  },{
+   "000029C1;00000020": "\"Really!? You'll really do it!?\""
+  },{
+   "00002A00;00000023": "\"Y-Yes... If you all don't mind...\""
+  },{
+   "00002A41;00000060": "\"There is no reason to object. There will be no need to endure Lucy-san's deadly meals anymore.\""
+  },{
+   "00002AC1;00000012": "\"You say it now!?\""
+  },{
+   "00002AF1;00000020": "\"I only fulfilled your request.\""
+  },{
+   "00002B31;0000000B": "\"Now, now.\""
+  },{
+   "00002B69;00000029": "\"Then, please give me your best regards.\""
+  },{
+   "00002B99;0000000A": "Mena bows."
+  },{
+   "00002BA6;00000035": "From this day, Mena will be in charge of the kitchen."
+  },{
+   "00002C1A;0000001B": "\"How's your work, Me-chan?\""
+  },{
+   "00002C68;00000033": "\"Yeah... I guess being a waitress is quite tiring.\""
+  },{
+   "00002CBA;00000049": "\"I would think so. I believe there wouldn't be any time to sit and rest.\""
+  },{
+   "00002D22;00000038": "\"But the work's fun. The Master is really nice as well.\""
+  },{
+   "00002D7A;00000015": "\"...Good luck, Mena.\""
+  },{
+   "00002DAE;00000009": "\"Thanks.\""
+  },{
+   "00002DBE;00000018": "Mena looks really happy."
+  },{
+   "00002DE7;0000002C": "We talk about Mena once again during dinner."
+  },{
+   "00002E32;00000009": "\"Sigh...\""
+  },{
+   "00002E5A;0000001B": "\"What is it? Why the sigh?\""
+  },{
+   "00002E94;00000015": "\"Oh, it's nothing...\""
+  },{
+   "00002EC9;00000023": "\"Did something bad happen at work?\""
+  },{
+   "00002F0B;00000030": "\"Hmm... well, you could say it's something bad.\""
+  },{
+   "00002F5B;0000003C": "\"Are you troubled because guys keep hitting on you at work?\""
+  },{
+   "00002FB6;00000014": "\"T-That's not it...\""
+  },{
+   "00002FE9;0000002D": "\"Well... I'm getting unnecessary jobs to do.\""
+  },{
+   "0000301D;0000001D": "Mena says so and sighs again."
+  },{
+   "0000305A;00000009": "\"......?\""
+  },{
+   "0000306A;00000041": "Maybe I should go the the Cafe Terrace and see what's going on..."
+  },{
+   "000030D5;00000027": "\"Hey Mena, I always wanted to ask you.\""
+  },{
+   "0000311B;0000000D": "\"What is it?\""
+  },{
+   "00003148;0000003D": "\"...What kind of a person is the Master of the Cafe Terrace?\""
+  },{
+   "000031A5;0000001A": "\"Oh, you haven't met him?\""
+  },{
+   "000031DF;00000008": "\"...No.\""
+  },{
+   "00003206;0000001F": "\"Hmm... how should I put this?\""
+  },{
+   "00003244;0000003C": "\"His appearance is like Will-Sensei and the mayor combined.\""
+  },{
+   "000032A0;00000028": "\"...I haven't met the mayor yet either.\""
+  },{
+   "000032E7;0000005B": "\"The mayor comes to the church from time to time. He is a rather well-built old gentleman.\""
+  },{
+   "00003362;00000027": "\"...That's totally unlike Will-Sensei.\""
+  },{
+   "00003390;00000027": "I think it's hard to combine those two."
+  },{
+   "000033D6;0000003A": "\"But he's really good at cooking. He's teaching me a lot.\""
+  },{
+   "0000342F;00000037": "\"I think it's amazing for a guy to be good at cooking.\""
+  },{
+   "00003486;00000013": "\"...That hurts me.\""
+  },{
+   "000034B8;00000028": "\"Oh sorry, I didn't mean it that way...\""
+  },{
+   "00003500;0000001F": "\"I know. Don't worry about it.\""
+  },{
+   "00003526;00000035": "...Well, I could not find out about the master today."
+  },{
+   "00003584;00000027": "\"Um... I have an announcement to make.\""
+  },{
+   "000035B2;00000023": "Mena raises her hand during dinner."
+  },{
+   "000035F5;0000000D": "\"What is it?\""
+  },{
+   "00003621;0000001A": "\"I found a place to work.\""
+  },{
+   "0000365B;00000013": "\"Oh, when did you?\""
+  },{
+   "0000368D;0000004E": "\"Cliff is busy looking for jobs, Lucy- san and Aoi-san are working as well...\""
+  },{
+   "000036FA;0000001A": "\"So I felt a bit ashamed.\""
+  },{
+   "00003734;0000003E": "\"Hey now. We're thankful that you make good food. Right, Aoi?\""
+  },{
+   "00003791;00000006": "\"Yes.\""
+  },{
+   "000037B6;0000001B": "\"But... that's how I felt.\""
+  },{
+   "000037F1;0000002D": "\"!!! ...You're a really nice girl, Me- chan.\""
+  },{
+   "0000383E;0000001C": "\"So, where are you working?\""
+  },{
+   "00003879;00000031": "\"Cafe Terrace. I'm going to be a waitress there.\""
+  },{
+   "000038CA;0000003D": "\"Wow... Amazing how that shy master decided to hire someone.\""
+  },{
+   "00003926;00000021": "\"Hanna-san introduced me to him.\""
+  },{
+   "00003966;0000000F": "\"...Good luck.\""
+  },{
+   "0000397C;00000023": "...I feel the most ashamed today..."
+  },{
+   "000039A2;0000002F": "I have to try hard and find some jobs for us..."
+  },{
+   "000039FA;00000009": "\"U-Um...\""
+  },{
+   "00003A23;00000015": "\"What's wrong, Mena?\""
+  },{
+   "00003A57;0000001E": "\"This place might have one...\""
+  },{
+   "00003A95;00000013": "\"What do you mean?\""
+  },{
+   "00003AC7;00000012": "\"Um... a ghost...\""
+  },{
+   "00003AEF;0000004D": "\"I saw it. I saw a ghost with white clothing and long hair in the kitchen...\""
+  },{
+   "00003B5C;0000002F": "\"Are you sure you didn't just see the curtain?\""
+  },{
+   "00003BAA;0000001A": "\"I'm sure! I'm not lying!\""
+  },{
+   "00003BE4;0000004C": "\"I'm not saying you're lying, but it might be just your misunderstanding...\""
+  },{
+   "00003C4F;00000010": "\"That can't be!\""
+  },{
+   "00003C7E;00000059": "\"Now, now... It will be my job if it is a ghost. Please call for me if it appears again.\""
+  },{
+   "00003CF6;0000002C": "\"I shall send it back to heaven right away.\""
+  },{
+   "00003D41;00000014": "\"Oh... thank you...\""
+  },{
+   "00003D60;00000036": "Ghost, huh? If there is one, I'd like to meet it once."
+  },{
+   "00003E45;00000024": "\"Sheryl-san... I would like to ask.\""
+  },{
+   "00003E70;00000066": "Aoi-san asks during dinner. Sheryl can't eat, so she's just floating around without having much to do."
+  },{
+   "00003EF8;00000006": "\"Yes?\""
+  },{
+   "00003F1C;00000026": "\"Do you know the cause of your death?\""
+  },{
+   "00003F64;00000018": "\"The cause of my death?\""
+  },{
+   "00003F9E;00000037": "\"Hmmm... I don't remember much about when I was alive.\""
+  },{
+   "00003FF3;0000000E": "\"Oh... I see.\""
+  },{
+   "0000401F;00000047": "\"...I thought that might hold the key to why you cannot rest in peace.\""
+  },{
+   "00004088;00000010": "\"Oh... sorry...\""
+  },{
+   "000040B6;0000003D": "\"It's fine. We might find a clue if we try different things.\""
+  },{
+   "00004111;00000018": "\"We will start tonight.\""
+  },{
+   "0000414B;00000013": "\"Yes... Thank you.\""
+  },{
+   "0000417E;0000001D": "\"You sure are fired up, Aoi.\""
+  },{
+   "000041B9;00000039": "\"Of course. My pride as an exorcist is on the line here.\""
+  },{
+   "00004212;00000029": "\"Well, please eat first. It'll get cold.\""
+  },{
+   "00004259;0000000C": "\"Oh... yes.\""
+  },{
+   "00004287;00000017": "\"...It looks good too.\""
+  },{
+   "000042A5;0000002D": "Sheryl is floating without having much to do."
+  },{
+   "000042DD;0000002B": "There's something strange today for dinner."
+  },{
+   "0000430B;00000044": "It's like a baked crepe... but it's too thick and too well-cooked..."
+  },{
+   "0000436D;00000019": "\"What is this, Mena-san?\""
+  },{
+   "000043B9;00000043": "\"It's a cuisine Master learned while he was in an eastern country.\""
+  },{
+   "0000441C;00000030": "\"Wow... it's whatever-grill. It's been a while.\""
+  },{
+   "00004453;0000001B": "Lucy is the only one happy."
+  },{
+   "0000448E;00000011": "\"Whatever-grill?\""
+  },{
+   "000044BF;00000074": "\"Yup. Take a flour base an add whatever you like: fish, vegetables, meat. Then take it and grill it on an iron pan.\""
+  },{
+   "00004553;00000028": "\"That's why it's called whatever-grill?\""
+  },{
+   "0000459B;00000035": "\"Yup. I remember making it a lot before I came here.\""
+  },{
+   "000045F1;00000010": "\"It sounds fun.\""
+  },{
+   "00004608;0000003B": "But... a meal where that absurd Lucy makes as she likes...?"
+  },{
+   "00004646;00000029": "The more I think, the more scary it gets."
+  },{
+   "0000468E;0000001E": "\"Well, eat it while it's hot.\""
+  },{
+   "000046CC;0000000A": "\"...Okay.\""
+  },{
+   "000046F6;00000027": "\"Oh... there's ground sausage in here.\""
+  },{
+   "00004724;0000001D": "It's one of my favorite food."
+  },{
+   "00004761;00000042": "\"Wow, there's diced meat in here. This skill is amazing, Me-chan.\""
+  },{
+   "000047C3;00000044": "\"I can't ask for more if there's also mayo and dried bonito flakes.\""
+  },{
+   "00004826;0000001F": "\"I'll have some for next time.\""
+  },{
+   "00004863;00000027": "\"Wow... this goes well with squid too.\""
+  },{
+   "000048AA;00000008": "\"Squid?\""
+  },{
+   "000048B9;00000016": "That wasn't in mine..."
+  },{
+   "000048D2;00000049": "It seems Mena put in what each of us likes in our separate food. Amazing."
+  },{
+   "00004922;00000020": "We enjoy dinner tonight as well."
+  },{
+   "00004964;00000017": "\"It looks really good.\""
+  },{
+   "00004982;0000001F": "But... I feel sorry for Sheryl."
+  },{
+   "000049B2;00000023": "There's another strange dish today."
+  },{
+   "000049D8;00000039": "There's something like a ball of meat inside a thin wrap."
+  },{
+   "00004A14;00000019": "...It smells really good."
+  },{
+   "00004A4C;0000001F": "\"Hey, Me-chan... what is this?\""
+  },{
+   "00004A9E;00000034": "\"Oh, it's something I learned from Hanna-san today.\""
+  },{
+   "00004AD9;0000003C": "Eating it... the wrap is baked crisp and it's really savory."
+  },{
+   "00004B35;00000013": "\"It's really good.\""
+  },{
+   "00004B66;00000042": "\"I can trust Mena-san's food to be good even if it looks strange.\""
+  },{
+   "00004BC8;00000021": "\"Yeah, it's totally unlike mine.\""
+  },{
+   "00004C07;0000001A": "\"...So you knew yourself?\""
+  },{
+   "00004C41;00000014": "\"Aoi... that hurts.\""
+  },{
+   "00004C75;00000009": "\"Haha...\""
+  },{
+   "00004C85;0000002C": "I think it's fun to eat with lots of people."
+  },{
+   "00004CE9;00000009": "\"Sigh...\""
+  },{
+   "00004CF9;00000022": "Aoi-san sighs at the dinner table."
+  },{
+   "00004D3B;0000000F": "\"What's wrong?\""
+  },{
+   "00004D68;0000003F": "\"...I tried many different methods, but none of them worked...\""
+  },{
+   "00004DAE;00000034": "Saying so, Aoi-san looks at Sheryl with bitter eyes."
+  },{
+   "00004E04;00000017": "\"Um... is it my fault?\""
+  },{
+   "00004E39;00000031": "\"...I will not say it clearly, but probably yes.\""
+  },{
+   "00004E8A;0000001C": "\"You're being pretty clear.\""
+  },{
+   "00004EC8;00000008": "\"Ohh...\""
+  },{
+   "00004EF0;00000028": "\"Hey now... Sheryl's not at fault here.\""
+  },{
+   "00004F36;0000002B": "\"But I have not met a ghost this stubborn.\""
+  },{
+   "00004F7F;0000002F": "\"I will think of other measures in the future.\""
+  },{
+   "00004FD0;0000000C": "\"Good luck.\""
+  },{
+   "00004FFA;0000003F": "\"...It rather makes me mad when you're the one encouraging me.\""
+  },{
+   "0000505B;00000007": "\"Oh...\""
+  },{
+   "00005082;00000017": "\"Calm down, Aoi-san...\""
+  },{
+   "000050A0;0000001E": "Does Aoi-san not like Sheryl?\""
+  },{
+   "000050DB;0000002D": "Lucy comes down when we're about done eating."
+  },{
+   "00005127;00000026": "\"...I'm hungry. Is there some for me?\""
+  },{
+   "00005180;00000011": "\"Yes, of course.\""
+  },{
+   "000051B1;0000004A": "\"Oh man, these are my favorite foods. Man, I should've came down earlier.\""
+  },{
+   "00005202;00000015": "She's the usual Lucy."
+  },{
+   "00005238;00000016": "\"...Are you fine now?\""
+  },{
+   "0000526E;00000025": "\"Haha... I'm sorry to worry you all.\""
+  },{
+   "000052B1;00000036": "\"No... You do not need to care if you are well again.\""
+  },{
+   "00005307;00000031": "\"Yeah... I'm sorry, everyone. I worried you all.\""
+  },{
+   "00005358;0000000F": "\"I'm fine now.\""
+  },{
+   "0000536E;00000032": "That's good... it seems Lucy recovered on her own."
+  },{
+   "000053C8;00000026": "\"Oh... Lucy-san. Were were you today?\""
+  },{
+   "0000540E;0000002B": "\"Well, Ku-chan invited me to go somewhere.\""
+  },{
+   "00005457;0000000C": "\"Cliff-san?\""
+  },{
+   "00005484;00000013": "\"Where did you go?\""
+  },{
+   "000054B7;00000011": "\"Well... places.\""
+  },{
+   "000054E7;00000024": "\"But... I'm glad you're better now.\""
+  },{
+   "0000552A;00000031": "\"Well... let's eat. I put extra effort in today.\""
+  },{
+   "0000557B;00000013": "\"Yeah, I'm hungry.\""
+  },{
+   "0000559F;00000033": "...My favorite dishes are on the table again today."
+  },{
+   "000055F2;0000001F": "\"Oh, it's carrot Grasse today.\""
+  },{
+   "00005630;00000035": "\"Yeah, the carrots were on sale today at the market.\""
+  },{
+   "00005685;0000002D": "\"Wow... I really like it when you make this.\""
+  },{
+   "000056D2;0000002E": "\"To be honest... I don't really like carrots.\""
+  },{
+   "0000571F;0000000F": "\"Oh... really?\""
+  },{
+   "0000574C;0000002A": "\"Having food you do not like is not good.\""
+  },{
+   "00005796;0000005C": "\"I know. I don't like carrots, but I can eat it when Me-chan cooks it. It's really strange.\""
+  },{
+   "00005813;00000022": "\"Wow... I'd like to try it too...\""
+  },{
+   "00005855;00000021": "\"...It's a bit hard for a ghost.\""
+  },{
+   "00005894;00000032": "\"It is really soft and juicy. It is really tasty.\""
+  },{
+   "000058E5;00000011": "\"Oh... I'm glad.\""
+  },{
+   "00005916;0000004C": "\"It's really vexing. If I was a man, I'd be proposing to Me-chan right now.\""
+  },{
+   "00005981;00000013": "\"U-Um... that's...\""
+  },{
+   "000059B4;0000002C": "\"It's just a joke. Don't take it seriously.\""
+  },{
+   "000059FF;0000000D": "\"H-Hahaha...\""
+  },{
+   "00005A2E;0000002B": "\"Then how about Cliff-san marry Mena- san?\""
+  },{
+   "00005A79;00000035": "\"Huh...!? W-What are you saying, all of a sudden...?\""
+  },{
+   "00005ACC;00000072": "\"I do think they are suited for each other, but a marriage between siblings is not allowed legally nor ethically.\""
+  },{
+   "00005B5E;0000002A": "\"Isn't it too bad as a brother, Ku- chan?\""
+  },{
+   "00005BA7;00000027": "\"Oh... we're not siblings but cousins.\""
+  },{
+   "00005BEE;00000013": "\"Huh!? Is that so?\""
+  },{
+   "00005C1F;00000030": "\"Wow... I always thought you two were siblings.\""
+  },{
+   "00005C70;0000005C": "\"Then there's nothing to stop you two. I also think you two are well suited for each other.\""
+  },{
+   "00005CEC;0000003B": "\"Yup. Well, they're already like a married couple, though.\""
+  },{
+   "00005D47;00000009": "\"U-Um...\""
+  },{
+   "00005D6F;0000004D": "\"P-Please don't make fun of me. I haven't looked that far into the future...\""
+  },{
+   "00005DDC;0000004F": "\"I'm not making fun of you. We're going to be cheering you two on. Right, Aoi?\""
+  },{
+   "00005E49;00000043": "\"I do not mind, but Lucy-san is making too big a deal out of this.\""
+  },{
+   "00005EAC;0000001C": "\"Man... You're no fun, Aoi.\""
+  },{
+   "00005EEA;0000002B": "\"I hope happiness will be in your futures.\""
+  },{
+   "00005F34;0000004E": "\"G-Geez, Sheryl-san! I'm telling you I haven't thought about such things yet!\""
+  },{
+   "00005F89;00000043": "Certainly... I haven't thought about such a thing... or so I think."
+  },{
+   "00005FCF;0000002E": "But... I'm bewildered after hearing the truth."
+  },{
+   "00006000;00000021": "Yes... cousins can get married..."
+  },{
+   "0000604F;0000004E": "...It's dinnertime. The dining room is loud. It seems everyone's making noise."
+  },{
+   "000060BD;0000001D": "\"...What are you guys doing?\""
+  },{
+   "000060F9;0000001E": "\"Oh, Ku-chan. Check this out.\""
+  },{
+   "00006143;00000032": "There... Kitty is standing with pretty clothes on."
+  },{
+   "0000618C;00000034": "\"Wow. that's cute. Where did you get these clothes?\""
+  },{
+   "000061D6;00000026": "\"Lucy-san and I went out to buy this.\""
+  },{
+   "00006212;00000048": "\"I was worried if it'll fit you... but it's perfect. It's looking good.\""
+  },{
+   "00006271;00000024": "\"Yeah, it really looks good on you.\""
+  },{
+   "000062AC;0000000B": "\"I'm cute?\""
+  },{
+   "000062CF;0000001A": "\"Yes, you're really cute.\""
+  },{
+   "00006320;00000024": "\"I do not care... let's eat dinner.\""
+  },{
+   "00006364;00000037": "\"She says she doesn't care, but Aoi chose this ribbon.\""
+  },{
+   "000063B9;00000014": "\"I-It's fine now...\""
+  },{
+   "000063ED;00000007": "\"Haha.\""
+  },{
+   "000063FB;00000035": "...I guess everyone's finding the newest member cute."
+  },{
+   "00006450;00000028": "\"Sorry, I'll prepare dinner right away.\""
+  },{
+   "000064A7;00000015": "\"Oh... Where's Mena?\""
+  },{
+   "000064DB;00000069": "\"Oh... She's in the bath with Kit. She was fired up to get all hundred years worth of dirt off of Kitty.\""
+  },{
+   "00006564;0000000C": "\"Oh, I see.\""
+  },{
+   "000065AB;0000002F": "\"All right, stay still. Does it itch anywhere?\""
+  },{
+   "000065F1;0000001C": "\"Uhh... my nose is itchy...\""
+  },{
+   "00006624;00000017": "\"Mena... this is fine.\""
+  },{
+   "00006651;00000056": "\"No, you have to get cleaned up. All right, I'm pouring some water on you. Look down.\""
+  },{
+   "000066BE;00000008": "\"Ohh...\""
+  },{
+   "00006708;00000017": "\"Phew, that was great.\""
+  },{
+   "0000673F;0000002C": "\"Oh, you're out. Have you gotten all clean?\""
+  },{
+   "0000678A;0000002F": "\"I'm sorry, I'll go prepare dinner right away.\""
+  },{
+   "000067DA;00000011": "\"I'm hungry too!\""
+  },{
+   "00006811;0000002F": "Tomorrow should be a bit more rowdy than today."
+  },{
+   "00006843;00000037": "We're getting more family members and getting louder..."
+  },{
+   "0000687D;0000002B": "But this place has gotten warmer as well..."
+  },{
+   "000068AF;00000026": "I wonder what will happen tomorrow...?"
+  },{
+   "00006980;00000044": "While we're all resting after the meal, Lucy brings a deck of cards."
+  },{
+   "000069E3;00000042": "\"Hey, since we have this many people, you guys wanna play a game?\""
+  },{
+   "00006A45;00000007": "\"Game?\""
+  },{
+   "00006A7F;00000016": "\"Oh, that sounds fun.\""
+  },{
+   "00006AB6;00000010": "\"I'll play too!\""
+  },{
+   "00006AE4;0000003E": "\"I do not do such things often, so I do not know the rules...\""
+  },{
+   "00006B42;0000001F": "\"You can play Old Maid, right?\""
+  },{
+   "00006B7F;0000000A": "\"Y-Yes...\""
+  },{
+   "00006BAA;00000018": "\"Then I'll be watching.\""
+  },{
+   "00006BE2;0000002C": "\"Hey, that's too boring. You should join...\""
+  },{
+   "00006C2E;00000035": "\"Oh, but that'll be too hard for a ghost. I'm sorry.\""
+  },{
+   "00006C82;0000004B": "\"Oh, then let's play concentration. Sheryl-san can play that game with us.\""
+  },{
+   "00006CED;0000001E": "\"Oh yeah. That's a good idea.\""
+  },{
+   "00006D2C;00000010": "\"Oh, thank you.\""
+  },{
+   "00006D5C;0000001C": "\"Hey, what's concentration?\""
+  },{
+   "00006D98;0000006B": "\"It's a game where you flip over upside- down cards, and you get whatever cards that have the same number.\""
+  },{
+   "00006E23;00000054": "\"Just try it out once. It's really easy, so you should be able to learn it quickly.\""
+  },{
+   "00006E97;00000007": "\"Okay!\""
+  },{
+   "00006EBC;0000004B": "So the concentration tournament begins. The results of the first game is..."
+  },{
+   "00006F26;00000048": "\"Kit got a pair, Ku-chan and I got 2 pairs, Aoi got 4, Me-chan got 5...\""
+  },{
+   "00006F8D;00000035": "\"The winner by a big margin is Sheryl with 12 pairs!\""
+  },{
+   "00006FF7;00000013": "\"Oh my. Thank you.\""
+  },{
+   "00007011;0000002E": "Sheryl's win was mostly due to her great luck."
+  },{
+   "00007042;00000036": "9 out of 12 pairs she got was obtained by pure luck..."
+  },{
+   "00007096;00000032": "\"Maybe her sense is great because she is a ghost.\""
+  },{
+   "000070E8;00000036": "\"Wow. I'm amazed. Well, let's start the second match!\""
+  },{
+   "00007125;00000016": "...This is pretty fun."
+  },{
+   "00007164;00000024": "\"Let's play a different game today.\""
+  },{
+   "000071BB;00000030": "\"What kind of a game is it? Will Sheryl- san...\""
+  },{
+   "0000720B;0000001E": "\"Sheryl can pair up with Aoi.\""
+  },{
+   "00007247;00000008": "\"What!?\""
+  },{
+   "0000726F;00000026": "\"It seems like Aoi's avoiding Sheryl.\""
+  },{
+   "000072B5;00000029": "\"So make friends using this opportunity.\""
+  },{
+   "000072FC;0000001B": "\"T-That's irresponsible...\""
+  },{
+   "00007339;00000023": "\"Please give me your best regards.\""
+  },{
+   "0000737A;00000016": "\"Oh, yes... me too...\""
+  },{
+   "00007397;00000021": "It looks like Aoi-san's troubled."
+  },{
+   "000073BB;00000036": "But I do wish this will mediate their relationship ..."
+  },{
+   "0000740B;0000002B": "...Kitty is eating food at an amazing pace."
+  },{
+   "00007456;00000028": "\"Wow... Kit, you've got great appetite.\""
+  },{
+   "0000749E;00000013": "\"Yeah. I'm hungry.\""
+  },{
+   "000074B8;00000026": "Saying so, she keeps stuffing herself."
+  },{
+   "000074E1;0000002D": "...I'm getting worried just by looking at it."
+  },{
+   "0000752E;00000035": "\"Here, you'll choke on something if you eat so fast.\""
+  },{
+   "00007589;00000009": "\"Ugh...!\""
+  },{
+   "0000759F;00000022": "Then... Kitty suddenly shows pain."
+  },{
+   "000075E1;00000009": "\"Kitty!?\""
+  },{
+   "0000760A;00000017": "\"W-What's wrong, Kit!?\""
+  },{
+   "00007645;00000044": "We carry Kitty back to her room in a panic. Aoi-san checks on Kitty."
+  },{
+   "000076AD;00000042": "\"She just overate... She should get well if she just stays still.\""
+  },{
+   "0000770F;00000006": "\"Huh?\""
+  },{
+   "00007737;0000000D": "\"Overeating?\""
+  },{
+   "00007764;0000001E": "\"Man... you really scared us.\""
+  },{
+   "000077A2;00000029": "\"I'm glad it's not some strange disease.\""
+  },{
+   "000077D2;0000001D": "Was Mena's food that good...?"
+  },{
+   "0000780F;00000010": "\"Hey... Mena...\""
+  },{
+   "0000783F;00000019": "\"What is it, Kitty-chan?\""
+  },{
+   "00007878;0000000F": "\"I'm hungry...\""
+  },{
+   "000078A7;0000001A": "\"You're gonna eat more!!?\""
+  },{
+   "000078C8;00000028": "I wonder what's really wrong with her..."
+  },{
+   "0000792D;00000006": "\"Huh?\""
+  },{
+   "0000793A;00000030": "There are 3 bottles of milk in front of Kitty..."
+  },{
+   "0000798A;0000001C": "\"Milk fills me up the most!\""
+  },{
+   "000079C6;0000002B": "\"It's the best for your body, Kitty- chan.\""
+  },{
+   "00007A11;0000001D": "\"But... I still want more...\""
+  },{
+   "00007A4E;00000048": "\"...I won't be held responsible if you get fat enough so you can't fly.\""
+  },{
+   "00007AB4;00000029": "\"That is exactly what I told you before.\""
+  },{
+   "00007AFD;00000007": "\"Haha.\""
+  },{
+   "00007B0B;0000003B": "But... I really hope Kitty doesn't have some bad disease..."
+  },{
+   "00007B77;0000003A": "\"The master of the weapon shop came by the Library today.\""
+  },{
+   "00007BD1;0000004F": "\"The Weapon Shop owner? He doesn't seem like the guy that'd go to the Library.\""
+  },{
+   "00007C3F;00000016": "\"So... what happened?\""
+  },{
+   "00007C76;0000004D": "\"Well... He was talking about making a book or an encyclopedia or something.\""
+  },{
+   "00007CE3;0000002B": "\"...Is he going to write an autobiography?\""
+  },{
+   "00007D2D;00000031": "\"Well, I did hear that he was a Hunter before...\""
+  },{
+   "00007D7E;00000023": "\"If he was... I'd like to read it.\""
+  },{
+   "00007DC0;00000036": "\"I do not think so... so what did you two talk about?\""
+  },{
+   "00007E17;00000062": "\"Yes... He wanted to make something, so he asked us for help. He said he has a reward for us too.\""
+  },{
+   "00007E99;00000045": "\"Oh, that's the first time we got a job from the Weapon Shop Master.\""
+  },{
+   "00007EFD;0000006B": "\"He used to be a Hunter as well... so if he is asking for help, we have to be ready for a high-level task.\""
+  },{
+   "00007F88;00000027": "\"Yeah... I'll go talk to him tomorrow.\""
+  },{
+   "00007FB6;0000003B": "I'm looking forward to what kind of a job it's going to be."
+  },{
+   "00008019;00000009": "\"Phew...\""
+  },{
+   "00008029;0000001C": "Aoi-san sighs during dinner."
+  },{
+   "00008065;00000018": "\"What's wrong, Aoi-san?\""
+  },{
+   "0000809B;00000019": "\"I do not feel too good.\""
+  },{
+   "000080D4;0000003A": "\"Really? Oh... you have a fever. You should rest tonight.\""
+  },{
+   "0000812C;00000018": "\"Yes... I think I will.\""
+  },{
+   "00008162;0000001E": "Aoi-san goes back to her room."
+  },{
+   "000081A9;00000027": "\"Oh... Aoi-san. Are you all right now?\""
+  },{
+   "00008202;00000046": "\"Yes... I am sorry for all the troubles I have caused. I am fine now.\""
+  },{
+   "00008268;0000003F": "\"That's great. It's no fun joking around when nobody stops me.\""
+  },{
+   "000082C5;00000016": "\"What does that mean?\""
+  },{
+   "000082FB;00000009": "\"Haha...\""
+  },{
+   "0000830B;0000002E": "Anyway... I'm just glad Aoi-san is well again."
+  },{
+   "0000836A;00000022": "I ask Sheryl at dinner that night."
+  },{
+   "000083AC;00000010": "\"Hey... Sheryl.\""
+  },{
+   "000083DD;00000012": "\"Yes? What is it?\""
+  },{
+   "0000840F;0000003A": "\"Weren't we supposed to meet at the church today to talk?\""
+  },{
+   "0000846A;00000006": "\"Yes.\""
+  },{
+   "00008490;00000034": "\"Didn't you have something important to talk about?\""
+  },{
+   "000084E5;0000004B": "\"Yes, it's so important, so... I wanted for you two to talk uninterrupted.\""
+  },{
+   "00008550;00000006": "\"Huh?\""
+  },{
+   "00008577;0000001F": "\"So were you two able to talk?\""
+  },{
+   "000085C8;00000015": "\"C-Could that be...?\""
+  },{
+   "000085FD;0000002A": "\"So... that was your intention all along?\""
+  },{
+   "00008649;00000038": "\"Yes. It seemed you two weren't getting along recently.\""
+  },{
+   "000086A1;00000021": "\"Huh? What are we talking about?\""
+  },{
+   "000086E3;0000000D": "\"What is it?\""
+  },{
+   "00008710;00000015": "\"No, it's nothing...\""
+  },{
+   "00008743;0000001A": "\"No... let's not hide it.\""
+  },{
+   "0000877D;00000016": "\"Huh!? A-Aoi-san...!?\""
+  },{
+   "000087B1;00000028": "\"...I would like to report to everyone.\""
+  },{
+   "000087F9;00000020": "\"What is it, acting all formal?\""
+  },{
+   "00008837;00000044": "\"... I, Hinata Aoi, have formally started going out with Cliff-san.\""
+  },{
+   "0000889B;00000008": "\"What!?\""
+  },{
+   "000088C3;00000013": "\"Ku-chan and Aoi!?\""
+  },{
+   "000088F6;00000022": "\"Yes. Well... a lot has happened.\""
+  },{
+   "0000893A;00000017": "\"I see... that's good.\""
+  },{
+   "00008958;00000032": "I think I should thank Sheryl the most about this."
+  },{
+   "000089AA;00000018": "\"So? Who asked who out?\""
+  },{
+   "000089E0;00000014": "\"Um... I asked him.\""
+  },{
+   "00008A14;00000024": "\"I see... Congratulations, you two.\""
+  },{
+   "00008A59;0000001A": "\"Congrats, Aoi and Cliff!\""
+  },{
+   "00008A91;00000033": "\"Thank you very much... I will end my report here.\""
+  },{
+   "00008AE4;00000045": "\"Hold on, we aren't done yet. I wanna ask you about a lot of things.\""
+  },{
+   "00008B49;00000024": "\"...I'd like to not stir things up.\""
+  },{
+   "00008B8D;0000005A": "\"What are you saying? Then here's the first question. How many children do you guys want?\""
+  },{
+   "00008C05;00000039": "\"Wha... Why does it have to jump there all of a sudden!?\""
+  },{
+   "00008C60;0000001B": "\"Did you two already kiss?\""
+  },{
+   "00008C99;00000017": "\"You too, Sheryl-san!?\""
+  },{
+   "00008CD0;00000009": "\"Haha...\""
+  },{
+   "00008CE0;00000042": "Getting a rough blessing from everyone, we feel great happiness..."
+  },{
+   "00008DAA;0000001A": "\"Wow... it smells good...\""
+  },{
+   "00008DE4;0000003A": "\"I worked hard and made a lot. Please eat up, Sheryl-san.\""
+  },{
+   "00008E25;00000034": "It seems Mena's happy to be able to cook for Sheryl."
+  },{
+   "00008E7A;0000005C": "\"I'm happy for your consideration... but I don't know if I'll be able to eat all of this...\""
+  },{
+   "00008EF6;00000020": "\"Oh... maybe I made too much...\""
+  },{
+   "00008F36;0000004D": "\"It's fine. Me-chan went far to make all this. Just eat a bit of everything.\""
+  },{
+   "00008FA3;0000001A": "\"I'm gonna eat a lot too!\""
+  },{
+   "00008FDD;00000021": "\"Try not to eat too much, Kitty.\""
+  },{
+   "0000901E;00000009": "\"Okay...\""
+  },{
+   "00009047;00000047": "\"Oh yeah... I haven't asked what you like and dislike yet, Sheryl-san.\""
+  },{
+   "000090AF;00000031": "\"I think I'll enjoy anything you make, Mena-san.\""
+  },{
+   "000090FE;0000002D": "\"...You should watch out not to get too fat.\""
+  },{
+   "0000914B;0000002B": "\"Aoi... don't be mean at a time like this.\""
+  },{
+   "00009194;0000003A": "\"I am not being mean. I am only speaking from experience.\""
+  },{
+   "000091EE;00000014": "\"...So you got fat?\""
+  },{
+   "00009220;00000023": "\"...Mena-san's meals are too good.\""
+  },{
+   "00009263;00000031": "\"Haha... I'll keep back on volume in the future.\""
+  },{
+   "0000929B;0000002C": "But a meal with so many people sure is good."
+  },{
+   "000092FA;00000028": "\"What kind of food do you like, Sherry?\""
+  },{
+   "00009357;00000021": "\"I like anything Mena-san makes.\""
+  },{
+   "00009398;0000000F": "\"Oh... thanks.\""
+  },{
+   "000093C6;0000002B": "\"Then... is there anything you cannot eat?\""
+  },{
+   "00009412;0000002A": "\"Let's see... I don't like fish too much.\""
+  },{
+   "00009443;00000027": "...Wait, today's dinner is cooked fish."
+  },{
+   "0000948A;00000026": "\"...You've cleaned the plate, though.\""
+  },{
+   "000094D1;00000018": "\"Yes, it was very good.\""
+  },{
+   "0000950A;00000012": "\"Yeah, it's good.\""
+  },{
+   "0000953C;0000002B": "\"Oh... thanks. It makes me glad I made it.\""
+  },{
+   "00009590;00000038": "\"Oh, it's been a while since we had the whatever-grill.\""
+  },{
+   "000095FB;00000026": "\"Yeah. Sheryl-san requested it today.\""
+  },{
+   "00009628;00000065": "This is a cuisine where you take the flour base, put whatever you like, and grill it on the iron pan."
+  },{
+   "000096AF;0000003F": "\"I saw everyone eat it before, and I wanted to eat it as well.\""
+  },{
+   "0000970E;0000001E": "\"This is my first time too...\""
+  },{
+   "0000974C;00000029": "\"Oh yeah. Kit wasn't here yet last time.\""
+  },{
+   "00009795;00000011": "\"It smells good.\""
+  },{
+   "000097C6;00000030": "\"I've got more, so eat to your heart's content.\""
+  },{
+   "00009817;00000027": "\"Thank you... oh, this is really good.\""
+  },{
+   "0000985E;00000051": "\"Wow, we got some mayo and dried bonito flakes as well this time. This is great.\""
+  },{
+   "000098CF;00000019": "\"Yeah, it's really good.\""
+  },{
+   "00009906;0000002B": "\"It looks like I will gain weight again...\""
+  },{
+   "00009951;00000038": "\"Aoi! Don't say that when we're eating something good!!\""
+  },{
+   "00009990;00000024": "But everyone had a second helping..."
+  },{
+   "000099DD;00000028": "\"Wow... today's dinner looks old style.\""
+  },{
+   "00009A24;0000001A": "\"Me-chan... what is this?\""
+  },{
+   "00009A71;00000016": "\"I don't know either.\""
+  },{
+   "00009AA7;00000006": "\"Huh?\""
+  },{
+   "00009ACC;00000023": "\"Sheryl-san did the cooking today.\""
+  },{
+   "00009B0E;0000002A": "\"Oh... then this was made by Sheryl- san?\""
+  },{
+   "00009B59;0000001F": "\"Yes... I hope you'll like it.\""
+  },{
+   "00009B98;00000016": "\"Wow... let's try it.\""
+  },{
+   "00009BB5;0000001B": "I try the food Sheryl made."
+  },{
+   "00009BF0;00000034": "\"This red soup's good. It's simple, but tasteful...\""
+  },{
+   "00009C45;0000006F": "\"I boiled some vegetables. It's tasty because all the vegetables are melted. It's red because of the tomatoes.\""
+  },{
+   "00009CD4;00000026": "\"You're right... this is really good.\""
+  },{
+   "00009D19;0000003A": "\"It looks simple, but a lot of time was put into it, huh?\""
+  },{
+   "00009D74;00000037": "\"It seems all the cuisines I know are based on stew...\""
+  },{
+   "00009DCB;00000049": "\"Oh... this is really good. Will you teach me how to make this sometime?\""
+  },{
+   "00009E35;00000017": "\"It'll be my pleasure.\""
+  },{
+   "00009E53;0000001A": "Sheryl is smiling happily."
+  },{
+   "00009EBA;0000001C": "\"Huh? Where's Sheryl today?\""
+  },{
+   "00009F08;00000055": "\"She said it will be a bother if she's around during the meal, so she's in her room.\""
+  },{
+   "00009F7D;00000060": "\"She doesn't need to be that reserved. It's the time for the whole house. She can just join us.\""
+  },{
+   "00009FFD;0000001C": "\"Then I'm gonna go get her!\""
+  },{
+   "0000A029;00000014": "Kitty runs upstairs."
+  },{
+   "0000A05D;00000018": "\"What's wrong, Aoi-san?\""
+  },{
+   "0000A093;00000015": "\"No... it's nothing.\""
+  },{
+   "0000A0AF;00000016": "Aoi-san eats silently."
+  },{
+   "0000A0C8;00000025": "Does she still dislike Sheryl-san...?"
+  },{
+   "0000A116;00000041": "\"Hey. What kind of food did you eat when you were alive, Sheryl?\""
+  },{
+   "0000A18C;00000030": "\"Let's see... I don't remember too much, but...\""
+  },{
+   "0000A1DD;00000024": "\"I think I had lots of boiled food.\""
+  },{
+   "0000A221;00000009": "\"Boiled?\""
+  },{
+   "0000A24B;00000023": "\"Yes, like vegetable soup, stew...\""
+  },{
+   "0000A28E;00000049": "\"It sounds like it's troublesome to make. Were you making them yourself?\""
+  },{
+   "0000A2F8;0000003F": "\"I don't know. I do somehow remember how to cook them, though.\""
+  },{
+   "0000A357;0000003A": "\"Oh, then will you teach me how? I want to try making it.\""
+  },{
+   "0000A3B2;0000001B": "\"Oh, it'll be my pleasure.\""
+  },{
+   "0000A3D4;00000046": "It looks like we'll be having vegetable soup for dinner sometime soon."
+  },{
+   "0000A444;0000000B": "\"Hey, Aoi.\""
+  },{
+   "0000A46E;00000036": "\"Don't talk with your mouth full. That's bad manners.\""
+  },{
+   "0000A4C4;00000007": "\"Okay.\""
+  },{
+   "0000A4EA;00000033": "\"Talk after your mouth is empty. So... what is it?\""
+  },{
+   "0000A53D;0000001C": "\"Um... you don't cook, Aoi?\""
+  },{
+   "0000A578;0000001E": "\"W-Well... I can cook, but...\""
+  },{
+   "0000A5B6;00000034": "\"Kit... the food she makes are too plain and light.\""
+  },{
+   "0000A60A;00000009": "\"Really?\""
+  },{
+   "0000A632;00000046": "\"Please call it light vegetarian cuisine. It is good for your health.\""
+  },{
+   "0000A698;0000002D": "\"But I don't think it'll be enough for me...\""
+  },{
+   "0000A6E5;0000002B": "\"Yup. That's exactly what I wanted to say.\""
+  },{
+   "0000A730;0000005A": "\"Well, we have an excellent cook called Me-chan now, so Aoi doesn't need to cook anymore.\""
+  },{
+   "0000A7A8;00000063": "\"...I believe my meals are better than the end of the century meals. At least my meals are edible.\""
+  },{
+   "0000A82B;00000014": "\"What did you say!?\""
+  },{
+   "0000A85F;00000017": "\"Hey now. Don't fight.\""
+  },{
+   "0000A895;00000057": "\"...If you're going to fight about such things, I'll go on a strike starting tomorrow.\""
+  },{
+   "0000A90C;00000019": "\"Oh, I'm sorry, Me-chan.\""
+  },{
+   "0000A943;00000011": "\"F-Forgive me...\""
+  },{
+   "0000A976;00000033": "\"Wow, so Mena-san's the most powerful person here.\""
+  },{
+   "0000A9C9;00000016": "\"You're strong, Mena.\""
+  },{
+   "0000A9FF;0000000D": "\"Cut it out.\""
+  },{
+   "0000AA13;00000033": "...The one who rules the kitchen rules the world..."
+  },{
+   "0000AA6F;0000003C": "\"Um... I'm sorry. Can we go eat at Hanna-san's place today?\""
+  },{
+   "0000AACB;0000002D": "\"That's rare. Did you screw up or something?\""
+  },{
+   "0000AB17;00000020": "\"I was too busy to go shopping.\""
+  },{
+   "0000AB56;00000027": "\"We don't have much in stock either...\""
+  },{
+   "0000AB9C;0000003A": "\"Well, I think it will be good to go out once in a while.\""
+  },{
+   "0000ABF6;00000039": "\"Yeah. To be honest, she's been inviting us to go there.\""
+  },{
+   "0000AC4F;00000018": "\"Yay! We're eating out!\""
+  },{
+   "0000AC88;0000001E": "\"Then I will be waiting here.\""
+  },{
+   "0000ACC6;0000001A": "\"Oh, you should come too.\""
+  },{
+   "0000ACFE;0000004D": "\"Please do not be absurd. They will kick us out if we bring a ghost with us.\""
+  },{
+   "0000AD6B;00000018": "\"...Ghosts aren't pets.\""
+  },{
+   "0000ADA4;0000003C": "\"There's nothing I can eat even if I go, so I'll wait here.\""
+  },{
+   "0000AE00;00000018": "\"I'm sorry, Sheryl-san.\""
+  },{
+   "0000AE39;00000028": "\"Please do not mind. See you all later.\""
+  },{
+   "0000AE68;00000031": "So we end up eating dinner at Hanna- san's place."
+  },{
+   "0000AEC4;00000016": "\"Thanks for the meal.\""
+  },{
+   "0000AEE1;00000046": "We have a meal for 6 starting today. Of course, the 6th one is Sheryl."
+  },{
+   "0000AF2A;0000003F": "Mena made a pretty big meal to celebrate the revival of Sheryl."
+  },{
+   "0000AF89;00000011": "\"You're welcome.\""
+  },{
+   "0000AFB2;00000015": "\"It was really good.\""
+  },{
+   "0000AFE8;00000031": "\"That's good, Sheryl. Now you can eat good food.\""
+  },{
+   "0000B03A;0000001A": "\"Yes... I'm really happy.\""
+  },{
+   "0000B074;0000002F": "\"You feel the happiness of being alive, right?\""
+  },{
+   "0000B0C4;0000000C": "\"Yes, very.\""
+  },{
+   "0000B0F0;0000002B": "\"Then... let's go feel the next happiness.\""
+  },{
+   "0000B13C;00000006": "\"Huh?\""
+  },{
+   "0000B161;00000019": "\"The usual event at 7PM.\""
+  },{
+   "0000B19B;00000008": "\"...Oh.\""
+  },{
+   "0000B1AA;00000028": "It's the usual event I can't join in on."
+  },{
+   "0000B1F1;00000020": "\"Please do not peek, Cliff-san.\""
+  },{
+   "0000B229;00000028": "\"I-I would never do anything like that!\""
+  },{
+   "0000B258;00000010": "Geez, Aoi-san..."
+  },{
+   "0000B2A2;00000031": "\"So this is the Academy bath...? It sure is big.\""
+  },{
+   "0000B2F4;00000041": "\"I don't know how many years it's been since I last took a bath.\""
+  },{
+   "0000B354;00000020": "\"...Please wash yourself, okay?\""
+  },{
+   "0000B395;0000000C": "\"...I know.\""
+  },{
+   "0000B3C2;00000016": "\"I'll wash your back!\""
+  },{
+   "0000B3F9;00000010": "\"Oh, thank you.\""
+  },{
+   "0000B429;00000027": "\"See... doesn't this feel like heaven?\""
+  },{
+   "0000B471;0000002B": "\"Yes... it feels like I'm getting revived.\""
+  },{
+   "0000B4BD;00000016": "\"You did get revived.\""
+  },{
+   "0000B4F4;00000013": "\"Oh, you're right.\""
+  },{
+   "0000B528;00000016": "\"But... it sure is...\""
+  },{
+   "0000B55E;0000000F": "\"Sure is what?\""
+  },{
+   "0000B58E;0000001D": "\"Living sure is wonderful...\""
+  },{
+   "0000B5CC;0000000B": "\"Isn't it?\""
+  },{
+   "0000B605;00000007": "\"Oh...\""
+  },{
+   "0000B62C;00000024": "\"Oh... I smell something real good.\""
+  },{
+   "0000B670;00000044": "\"Mena was pumped up, so she said to look forward to dinner tonight.\""
+  },{
+   "0000B6EC;0000002B": "\"I'm so happy. I can finally use the oven.\""
+  },{
+   "0000B736;0000001B": "\"What should I make first?\""
+  },{
+   "0000B77E;00000072": "\"The main dish will be the special beef steak. I'll make baked pie as a side... it's time for me to use the oven!\""
+  },{
+   "0000B806;00000042": "\"I'll light it, warm it up... oh, the meat's going to get burned.\""
+  },{
+   "0000B85E;00000022": "\"But... Fufufu, this sure is fun.\""
+  },{
+   "0000B896;0000003D": "\"What should I make next time? Gratin, doria, bread, cake...\""
+  },{
+   "0000B8E9;00000020": "\"Oh, making pizza might be fun.\""
+  },{
+   "0000B91F;0000002A": "\"Hey, Cliff! Can you get the plates out!?\""
+  },{
+   "0000B983;0000001D": "\"Mena-san sure sounds happy.\""
+  },{
+   "0000B9C0;00000030": "\"I'm already looking forward to dinner tonight.\""
+  },{
+   "0000BA0F;00000047": "\"Sorry to keep you all waiting. I made simple pie today as a test run.\""
+  },{
+   "0000BA75;0000001C": "\"Wow... it sure looks good.\""
+  },{
+   "0000BAB0;0000005B": "\"The oven's working pretty well. I'm going to make lots of other things starting tomorrow.\""
+  },{
+   "0000BB2B;00000026": "\"Yeah, I'll be looking forward to it.\""
+  },{
+   "0000BB58;0000002F": "Mena's happy and everyone can eat great food..."
+  },{
+   "0000BB8A;00000039": "It was expensive to fix it, but I'm glad we got it fixed."
+  },{
+   "0000BBEC;00000032": "We report what happened today at the dinner table."
+  },{
+   "0000BC21;0000002A": "...I guess nothing special happened today."
+  },{
+   "0000BC6D;0000003C": "\"Cliff-san... so what was the request from the weapon shop?\""
+  },{
+   "0000BCC9;00000007": "\"Oh...\""
+  },{
+   "0000BCD7;00000015": "I forgot to go there."
+  },{
+   "0000BD0C;0000001A": "\"Hey... Come on, Ku-chan.\""
+  },{
+   "0000BD46;0000000A": "\"Come on!\""
+  },{
+   "0000BD70;0000000E": "\"I'm sorry...\""
+  }]
+}

@@ -1,0 +1,26 @@
+True
+First	00000142
+Petting	0000275C
+Normal1	00002AB7
+Normal1_finish	00003023
+Normal2	000035D5
+Normal2_finish	0000382A
+Normal3	00003DB8
+mount1	0000458C
+mount1_finish	00004D14
+mount2	000053E7
+back1	00005D89
+back1_finish	000061EA
+back2	000069EB
+Top	00007255
+mustmp	00007276
+H_Sheryl_01	000072BE
+H_Sheryl_02	000072DE
+H_Sheryl_03	00007309
+H_Sheryl_04	000073E3
+set1	0000746D
+set2	00007537
+set3	000075A7
+test	00007606
+test_top	0000760C
+Memorial	0000761F

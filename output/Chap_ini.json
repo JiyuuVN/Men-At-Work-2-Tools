@@ -1,0 +1,550 @@
+{
+ "Headers": [
+  {
+   "string": "???",
+   "offsets": [
+    590,3338,5769,5827,5872,5926],
+   "size": 3
+  },{
+   "string": "Black-cloaked Man",
+   "offsets": [
+    938,1133,1319,1415,1541,1943,2493,2538,2612],
+   "size": 17
+  },{
+   "string": "Will",
+   "offsets": [
+    998,1487,1872,2049,2154,2325,2767,2820,2960,3038,3158],
+   "size": 4
+  },{
+   "string": "Iry",
+   "offsets": [
+    1240,1611,2089,2280,2412,2717,2886,3117,3237],
+   "size": 3
+  },{
+   "string": "Own voice",
+   "offsets": [
+    3428,3693,3930,3993,6136,6253,6348,6569,6722,6819,6963,7010,7248,8805,8992,9143,9226,9377,9532,9704,9904,11167,11346,11501,11673,11903,11977,12220,12542,13069],
+   "size": 9
+  },{
+   "string": "Woman",
+   "offsets": [
+    3653,3887,4083,6091,6194,6519,6676,6775,6890,7135,7182,7288,8855,9072,9306,9424,9619,9766,9853,9972,11275,11393,11588,11735,11822,12062,12113,12289,12370,12481,12593,12638],
+   "size": 5
+  },{
+   "string": "Cliff",
+   "offsets": [
+    4190,4258,4413,4716,4808,5125,5632,7556,7700,7967,8164,8604,10084,10187,10360,10512,10797,10901,11039,12940,14256,14444,14579,14684,14852,14988,15370,15597,15862,16006],
+   "size": 5
+  },{
+   "string": "Sheryl",
+   "offsets": [
+    4324,4994,5343,10135,10263,10316,10415,10573,10750,10862,10974,11112,12829,13141,13272,13407,13472,13745,13886,13996,14045,14206,14366,14537,14655,14792,14940,15099,15320,15506,15681,15769,15969,16061],
+   "size": 6
+  },{
+   "string": "Lucy",
+   "offsets": [
+    4513,4595,4643,4895,5073,5297,5501],
+   "size": 4
+  },{
+   "string": "Aoi",
+   "offsets": [
+    5178],
+   "size": 3
+  },{
+   "string": "Mena",
+   "offsets": [
+    7469,7619,7846,7920,8055,8227,8366,8495,15909],
+   "size": 4
+  },{
+   "string": "Kitty",
+   "offsets": [
+    7806,8124,8270,8310,8571],
+   "size": 5
+  },{
+   "string": "Carl",
+   "offsets": [
+    13229,13343,13602,13668,13830,13949],
+   "size": 4
+  }],
+ "PlayerInput": [],
+ "Dialogs": [
+  {
+   "000001F9;00000010": "I see a dream..."
+  },{
+   "00000215;0000002B": "I can't recall what kind of a dream it was."
+  },{
+   "0000025E;0000000B": "\".........\""
+  },{
+   "00000279;00000028": "I feel like someone was calling my name."
+  },{
+   "000002AD;0000001E": "It was familiar and painful..."
+  },{
+   "000002D7;00000014": "And it was so sad..."
+  },{
+   "00000320;00000012": "Then... I wake up."
+  },{
+   "00000335;00000024": "My cheeks are wet for some reason..."
+  },{
+   "000003C8;00000010": "\"A Hunter, huh?\""
+  },{
+   "000003F7;00000068": "\"It's unfair attacking me by surprise like that. My head would've been off if I was an ordinary Hunter.\""
+  },{
+   "0000048B;0000003F": "\"I attacked with such intention. It seems you're quite strong.\""
+  },{
+   "000004E8;00000031": "\"So you must be the killer that attacks Hunters!\""
+  },{
+   "00000545;0000003D": "\"Do not call me a killer. I am merely 'hunting' the Hunters.\""
+  },{
+   "000005A5;0000001C": "\"As you guys hunt monsters.\""
+  },{
+   "000005E0;00000017": "\"Will you hunt me too?\""
+  },{
+   "00000623;0000001A": "\"Such an impudent talk...\""
+  },{
+   "0000065B;00000021": "\"We're coming! Prepare yourself!\""
+  },{
+   "00000761;00000028": "\"Heh... you're living up to your boast.\""
+  },{
+   "000007B5;0000003E": "\"Ha... You, on the other hand, aren't as strong as you boast.\""
+  },{
+   "00000812;00000008": "\"Kuh...\""
+  },{
+   "00000839;00000023": "\"Sensei!? Your arm is bleeding...!\""
+  },{
+   "0000087B;0000005E": "（Iry... he's really strong. I won't be able to win unless I'm willing to give up my life...）"
+  },{
+   "000008F8;0000000F": "（Sensei...!?）"
+  },{
+   "00000926;00000037": "（If the worst happens... I'll leave the rest to you.）"
+  },{
+   "0000097C;0000001F": "\"I... I won't let that happen!\""
+  },{
+   "000009DB;0000000A": "\"...Hmm!?\""
+  },{
+   "00000A08;0000001E": "\"This is Mihairoff's force...\""
+  },{
+   "00000A52;00000017": "\"So they were alive...\""
+  },{
+   "00000AAD;00000014": "\"H-He disappeared!?\""
+  },{
+   "00000AE0;00000016": "\"Damn... he ran away.\""
+  },{
+   "00000B15;00000022": "\"...Well, more like he let us go.\""
+  },{
+   "00000B56;0000002C": "\"Sensei! We have to treat your arm quickly!\""
+  },{
+   "00000BA1;0000002F": "\"Yeah... But he sure is a troublesome enemy...\""
+  },{
+   "00000BEF;0000002F": "\"He's not only strong... He can also teleport.\""
+  },{
+   "00000C3D;0000000B": "\"Sensei...\""
+  },{
+   "00000C67;0000002F": "\"There's nothing we can do now. Let's regroup.\""
+  },{
+   "00000CB5;00000009": "\"Okay...\""
+  },{
+   "00000CE9;00000013": "I'm dreaming again."
+  },{
+   "00000D1A;0000000B": "\".........\""
+  },{
+   "00000D35;00000021": "Someone is calling my name again."
+  },{
+   "00000D7A;0000001A": "\"This is my true feeling.\""
+  },{
+   "00000DA4;00000029": "My voice? But it feels a bit different..."
+  },{
+   "00000DD9;0000005E": "It feels like I'm listening to someone else's conversation even though it's me that's talking."
+  },{
+   "00000E57;00000008": "\"But...\""
+  },{
+   "00000E83;0000003A": "\"Yes... your mother will not approve of our relationship.\""
+  },{
+   "00000ED5;0000001F": "\"We are enemies to begin with.\""
+  },{
+   "00000F04;0000001D": "Enemies? What does that mean?"
+  },{
+   "00000F41;0000000B": "\"But I...!\""
+  },{
+   "00000F70;0000001B": "\"I know... I love you too.\""
+  },{
+   "00000FAF;00000036": "\"That fact will not change. No matter what happens...\""
+  },{
+   "00001005;0000000E": "\"Thank you...\""
+  },{
+   "00001048;0000000D": "...I wake up."
+  },{
+   "00001079;00000024": "\"Why am I dreaming of such a thing?\""
+  },{
+   "000010BD;00000013": "\"'I love you, huh?\""
+  },{
+   "000010F7;00000041": "\"What? Oh, it troubles me if you say such a thing so suddenly...\""
+  },{
+   "00001158;00000011": "\"Whoa!? Sheryl!?\""
+  },{
+   "00001170;00000022": "Sheryl is in my room and blushing."
+  },{
+   "000011B2;00000032": "\"What? You guys are loud so early in the morning.\""
+  },{
+   "00001204;00000010": "\"Oh! T-This is!\""
+  },{
+   "00001234;00000033": "\"Ohhh. I didn't think you were like that, Ku-chan.\""
+  },{
+   "00001287;0000003C": "\"H-Hold on! You two must be misunderstanding the situation!\""
+  },{
+   "000012E3;0000002D": "\"First of all, why is Sheryl-san in my room?\""
+  },{
+   "00001330;00000044": "\"Ohh... coming into a man's room in the morning. You sure are bold.\""
+  },{
+   "00001395;0000002D": "\"No... I just thought someone called for me.\""
+  },{
+   "000013E2;0000001E": "\"You called for her, Ku-chan?\""
+  },{
+   "00001420;00000011": "\"I just woke up.\""
+  },{
+   "0000144A;00000029": "\"Sheryl-san! Sheryl-san! Where are you!?\""
+  },{
+   "0000147A;00000028": "I hear Aoi-san's voice from the hallway."
+  },{
+   "000014C2;0000000F": "\"Oh, it's Aoi.\""
+  },{
+   "000014F2;00000015": "\"Then I'll be going.\""
+  },{
+   "0000151B;00000027": "Sheryl goes through the wall and exits."
+  },{
+   "00001545;0000001C": "So that's how she came in..."
+  },{
+   "0000158E;00000027": "\"Maaaan... I was hoping for something.\""
+  },{
+   "000015C4;00000033": "Saying so, Lucy goes out while scratching her head."
+  },{
+   "0000161B;0000001B": "\"Man... I'm tired already.\""
+  },{
+   "0000163D;00000013": "I get up to change."
+  },{
+   "00001699;00000025": "\"Filandia, huh? It has been a while.\""
+  },{
+   "000016D3;00000018": "\"That's where she is...\""
+  },{
+   "00001700;00000021": "\"I will find her no matter what.\""
+  },{
+   "00001736;00000026": "\"I need the power to fulfill my goal.\""
+  },{
+   "000017A1;0000001C": "Oh... it's that dream again."
+  },{
+   "000017DD;0000000D": "\"Run... why?\""
+  },{
+   "0000180E;00000016": "\"It's dangerous here.\""
+  },{
+   "00001844;0000001B": "\"But the war is already...\""
+  },{
+   "00001884;0000003A": "\"That's right. There are no more enemies for your mother.\""
+  },{
+   "000018E3;0000004A": "\"The Drakul family, the Cyphon family... your mother destroyed them both.\""
+  },{
+   "0000193D;0000002C": "Drakul, Cyphon? What are they talking about?"
+  },{
+   "00001989;00000012": "\"But mother is...\""
+  },{
+   "000019BF;00000047": "\"That's why. They think it's a chance now that your mother is wounded.\""
+  },{
+   "00001A26;0000000A": "\"They...?\""
+  },{
+   "00001A58;00000011": "\"...The Hunters.\""
+  },{
+   "00001A89;0000000C": "\"No way...!\""
+  },{
+   "00001AB9;0000001F": "\"So, quick! Or else, I will...\""
+  },{
+   "00001AFC;00000029": "\"...You will come kill me and my mother?\""
+  },{
+   "00001B4A;0000000A": "\"......!!\""
+  },{
+   "00001B79;00000054": "\"No!! Your mother quit being human just like Drakul and Cyphon. But you're still...\""
+  },{
+   "00001BF1;0000000F": "\"...Thank you.\""
+  },{
+   "00001C20;00000022": "\"But I can't abandon my mother...\""
+  },{
+   "00001C66;00000004": "\"!!\""
+  },{
+   "00001C8A;0000000D": "\"Good bye...\""
+  },{
+   "00001CA7;00000010": "No... don't go!!"
+  },{
+   "00001CEC;00000006": "......"
+  },{
+   "00001CF5;00000024": "I think I saw a strange dream again."
+  },{
+   "00001D3E;00000041": "\"Come on... How long are you going to sleep!? Breakfast's ready!\""
+  },{
+   "00001D9F;00000016": "\"Oh... morning, Mena.\""
+  },{
+   "00001DD4;0000003B": "\"Go eat already. I can't clean up until you finish eating.\""
+  },{
+   "00001E2F;00000028": "\"Oh, I'm sorry. I'll get up right away.\""
+  },{
+   "00001E90;00000008": "\"Cliff!\""
+  },{
+   "00001EB7;0000002B": "\"See. Even Kitty-chan came to wake you up.\""
+  },{
+   "00001F01;00000019": "\"Cliff Winston! Wake up!\""
+  },{
+   "00001F3A;0000002F": "\"Don't call me like the tutor we had before...\""
+  },{
+   "00001F88;00000025": "\"It's because you're not getting up.\""
+  },{
+   "00001FCE;00000011": "\"What's Winston?\""
+  },{
+   "00001FFF;00000016": "\"It's my family name.\""
+  },{
+   "00002034;0000000B": "\"Mine too.\""
+  },{
+   "00002060;00000007": "\"Oh...\""
+  },{
+   "00002088;00000018": "\"Mine is called Cyphon!\""
+  },{
+   "000020BF;00000028": "\"Oh. So your full name is Kitty Cyphon?\""
+  },{
+   "000020EE;0000000A": "Cyphon...?"
+  },{
+   "000020FB;00000026": "Huh? I think I heard that somewhere..."
+  },{
+   "00002140;0000002C": "\"Geez, Cliff. When are you going to get up?\""
+  },{
+   "0000218D;0000000A": "\"Get up!?\""
+  },{
+   "000021B7;00000020": "\"Sorry, I'll get up right away.\""
+  },{
+   "000021DE;0000002B": "I can't recall anything about it, though..."
+  },{
+   "0000222C;0000001C": "Oh, it's that dream again..."
+  },{
+   "00002258;00000006": "分の声"
+  },{
+   "0000227B;0000000E": "\"Why... why!?\""
+  },{
+   "000022A9;0000000B": "\".........\""
+  },{
+   "00002336;0000002C": "\"I thought you were prepared to run away...\""
+  },{
+   "00002382;00000027": "\"...This is something only you can do.\""
+  },{
+   "000023CD;00000020": "\"Why... why do such a thing...?\""
+  },{
+   "00002420;0000002C": "\"I thought you were prepared to run away...\""
+  },{
+   "0000246C;00000027": "\"...This is something only you can do.\""
+  },{
+   "000024B7;0000000B": "\"B-But...!\""
+  },{
+   "000024E2;0000004C": "\"The Hunters are attacking this castle tomorrow, right? With you as well...\""
+  },{
+   "00002552;00000033": "\"That's right! That's why I came here to save you.\""
+  },{
+   "000025A5;00000035": "\"I didn't mind if I was going to be killed by you...\""
+  },{
+   "000025FE;0000001A": "\"I can't do such a thing!\""
+  },{
+   "00002638;00000037": "\"I know. But I don't want to be killed by anyone else.\""
+  },{
+   "0000268F;00000013": "\"So before that...\""
+  },{
+   "000026C6;00000020": "\"Why... why do such a thing...?\""
+  },{
+   "00002706;0000000E": "\"I'm sorry...\""
+  },{
+   "00002747;0000000E": "...In the air?"
+  },{
+   "00002780;00000009": "\"Whoaaa!\""
+  },{
+   "000027AA;0000001C": "\"Cliff-san!? What's wrong!?\""
+  },{
+   "000027E7;00000022": "\"S-Sheryl!! W-Where's your body!?\""
+  },{
+   "0000282A;00000006": "\"Huh?\""
+  },{
+   "0000285F;00000014": "\"Oh... I forgot it.\""
+  },{
+   "00002893;0000000E": "\"F-Forgot it?\""
+  },{
+   "000028C2;00000049": "\"Since I was away from my body for so long, I think this is a habit now.\""
+  },{
+   "0000292B;00000014": "\"Are you all right?\""
+  },{
+   "00002960;00000022": "\"Yes... Oh, but I'll go back now.\""
+  },{
+   "0000299B;00000023": "Sheryl disappears into the ceiling."
+  },{
+   "000029C5;0000002B": "I hear footsteps in the hallway after that."
+  },{
+   "00002A11;00000017": "\"Excuse me for that...\""
+  },{
+   "00002A48;00000018": "\"Oh man, you scared me.\""
+  },{
+   "00002A81;0000000F": "\"...I'm sorry.\""
+  },{
+   "00002AB0;00000020": "\"But I'm glad you're alive now.\""
+  },{
+   "00002AF1;00000029": "\"Yes... this is like a dream for me too.\""
+  },{
+   "00002B3A;00000020": "\"But this isn't a dream, right?\""
+  },{
+   "00002B7B;0000001B": "\"No. So you should get up.\""
+  },{
+   "00002BB5;00000048": "\"I thought you were prepared to run away... so why ask me to seal you!?\""
+  },{
+   "00002C1D;00000027": "\"...This is something only you can do.\""
+  },{
+   "00002C68;0000000B": "\"B-But...!\""
+  },{
+   "00002C93;0000004C": "\"The Hunters are attacking this castle tomorrow, right? With you as well...\""
+  },{
+   "00002D03;00000033": "\"That's right! That's why I came here to save you.\""
+  },{
+   "00002D56;00000035": "\"I didn't mind if I was going to be killed by you...\""
+  },{
+   "00002DAF;0000001A": "\"I can't do such a thing!\""
+  },{
+   "00002DE9;00000037": "\"I know. But I don't want to be killed by anyone else.\""
+  },{
+   "00002E40;00000031": "\"So before that... Seal me along with my mother.\""
+  },{
+   "00002E95;00000026": "\"Why do you have to do such a thing!?\""
+  },{
+   "00002EDF;00000031": "\"If your mother dies, then everything will be...\""
+  },{
+   "00002F30;00000013": "\"I can't do that!!\""
+  },{
+   "00002F63;0000004B": "\"Anyone that tries to kill my mother is my enemy, even if it may be you...\""
+  },{
+   "00002FD2;00000021": "\"You...! You'd go that far to...\""
+  },{
+   "00003013;00000031": "\"I'm sorry. I will sleep forever with my mother.\""
+  },{
+   "00003064;0000003B": "\"That's my atonement for not being able to stop my mother.\""
+  },{
+   "000030D3;0000001D": "\"Please... if you love me...\""
+  },{
+   "00003114;0000000F": "\"I love you...\""
+  },{
+   "00003143;00000009": "\"Me too.\""
+  },{
+   "00003170;00000017": "\"I always loved you...\""
+  },{
+   "000031BC;00000009": "........."
+  },{
+   "000031C8;00000017": "What was that dream...?"
+  },{
+   "000031E2;00000023": "It's painful and it hurts my heart."
+  },{
+   "00003230;00000033": "\"You should wake up, Cliff-san. Breakfast's ready.\""
+  },{
+   "0000326A;00000013": "Sheryl wakes me up."
+  },{
+   "000032A7;00000015": "\"*Yawn* I'll get up.\""
+  },{
+   "000032C3;00000017": "I get up after yawning."
+  },{
+   "000032DD;00000021": "It's just a dream. It's gotta be."
+  },{
+   "00003323;0000000A": "\"Sheryl!!\""
+  },{
+   "00003368;00000036": "\"It's been a while since you called me by name, Carl.\""
+  },{
+   "000033BE;0000000B": "\"Sheryl...\""
+  },{
+   "000033EB;00000025": "\"Don't be sad. I'm not going to die.\""
+  },{
+   "00003430;00000020": "\"But I won't ever be able to...\""
+  },{
+   "00003472;0000001F": "\"I was glad to have met you...\""
+  },{
+   "000034B3;00000060": "\"You were kind to me, the one who everybody feared as the witch's daughter and ran away from...\""
+  },{
+   "00003533;00000022": "\"I, I'm... also glad I met you...\""
+  },{
+   "00003575;0000002D": "\"So why... why do we have to part like this?\""
+  },{
+   "000035C4;00000033": "\"Don't cry, Carl. I was happy. I was really happy.\""
+  },{
+   "00003617;00000018": "\"Me too... but, but...!\""
+  },{
+   "00003651;0000001D": "\"Please... If you love me...\""
+  },{
+   "0000368E;0000000F": "\"I love you...\""
+  },{
+   "000036BF;0000000B": "\"Me too...\""
+  },{
+   "000036F0;00000017": "\"I always loved you...\""
+  },{
+   "00003749;0000001D": "When I wake up, it's morning."
+  },{
+   "00003791;0000001A": "\"Good morning, Cliff-san.\""
+  },{
+   "000037CB;00000016": "\"Oh, morning, Sheryl.\""
+  },{
+   "000037E8;0000001E": "Sheryl is floating in the air."
+  },{
+   "00003831;00000036": "\"Mena-san is calling for you since breakfast's ready.\""
+  },{
+   "00003887;0000000F": "\"Oh... okay...\""
+  },{
+   "0000389D;0000001E": "Sheryl is smiling like always."
+  },{
+   "000038DC;00000012": "\"...What's wrong?\""
+  },{
+   "0000390E;00000023": "\"You were in the dream I just saw.\""
+  },{
+   "00003952;00000005": "\"Me?\""
+  },{
+   "00003977;00000043": "\"Yeah... but you were so serious that it seemed like someone else.\""
+  },{
+   "000039DB;00000024": "\"I'm sorry for not being serious...\""
+  },{
+   "00003A1F;0000002F": "\"Oh! No, that's not what I meant... I'm sorry!\""
+  },{
+   "00003A6F;00000018": "\"Fufu, I'm just joking.\""
+  },{
+   "00003AA7;00000009": "\"Auhh...\""
+  },{
+   "00003AC8;00000025": "\"But we were lovers in that dream...\""
+  },{
+   "00003B0E;00000011": "\"Oh... r-really?\""
+  },{
+   "00003B26;0000000F": "Sheryl blushes."
+  },{
+   "00003B3C;00000042": "I'm happy how she got her body back and how we can talk like this."
+  },{
+   "00003B81;00000045": "...But I grow uneasy remembering that the dream ended with a parting."
+  },{
+   "00003BEB;0000001A": "\"What's wrong, Cliff-san?\""
+  },{
+   "00003C25;00000021": "\"...Oh, sorry. Breakfast, right?\""
+  },{
+   "00003C4D;00000037": "I force a smile on my face so she won't feel my unease."
+  },{
+   "00003CA5;00000043": "\"Yes. I'm looking forward to it since I haven't eaten for a while.\""
+  },{
+   "00003D08;0000002B": "\"Oh yeah... Are you used to your body now?\""
+  },{
+   "00003D54;00000037": "\"It's a bit heavy, but I'm glad I can feel the ground.\""
+  },{
+   "00003DAC;0000001D": "\"And I can also touch you...\""
+  },{
+   "00003DD0;00000021": "She blushes as she holds my hand."
+  },{
+   "00003E11;0000000B": "\"Me too...\""
+  },{
+   "00003E36;0000001D": "\"Cliff! Are you not up yet!?\""
+  },{
+   "00003E74;00000009": "\"Oh, no.\""
+  },{
+   "00003EA1;0000000E": "\"...Let's go.\""
+  },{
+   "00003ED0;00000006": "\"Yes.\""
+  },{
+   "00003EEF;00000026": "I head to the dining room with Sheryl."
+  },{
+   "00003F18;00000020": "With our hands still together..."
+  }]
+}

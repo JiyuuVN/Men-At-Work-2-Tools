@@ -1,0 +1,102 @@
+{
+ "Headers": [
+  {
+   "string": "Mena",
+   "offsets": [
+    1529],
+   "size": 4
+  },{
+   "string": "Cliff",
+   "offsets": [
+    1589,1941,2228,2305,2443],
+   "size": 5
+  },{
+   "string": "???",
+   "offsets": [
+    1896],
+   "size": 3
+  },{
+   "string": "Man",
+   "offsets": [
+    2028,2163,2372,2483],
+   "size": 3
+  }],
+ "PlayerInput": [
+  {
+   "offset": 224,
+   "sizes": [
+    13,13],
+   "choices": [
+    "View Prologue","Skip Prologue"]
+  }],
+ "Dialogs": [
+  {
+   "000000B7;0000001E": "Welcome to the Hunter Academy!"
+  },{
+   "0000014A;0000000F": "...My dad died."
+  },{
+   "0000015C;00000030": "I was told his caravan was attacked by monsters."
+  },{
+   "0000018F;00000057": "My dad's name is Murdock Winston. He was a really well-known merchant around this area."
+  },{
+   "000001E9;0000005E": "He wasn't usually around because of business, but he would always bring me back unusual gifts."
+  },{
+   "0000024A;0000004A": "...So I believed he would come back with a smile and a gift like always..."
+  },{
+   "00000297;00000031": "But my dad... I couldn't believe it right away..."
+  },{
+   "000002CB;00000056": "He looked a bit scary, and even though he was strict about manners, he was a kind dad."
+  },{
+   "0000033C;00000032": "Now he's dead... That alone was sad news for us..."
+  },{
+   "00000371;00000043": "The sadder thing is that we never got the chance to grieve over it."
+  },{
+   "000003B7;0000003C": "It seems Dad borrowed a lot of money for this business deal."
+  },{
+   "000003F6;00000039": "But there is no way he can repay it now that he's dead..."
+  },{
+   "00000432;00000063": "So of course, that would mean paying it back with the land and house that was used as collateral..."
+  },{
+   "00000498;00000045": "We were kicked out of our house, still in shock over our dad's death."
+  },{
+   "000004E0;00000051": "The house, the land, and the furniture... everything was taken to repay the debt."
+  },{
+   "00000534;0000005E": "The calculations were completed last week,and only a small amount of money was returned to us."
+  },{
+   "00000595;0000005F": "We built a grave for our dad with that money. An empty grave with only his name carved on it..."
+  },{
+   "0000060A;00000012": "\"...We should go.\""
+  },{
+   "00000623;0000000D": "Mena murmurs."
+  },{
+   "00000647;0000000A": "\"...Yeah.\""
+  },{
+   "00000658;00000014": "I reply back to her."
+  },{
+   "00000673;0000005C": "...We have nowhere in particular to go. But we have to look for a job and a place to live..."
+  },{
+   "000006D2;00000043": "...I don't know if we'll find them that easily, but we have to try."
+  },{
+   "00000718;00000036": "We have to live with just the two of us from now on..."
+  },{
+   "00000751;00000012": "Just Mena and I..."
+  },{
+   "00000778;00000018": "\"Are you Cliff Winston?\""
+  },{
+   "000007B0;00000005": "\"Eh?\""
+  },{
+   "000007FC;00000072": "\"I give you my condolences for what happened. I'm sorry it took me so long to come here after receiving the news.\""
+  },{
+   "00000883;0000002C": "\"We were in the city of Liguria, after all.\""
+  },{
+   "000008CF;0000002D": "\"...You're late if you were after any debts.\""
+  },{
+   "00000913;0000002C": "\"Everything has already been taken from us.\""
+  },{
+   "00000954;00000032": "\"That's not what I came for. I came to scout you.\""
+  },{
+   "000009A6;00000008": "\"Scout?\""
+  },{
+   "000009C3;0000002D": "\"Cliff-kun... Would you like to be a Hunter?\""
+  }]
+}

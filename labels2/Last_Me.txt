@@ -1,0 +1,10 @@
+True
+enter	0000005E
+WeiserBattle	000006B3
+battle	00001121
+run	0000116E
+lose	00001239
+Life0	0000145C
+win	0000155F
+Load	00001845
+ret	00001865

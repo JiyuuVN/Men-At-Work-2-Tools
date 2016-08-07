@@ -1,0 +1,7 @@
+True
+Top	0000003A
+normal	000019DA
+rich	00001BC8
+poor	00001DFC
+tmp	0000202F
+test	000021EA

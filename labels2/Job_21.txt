@@ -1,0 +1,8 @@
+True
+Opening01	0000005D
+Opening02	00000281
+Dinner	0000046C
+Agree	000022BE
+Job_out	0000277E
+Church	00002B34
+After_Dinner	00004790

@@ -1,0 +1,2335 @@
+{
+ "Headers": [
+  {
+   "string": "Cliff",
+   "offsets": [
+    396,529,627,674,772,895,1130,1235,1340,1436,1650,1774,1876,1983,2059,2090,2345,2532,2704,2794,3668,3758,3877,4041,4342,4950,6263,6411,6533,6627,6880,7352,7822,7946,8100,8211,8489,9143,9624,9748,10182,10364,10864,11085,11411,11674,12339,12379,12699,12831,12934,13013,13138,13364,13457,13782,14105,14959,15152,16471,16549,16695,16989,17176,18083,18584,18685,18783,18929,19011,19400,19546,20013,20343,20464,20559,21702,22466,22622,22752,22930,23060,23219,23312,23450,23570,24929,26503,26719,26980,27044,27744,28062,28698,29343,29679,30307,30717,31310,31652,32064,32331,33871,33965,34072,34370,34529,34623,34866,35154,35269,35319,35618,35994,36110,36272,36363,36848,37132,37744,38367,38580,38708,39047,39170,40057,41774,42020,42305,42466,42969,43161,43344,43759,44312,44498,44706,45572,45669,45979,46599,47573,48369,48988,49337,49891,50176,50259,50745,50998,51105,52508,53383,53581,53790,54703,55752,56856,57652,59182,63120,63645,64015,64395],
+   "size": 5
+  },{
+   "string": "Mena",
+   "offsets": [
+    477,581,739,866,977,1095,1183,1285,1401,1493,1564,1711,1845,1912,2015,2205,2270,2433,2634,2754,2841,3227,3366,3523,3723,3800,3936,3965,4073,4310,4416,4678,4759,4902,4989,5115,5393,5575,5864,6139,6298,6369,6471,6586,6761,7038,7398,7535,7757,7863,8151,8277,8405,8564,8689,8883,9013,9200,9402,9495,9691,9806,10010,10145,10253,10299,10413,10467,10681,10797,10915,11139,11599,11758,11955,12602,12760,12984,13090,13217,13278,13414,13833,14178,15030,15070,15246,15917,16063,16521,16602,16784,16960,17027,17233,17518,17760,18028,18130,18396,18639,18721,18823,18974,19164,19356,19468,19620,19781,19840,19961,20071,20256,20409,20520,20616,20647,20780,21065,21238,21400,21560,21738,21876,21976,22103,22277,22573,22681,22811,22870,22962,23153,23257,23369,23419,23520,23659,23755,23942,24171,24291,24440,24656,24843,24980,25321,25622,25792,25956,26094,26284,26430,26666,26762,26952,27099,27188,27256,27363,27464,27648,27798,27862,28017,28150,28263,28493,28645,28832,29018,29116,29209,29391,29579,29724,29885,30058,30350,30476,30615,30781,30929,31257,31431,31541,31838,32170,32368,32643,32791,33000,33266,33582,33935,34038,34118,34248,34402,34567,34766,34953,35103,35231,35366,35538,35674,35870,36055,36140,36302,36403,36569,36741,36774,36896,37102,37261,37476,37553,37812,37962,38119,38229,38324,38756,38809,39002,39214,39243,39542,39775,40142,40354,40468,40780,40868,41148,41351,41417,41599,41652,41823,42223,42385,42512,42680,42829,43495,43718,43821,43950,44152,44554,44748,44794,45004,45175,45335,45516,45609,45723,45918,46049,46190,46359,46482,46637,46762,46967,47196,47329,47465,47788,47944,48227,48442,48614,48753,48896,49047,49261,49480,49553,49698,50223,50320,50523,50705,50865,51049,51282,51497,51649,51901,52116,52334,52447,52802,52902,53043,53215,53334,53519,53745,53900,54022,54205,54314,54452,54505,54802,54943,55180,55417,55607,55696,56060,56224,56452,56588,56702,56816,56971,57256,57378,57478,57601,57736,57855,58023,58153,58386,58547,58710,58934,59119,59301,59685,60014,60250,60345,60486,60604,60821,61043,61153,61419,61660,61913,61973,62344,62498,62754,63348,65008,65219,65367,65540],
+   "size": 4
+  },{
+   "string": "Lucy",
+   "offsets": [
+    13542,13632,13696,13879,14041,14250,14328,14452,14579,14811],
+   "size": 4
+  },{
+   "string": "Kitty",
+   "offsets": [
+    13586,13970,14381,14523,14626,58328,59500,59599,59779,60549,60753,62146,62247,62460,62611,62859,63034,63196,63433,63538,63695,63870,64245,64334,64443,64523,64764,64892,65117,65402,65581],
+   "size": 5
+  },{
+   "string": "Aoi",
+   "offsets": [
+    14757],
+   "size": 3
+  }],
+ "PlayerInput": [
+  {
+   "offset": 61788,
+   "sizes": [
+    26,17],
+   "choices": [
+    "I let it out inside of her","I pull myself out"]
+  },{
+   "offset": 65986,
+   "sizes": [
+    25,17,18],
+   "choices": [
+    "Move slowly until the end","Start moving fast","Have her go on top"]
+  },{
+   "offset": 66220,
+   "sizes": [
+    17,18,29],
+   "choices": [
+    "Lay on top of her","Have her go on top","Have her do it with her mouth"]
+  },{
+   "offset": 66361,
+   "sizes": [
+    25,17],
+   "choices": [
+    "Move slowly until the end","Start moving fast"]
+  }],
+ "Dialogs": [
+  {
+   "000001A7;0000000C": "\"C-Come in!\""
+  },{
+   "000001EE;0000001E": "\"Cliff.. are you still awake?\""
+  },{
+   "0000022C;0000000B": "\"Y-Yeah...\""
+  },{
+   "00000256;00000018": "\"Good... Can I come in?\""
+  },{
+   "0000028E;0000000B": "\"Y-Yeah...\""
+  },{
+   "000002BD;00000018": "\"Mena... this is weird.\""
+  },{
+   "000002F4;0000000B": "\"What...!?\""
+  },{
+   "0000031F;00000035": "\"I don't think it's like us to be acting this stiff.\""
+  },{
+   "00000373;00000007": "\"Oh...\""
+  },{
+   "0000039A;00000029": "\"You usually come in without knocking...\""
+  },{
+   "000003E2;0000004D": "\"Come on... you were stiff too. You were only saying 'yeah' all these times.\""
+  },{
+   "00000458;00000007": "\"Ha...\""
+  },{
+   "00000485;0000000C": "\"Ahahahaha.\""
+  },{
+   "000004B0;0000001E": "\"Geez. What were we doing...?\""
+  },{
+   "000004EE;00000009": "\"Really.\""
+  },{
+   "00000516;00000021": "\"Hey, can I get in bed with you?\""
+  },{
+   "00000557;00000014": "\"Oh. P-Please do...\""
+  },{
+   "0000058A;0000000D": "\"See! Again!\""
+  },{
+   "000005B7;00000010": "\"Oh... S-Sorry!\""
+  },{
+   "000005E6;00000028": "\"Geez... and you brought this up too...\""
+  },{
+   "0000062D;00000040": "\"And why do you have your clothes on when you're going to bed!?\""
+  },{
+   "0000068D;00000014": "\"Well, t-this is...\""
+  },{
+   "000006C0;00000029": "\"Geez... Should I take them off for you?\""
+  },{
+   "00000709;0000000C": "\"H-Hold on!\""
+  },{
+   "00000746;00000009": "\"Sigh...\""
+  },{
+   "00000766;0000000D": "\"What is it?\""
+  },{
+   "00000789;00000031": "\"Oh... I'm just thinking how I feel safest here.\""
+  },{
+   "000007D1;00000009": "\"Really?\""
+  },{
+   "000007F0;00000016": "\"Yeah. How about you?\""
+  },{
+   "0000081D;00000008": "\"Hmm...\""
+  },{
+   "0000083C;0000005C": "\"I don't know how to put this. I feel relieved... well, I'm just happy when you're with me.\""
+  },{
+   "000008AE;0000002B": "\"Me too... I like being with you the most.\""
+  },{
+   "000008EF;00000035": "\"Why didn't I realize such a simple thing until now?\""
+  },{
+   "0000093B;00000041": "\"We were together since we were small, so it became too natural.\""
+  },{
+   "00000992;0000004D": "\"I see... So happiness is something you can't see when you get used to it...\""
+  },{
+   "000009F6;0000004F": "\"But I think being together right now is different from being together before.\""
+  },{
+   "00000A5B;00000009": "\"Yeah...\""
+  },{
+   "00000A6B;00000020": "We hold hands under the blanket."
+  },{
+   "00000AA2;0000001B": "\"Your hands are so warm...\""
+  },{
+   "00000AD3;0000000E": "\"Yours too...\""
+  },{
+   "00000AFC;00000018": "\"Hey... Can I kiss you?\""
+  },{
+   "00000B2A;00000014": "\"Yeah... all right.\""
+  },{
+   "00000B69;00000035": "We kiss while embracing each other under one blanket."
+  },{
+   "00000BA1;00000041": "Pressing our lips together, we enjoy each other's soft sensation."
+  },{
+   "00000BE5;00000048": "I nib on her lips, and our tongues naturally entangle around each other."
+  },{
+   "00000C30;00000020": "We indulge ourselves in kissing."
+  },{
+   "00000C53;00000043": "My hand naturally move up to Mena's breasts and gently stroke them."
+  },{
+   "00000CAC;00000007": "\"Hm...\""
+  },{
+   "00000CBA;00000027": "A sigh comes out from our pressed lips."
+  },{
+   "00000CE4;0000003D": "My heart is pounding because of the softtness of her breasts."
+  },{
+   "00000D37;00000015": "\"I'll take it off...\""
+  },{
+   "00000D66;00000058": "When Mena finishes unbuttoning, I see the white skin and the color pink at the very tip."
+  },{
+   "00000DD4;0000001D": "\"Don't look at it so much...\""
+  },{
+   "00000DF8;00000016": "But I can't look away."
+  },{
+   "00000E11;0000003E": "I don't know if there's anything more beautiful in this world."
+  },{
+   "00000E66;00000020": "\"Mena... you're so beautiful...\""
+  },{
+   "00000E9C;0000000D": "\"... Really?\""
+  },{
+   "00000EC0;00000013": "\"Yeah... really...\""
+  },{
+   "00000EE9;00000037": "\"I'm happy... Mine is small compared to like Lucy-san.\""
+  },{
+   "00000F37;00000024": "\"That's not true! It's so pretty...\""
+  },{
+   "00000F71;00000007": "\"No...\""
+  },{
+   "00000F8E;00000036": "\"... Hey, my heart's beating really fast right now...\""
+  },{
+   "00000FDB;00000009": "\"Really?\""
+  },{
+   "00000FFA;00000017": "\"Yeah, check it out...\""
+  },{
+   "00001018;00000037": "I gently place my hands directly on her soft breasts..."
+  },{
+   "00001052;0000003A": "I touch them gently, but my fingers easily sink into them."
+  },{
+   "0000108F;00000019": "Breasts are this soft...?"
+  },{
+   "000010AB;00000026": "And I feel her heart beating under it."
+  },{
+   "000010E7;0000000A": "\"... See?\""
+  },{
+   "00001108;00000033": "\"Y-Yeah. It's pounding fast... and it's so soft...\""
+  },{
+   "00001151;00000029": "\"Yeah... you can do whatever you want...\""
+  },{
+   "00001181;0000003A": "But it seems like it'll break if I put any strength on it."
+  },{
+   "000011BE;00000050": "Seeing that I can't move my hands, Mena takes her hands and puts them over mine."
+  },{
+   "00001211;00000030": "The weight causes my hands to sink in even more."
+  },{
+   "00001257;0000000A": "\"Cliff...\""
+  },{
+   "00001268;0000002A": "I touch them like I'm gently patting them."
+  },{
+   "000012A8;00000007": "\"Mm...\""
+  },{
+   "000012B6;0000001D": "Good. she seems to like it..."
+  },{
+   "000012DA;00000047": "I try putting a bit of power into my hands. It changes shape instantly."
+  },{
+   "00001337;0000001A": "\"Don't be too hard, okay?\""
+  },{
+   "00001368;00000010": "\"Oh... Sorry...\""
+  },{
+   "0000138E;0000001A": "\"No. It's fine right now.\""
+  },{
+   "000013AF;00000047": "But I still caress her gently and carefully. That's good enough for me."
+  },{
+   "0000140C;00000009": "\"Phew...\""
+  },{
+   "0000141C;00000030": "Mena let's out a hot sigh. Does it feel good...?"
+  },{
+   "0000144F;00000037": "I move my hands and move my head to one of the breasts."
+  },{
+   "00001489;00000029": "I see the pink perk right in front of me."
+  },{
+   "000014B5;00000040": "It's a bit perked up and it looks like it has a mind of its own."
+  },{
+   "000014F8;00000014": "I put my lips on it."
+  },{
+   "00001522;00000007": "\"Oh...\""
+  },{
+   "00001530;0000001F": "Mena lets out a surprised gasp."
+  },{
+   "00001552;00000023": "I suck on her nipples, ignoring it."
+  },{
+   "00001578;0000004A": "The sensation of the nipple is great and I frantically suck on her nipple."
+  },{
+   "000015D8;0000000A": "\"Cliff...\""
+  },{
+   "000015E9;00000066": "Mena gently wraps her arms around my head. My head sinks even further and I can smell her sweet scent."
+  },{
+   "00001652;00000052": "As I do so, her nipples start to harden and perk up, as if being sucked out by me."
+  },{
+   "000016A7;0000003E": "I lick it, roll it around on my tongue, and suck on it loudly."
+  },{
+   "000016F9;0000000E": "\"Hm... haa...\""
+  },{
+   "0000170E;00000026": "I can tell she's breathing harder now."
+  },{
+   "00001737;00000054": "I take my mouth off and look at it. It's shining with my saliva and looks beautiful."
+  },{
+   "0000178E;00000068": "I go to the other breast and start sucking again while I pinch and nibble the other one with my fingers."
+  },{
+   "0000180C;00000019": "\"Oh... Cliff... Cliff...\""
+  },{
+   "0000182C;00000046": "Mena hugs my head. My head sinks into her breasts and I can't breathe."
+  },{
+   "00001889;0000000C": "\"Hm... hmm!\""
+  },{
+   "000018AB;00000013": "\"Kya... I'm sorry!\""
+  },{
+   "000018C5;00000017": "She quickly lets me go."
+  },{
+   "000018F2;00000014": "\"Are you all right?\""
+  },{
+   "0000191D;00000025": "\"Yeah... I was just a bit surprised.\""
+  },{
+   "00001958;00000028": "\"I'm sorry... It was just a reaction...\""
+  },{
+   "00001997;0000001E": "\"Um... Did it feel that good?\""
+  },{
+   "000019CB;00000013": "\"............Yeah.\""
+  },{
+   "000019F5;00000010": "\"That's good...\""
+  },{
+   "00001A0C;0000001C": "Mena blushes and looks away."
+  },{
+   "00001A2B;00000039": "I sink my face into her breasts again as if to protest..."
+  },{
+   "00001A7A;00000008": "\"Aha...\""
+  },{
+   "00001A89;00000027": "But I don't have much composure either."
+  },{
+   "00001AB3;00000024": "My penis is so hard that it hurts..."
+  },{
+   "00001AF2;00000009": "\"Mena...\""
+  },{
+   "00001B02;0000002F": "I lift my face up and stare at her in her eyes."
+  },{
+   "00001B34;00000045": "Mena stares back... and as if knowing what I'm thinking of, she nods."
+  },{
+   "00001B8F;00000015": "\"All right, Cliff...\""
+  },{
+   "00001BB7;0000001F": "I slowly take off her clothing."
+  },{
+   "00001BD9;00000054": "When I try to take off her pants, Mena lifts her hips up so that it's easier for me."
+  },{
+   "00001C30;00000045": "I timidly reach out for the area covered only by her small underwear."
+  },{
+   "00001C78;0000003B": "I'm surprised at how hot it is and how wet it is already..."
+  },{
+   "00001CCA;00000017": "\"Mena, it's amazing...\""
+  },{
+   "00001CF7;00000007": "\"No...\""
+  },{
+   "00001D05;00000022": "She hides her face with her hands."
+  },{
+   "00001D2A;00000040": "I take off her wet panties and place myself in between her legs."
+  },{
+   "00001D80;00000007": "\"Ah...\""
+  },{
+   "00001D9E;00000021": "My erect self touches her crotch."
+  },{
+   "00001DC2;00000056": "I feel her soft and wet pussy on my tip. I almost let it out just from that sensation."
+  },{
+   "00001E1B;0000002D": "I breathe deeply and try to calm myself down."
+  },{
+   "00001E5E;0000002B": "\"Is it yours that's touching me right now?\""
+  },{
+   "00001EA0;00000012": "\"Yeah... it is...\""
+  },{
+   "00001EC8;0000003D": "\"It's so hot and hard... is this really coming inside of me?\""
+  },{
+   "00001F1C;0000000F": "\"I think so...\""
+  },{
+   "00001F32;0000002E": "I realise how stupid I sounded after I say it."
+  },{
+   "00001F63;0000003C": "But I'm able to calm myself down thanks to the conversation."
+  },{
+   "00001FB6;0000001C": "\"Tell me if it hurts, okay?\""
+  },{
+   "00001FE8;00000026": "\"Yeah... but it's fine. I'll bare it.\""
+  },{
+   "00002025;0000002B": "\"But I don't want to make it hard for you.\""
+  },{
+   "00002066;0000006A": "\"No... no matter how painful it may be, it's more painful for me not to be able to be connected with you.\""
+  },{
+   "000020E6;0000001C": "\"So don't worry about me...\""
+  },{
+   "00002109;0000001B": "I can't hold it any longer."
+  },{
+   "0000213B;00000034": "\"All right. But I'll try to be as kind as possible.\""
+  },{
+   "00002185;0000000F": "\"Okay, thanks.\""
+  },{
+   "0000219B;00000020": "I slowly put my weight onto her."
+  },{
+   "000021BE;0000002E": "But it only slips on her skin and won't go in."
+  },{
+   "00002202;00000015": "\"Cliff... Down more.\""
+  },{
+   "0000221E;00000043": "Mena whispers by my ear. I grab my penis and readjust its position."
+  },{
+   "00002264;0000004A": "While moving it down her hot skin, I feel a place where it sinks in a bit."
+  },{
+   "000022C4;00000010": "\"Oh, t-there...\""
+  },{
+   "000022DB;00000039": "When I push in a bit, my tip is surrounded by a hot wall."
+  },{
+   "00002346;00000007": "\"Hn...\""
+  },{
+   "00002354;0000005E": "But I can't go in any further. And to add, the entrance is squeezing me and not let me go out."
+  },{
+   "000023C9;00000010": "\"Mena... Relax.\""
+  },{
+   "00002401;0000001D": "\"Yeah. I'm trying to, but...\""
+  },{
+   "00002425;00000074": "I can't help it, so I push in a bit harder. I push myself through her walls and I'm surrounded more and more by her."
+  },{
+   "000024CB;0000000E": "\"Uhh... Nn...\""
+  },{
+   "000024E0;00000032": "Seeing Mena's face contort in pain, I stop moving."
+  },{
+   "00002528;00000015": "\"Hm... Haa... Haa...\""
+  },{
+   "00002544;0000004F": "I don't know if she's been holding her breath or not, but she's breathing hard."
+  },{
+   "000025AA;0000001A": "\"Mena, are you all right?\""
+  },{
+   "000025EC;00000023": "\"Haa... haa... Yeah... I'm fine...\""
+  },{
+   "00002626;00000023": "\"But you look like you're in pain.\""
+  },{
+   "0000265F;0000001A": "\"I'm really fine... so...\""
+  },{
+   "00002680;00000027": "Seeing her like that, I get determined."
+  },{
+   "000026AA;0000004F": "To make the pain be a short one, I grab her legs and push in with all my might."
+  },{
+   "0000272B;00000010": "\"Hm! ...Ahhhh!!\""
+  },{
+   "00002742;00000045": "After I go through a narrow place by force, my stomach hits her butt."
+  },{
+   "0000278A;00000012": "I feel her warmth."
+  },{
+   "000027B2;0000000F": "\"Haa... haa...\""
+  },{
+   "000027D8;0000001E": "\"Mena... it's all the way in.\""
+  },{
+   "0000281E;00000018": "\"Yeah... I can feel it.\""
+  },{
+   "0000284C;0000002B": "\"It's amazing... it's deep inside of me...\""
+  },{
+   "0000288E;0000001A": "\"Sorry... It hurt, right?\""
+  },{
+   "000028BE;00000020": "\"A bit... But I'm more happy...\""
+  },{
+   "000028F4;0000002B": "\"I'm really happy that I'm one with you...\""
+  },{
+   "00002926;00000057": "Her eyes are teared up from pain or happiness. Seeing it makes my eyes tear up as well."
+  },{
+   "00002980;00000034": "We're one right now. This happiness is uncomparable."
+  },{
+   "000029CA;00000028": "\"Hey... you can do what you want now...\""
+  },{
+   "000029F9;0000002F": "She must've calmed down as she calls out to me."
+  },{
+   "00002A3E;0000002D": "\"Men need to finish off to feel good, right?\""
+  },{
+   "00002A82;0000001C": "\"Yeah, that's right, but...\""
+  },{
+   "00002AB4;00000028": "\"I'm fine... I want you to feel good...\""
+  },{
+   "00002AE3;00000065": "How was I able to meet Mena? I thank from the bottom of my heart to whoever brought me this fortune ."
+  },{
+   "00002B5F;0000001F": "\"All right. I'll end it quick.\""
+  },{
+   "00002B94;00000009": "\"Okay...\""
+  },{
+   "00002BA4;0000003C": "I'm not caring for Mena. I'm really almost about to explode."
+  },{
+   "00002BE3;00000042": "This is my first time, but Mena is embracing me warmly and kindly."
+  },{
+   "00002C28;00000066": "It's so tight that I can barely move. Even without me moving, her walls move and urge me to ejaculate."
+  },{
+   "00002CA5;00000011": "\"Mena... Mena...\""
+  },{
+   "00002CBD;00000071": "I can't hold it and move my hips. But her walls suck on me and won't let go. As result, I move around inside her."
+  },{
+   "00002D60;00000012": "\"Ahh! Amazing...!\""
+  },{
+   "00002D79;0000001C": "And the end arrives quickly."
+  },{
+   "00002DAC;0000000C": "\"U... Ugh!!\""
+  },{
+   "00002DBF;0000002A": "I push my penis all the way inside of her."
+  },{
+   "00002DFF;0000000B": "\"Ahhhhhh!!\""
+  },{
+   "00002E11;0000002F": "As soon as the tip hits something, I ejaculate."
+  },{
+   "00002E5D;0000002D": "I convulse as I cum over and over inside her."
+  },{
+   "00002EC4;00000016": "\"Oh... it's so hot...\""
+  },{
+   "00002EE1;0000001A": "Mena let's out a hot sigh."
+  },{
+   "00002EFE;00000063": "The ejaculation does not stop easily and I keep shaking my hips until I get the last drop into her."
+  },{
+   "00002F64;00000016": "Then, I fall onto her."
+  },{
+   "00002F8D;00000035": "I bury my face in her soft breasts as I fall alsleep."
+  },{
+   "00002FC5;00000038": "I feel her warmth and her hand kindly patting my head..."
+  },{
+   "0000304E;00000008": "\"......\""
+  },{
+   "00003076;00000007": "\"Mena?\""
+  },{
+   "00003084;00000022": "I jump up and take off my blanket."
+  },{
+   "000030A9;0000001A": "Mena's nowhere to be seen."
+  },{
+   "000030C6;00000046": "But there's a stain of blood on the sheet to prove last night's event."
+  },{
+   "0000314B;0000001A": "\"Oh, good morning, Cliff!\""
+  },{
+   "0000316C;0000002A": "Mena's preparing breakfast in the kitchen."
+  },{
+   "000031B6;00000014": "\"Oh... m-morning...\""
+  },{
+   "000031E9;00000031": "\"Breakfast's almost ready, so go wash your face.\""
+  },{
+   "0000323A;0000000B": "\"O-Okay...\""
+  },{
+   "0000324C;00000035": "Crap... I'm so embarrassed that I can't look at Mena."
+  },{
+   "000032A1;00000009": "\"M-Mena.\""
+  },{
+   "000032C9;00000007": "\"What?\""
+  },{
+   "000032F0;00000024": "\"Um...I'm sorry aboutr yesterday...\""
+  },{
+   "00003333;0000001A": "\"Why are you apologizing?\""
+  },{
+   "0000336D;00000026": "\"Because I made it painful for you...\""
+  },{
+   "000033B2;0000001E": "\"Geez... Why do you think so?\""
+  },{
+   "000033EF;00000040": "\"It's the other way around. I've never felt happier in my life.\""
+  },{
+   "0000344F;00000009": "\"Mena...\""
+  },{
+   "00003477;00000015": "\"Thank you, Cliff...\""
+  },{
+   "000034AC;00000027": "\"N-No, It's me who has to thank you...\""
+  },{
+   "000034F7;0000000D": "\"I'm hungry!\""
+  },{
+   "00003524;0000000D": "\"I'm hungry!\""
+  },{
+   "00003551;00000020": "\"Oh? You're early too, Ku-chan.\""
+  },{
+   "00003591;00000040": "\"What are you two doing, looking at each other like newly-weds?\""
+  },{
+   "000035F1;0000000A": "\"W-What!?\""
+  },{
+   "0000361A;0000000E": "\"S-Stop it...\""
+  },{
+   "00003648;0000003C": "\"What? You're still not over that marriage practice we did?\""
+  },{
+   "000036A4;00000026": "\"Yeah! They're like a married couple!\""
+  },{
+   "000036EA;0000002A": "\"Why don't you guys get married for real?\""
+  },{
+   "00003734;00000020": "\"W-What are you saying...? I...\""
+  },{
+   "00003773;00000028": "\"That's too embarrassing... Lucy-san...\""
+  },{
+   "000037BB;00000020": "\"Huh? Your reactions are weird.\""
+  },{
+   "00003809;00000016": "\"......Oh, crap......\""
+  },{
+   "0000383F;00000026": "\"What's wrong? Why is everyone quiet?\""
+  },{
+   "00003885;00000028": "\"I'm so sorry! Sorry to bother you two!\""
+  },{
+   "000038CD;00000017": "\"Huh? What's going on?\""
+  },{
+   "00003904;00000010": "\"Let's go, Kit!\""
+  },{
+   "00003934;00000019": "\"What!? What about food?\""
+  },{
+   "0000396A;00000036": "Lucy goes out the dining room, pulling Kitty with her."
+  },{
+   "000039B5;00000021": "\"Huh? Breakfast's not ready yet?\""
+  },{
+   "000039EC;00000041": "\"No. It looks like it'll take a while, so let's come back later.\""
+  },{
+   "00003A34;00000036": "I can hear Lucy turning Aoi-san away down the hallway."
+  },{
+   "00003A8A;0000001E": "\"I guess they found out, huh?\""
+  },{
+   "00003AC7;00000009": "\"Yeah...\""
+  },{
+   "00003AEF;0000003C": "\"But I don't think they know we were together last night...\""
+  },{
+   "00003B4B;00000035": "\"What should we do? Should we tell them about us...?\""
+  },{
+   "00003B9F;0000000A": "\"...Yeah!\""
+  },{
+   "00003BB4;00000037": "We end up announcing our relationship during breakfast."
+  },{
+   "00003BEE;0000004C": "Their reaction was really big. Everyone was stunned, but they celebrated us."
+  },{
+   "00003C3D;0000006D": "But there were some panic when Lucy said \"you guys sleep in the same room\" and Aoi-san said \"it's too early\"."
+  },{
+   "00003CAD;00000023": "I don't know what our future holds."
+  },{
+   "00003CD3;00000037": "But I'm sure I'm beginning to see a clear road ahead..."
+  },{
+   "00003D37;00000047": "As soon as we go into bed, we embrace each other and kiss passionately."
+  },{
+   "00003D81;0000003D": "I think we're absorbed in each other's body since that night."
+  },{
+   "00003DD4;0000002F": "I never get bored of touching Mena's breasts..."
+  },{
+   "00003E06;00000022": "And I touch them and suck on them."
+  },{
+   "00003E3E;0000000E": "\"Hm... Ahh...\""
+  },{
+   "00003E53;0000002B": "Every time I lick the pink tip, Mena moans."
+  },{
+   "00003E81;00000039": "I keep caressing her, wanting to hear more of that voice."
+  },{
+   "00003ED0;0000001A": "\"Ahh... Cliff... Cliff...\""
+  },{
+   "00003EF1;00000032": "She holds my head and calls out my name by my ear."
+  },{
+   "00003F26;00000039": "I suck on her breast and feel the other one with my hand."
+  },{
+   "00003F62;00000047": "As I do so, she holds my head and pushes me into her breasts even more."
+  },{
+   "00003FB0;00000028": "My hand caressing her breasts move down."
+  },{
+   "00003FDB;00000043": "I move my hand down her skin and slowly move it towards her crotch."
+  },{
+   "00004021;00000031": "The instant I touch the wet spot, her body jumps."
+  },{
+   "00004069;0000001B": "\"Sorry. Are you all right?\""
+  },{
+   "0000409A;00000006": "\"Huh?\""
+  },{
+   "000040B7;0000001E": "\"Um... Does it still hurt...?\""
+  },{
+   "000040EB;00000047": "\"Yeah... It was hurting right after we did it, but it's all right now.\""
+  },{
+   "00004149;00000042": "\"Tell me if it hurts, okay? I'll try to be as gentle as possible.\""
+  },{
+   "000041A1;00000011": "\"Okay, thanks...\""
+  },{
+   "000041B9;00000047": "I slip my hand under her panties and slide my finger onto her hot area."
+  },{
+   "00004203;00000038": "I slide past her bush and slide my finger down her slit."
+  },{
+   "00004251;00000007": "\"Hm...\""
+  },{
+   "0000426F;0000000F": "\"Does it hurt?\""
+  },{
+   "00004294;0000002C": "\"No... it's just that I'm not used to it...\""
+  },{
+   "000042C7;0000004C": "...It must certainly feel strange to have someone else's body inside of you."
+  },{
+   "0000432A;00000022": "\"I'm going to put it in slowly...\""
+  },{
+   "00004362;00000009": "\"Okay...\""
+  },{
+   "00004372;00000027": "I slowly insert my finger at her reply."
+  },{
+   "0000439C;00000044": "It's so tight that even my middle finger alone has trouble going in."
+  },{
+   "000043E3;00000029": "Did I really put my thing in here before?"
+  },{
+   "0000440F;0000005A": "I give up trying to put it in any farther and circle my finger around to rub on her walls."
+  },{
+   "0000447F;00000008": "\"Hmm...\""
+  },{
+   "0000448E;0000003E": "I circle my fingers to try to get her pussy to get used to it."
+  },{
+   "000044CF;00000053": "After a while, her love juice starts to flow out and starts to drip down my finger."
+  },{
+   "00004525;00000036": "With the help of it, I slowly insert my finger deeper."
+  },{
+   "00004571;0000000E": "\"Ah... ahh...\""
+  },{
+   "00004586;00000050": "She doesn't sound like she's in pain. Rather, she sounds like she's in pleasure."
+  },{
+   "000045D9;00000040": "I insert one more finger and move it so they go inside in turns."
+  },{
+   "0000461C;0000004B": "As I start to hear wet sounds at my finger movements, Mena covers her face."
+  },{
+   "0000467D;00000021": "\"Ahh, This is so embarrassing...\""
+  },{
+   "000046B5;00000018": "\"It's not... it's cute.\""
+  },{
+   "000046E3;00000016": "\"No, please, Cliff...\""
+  },{
+   "00004700;00000038": "I can tell right away that she can't hold it any longer."
+  },{
+   "0000473B;00000036": "I take out my finger and put my body between her legs."
+  },{
+   "0000477C;0000002B": "I grab my penis and put it at her entrance."
+  },{
+   "000047AA;0000001D": "Then, I slowly insert myself."
+  },{
+   "000047ED;0000001B": "\"Ohhh... It's coming in...\""
+  },{
+   "0000480F;0000004F": "There isn't as much resistance as the first time as my penis is fully inserted."
+  },{
+   "00004861;00000032": "But her pussy is still tight and squeezes me hard."
+  },{
+   "000048AA;00000020": "\"Is it all right? Does it hurt?\""
+  },{
+   "000048E0;00000018": "\"No, it doesn't hurt...\""
+  },{
+   "0000490F;0000000D": "\"Can I move?\""
+  },{
+   "00004932;00000028": "\"Yeah... do what you want to do, Cliff.\""
+  },{
+   "00004971;00000011": "\"I'll be slow...\""
+  },{
+   "00004998;00000009": "\"Okay...\""
+  },{
+   "000049A8;00000044": "I slowly pull out, but her walls are squeezing me and pulling me in."
+  },{
+   "00004A03;00000016": "\"Mena... relax a bit.\""
+  },{
+   "00004A2F;0000000F": "\"I think I am.\""
+  },{
+   "00004A55;00000009": "\"Then...\""
+  },{
+   "00004A65;00000056": "I give up trying to move it out, and I start moving back and forth in small movements."
+  },{
+   "00004AED;00000016": "\"Hmm... Hm, hm, hm...\""
+  },{
+   "00004B0A;0000004B": "Mena moans as I move. I keep moving as if rubbing my stomach on her crotch."
+  },{
+   "00004B58;0000003F": "Her love juice flows out between us and makes dirty wet sounds."
+  },{
+   "00004BAD;00000016": "\"Ah, ah, ah... Cliff.\""
+  },{
+   "00004BDA;0000001B": "\"Mena... how does it feel?\""
+  },{
+   "00004C1D;00000038": "\"Yours is moving inside... hm, it feels... ah, weird...\""
+  },{
+   "00004C6C;00000033": "\"Yeah... you're entangling me and it feels good...\""
+  },{
+   "00004CB5;00000036": "\"I'm glad... ahh, I think... I feel good too... hm...\""
+  },{
+   "00004CF2;0000004E": "I feel good that she's starting to feel pleasure, and I decide to move faster."
+  },{
+   "00004D56;0000000D": "\"Eh... What?\""
+  },{
+   "00004D91;00000009": "\"N-No...\""
+  },{
+   "00004DA1;00000053": "I raise one of her legs, hold it in place, and put my body between her spread legs."
+  },{
+   "00004E0A;0000001E": "\"Nha... no... it's so deep...\""
+  },{
+   "00004E3F;00000023": "\"I can put it in deeper like this.\""
+  },{
+   "00004E78;0000002B": "\"Yeah... I can tell it's in all the way...\""
+  },{
+   "00004EAA;00000055": "My tip is feeling her deepest part of her. I twist my hips as if to rub myself on it."
+  },{
+   "00004F31;0000000A": "\"Nhaaa...\""
+  },{
+   "00004F42;00000030": "Seeing her face contort in pain, I quickly stop."
+  },{
+   "00004F89;00000019": "\"I'm sorry. Did it hurt?\""
+  },{
+   "00004FCA;00000021": "\"Yeah... not too deep, please...\""
+  },{
+   "00005002;00000021": "\"Sorry... I'll be more gentle...\""
+  },{
+   "00005039;00000011": "\"No, I'm fine...\""
+  },{
+   "00005061;00000022": "\"But I want you to feel good too.\""
+  },{
+   "00005099;00000009": "\"Thanks.\""
+  },{
+   "000050B8;00000029": "\"Um... it feels good when you move slow.\""
+  },{
+   "000050E8;00000019": "Mena says while blushing."
+  },{
+   "00005104;00000023": "I nod, then slowly pull myself out."
+  },{
+   "0000513D;00000007": "\"Hm...\""
+  },{
+   "0000514B;0000005C": "It's not as tight as before. It's still tight, but her juice is making the movements easier."
+  },{
+   "000051AA;00000057": "When I take out everything but the tip, her love juice flows out and drips down my leg."
+  },{
+   "00005204;00000040": "The part that's outside is cold. I push myself in to get warmth."
+  },{
+   "0000525A;00000019": "\"Oh... it's coming in...\""
+  },{
+   "0000527A;00000033": "I slowly insert myself, then slowly pull out again."
+  },{
+   "000052B0;00000041": "I leave the tip, then push in again... I repeat it over and over."
+  },{
+   "00005307;0000001A": "\"Ohh... Cliff... Cliff...\""
+  },{
+   "00005328;0000006B": "My brain's numbing just from listening to her voice. It may be because of that, but I start to move faster."
+  },{
+   "000053A9;00000019": "\"Ah, ah, ahn, ah, ahh...\""
+  },{
+   "000053C9;00000031": "Using the leg I'm holding, I push myself in fast."
+  },{
+   "000053FD;00000036": "The sound of our body hitting echoes through the room."
+  },{
+   "00005449;00000029": "\"Hm, it's good... Cliff... Ah, ah, ah...\""
+  },{
+   "00005479;00000048": "Mena's moving her hips too. The feeling of unity drives me to my finish."
+  },{
+   "000054D8;0000000D": "\"Mena, Mena!\""
+  },{
+   "000054FB;0000001B": "\"Ahh... Cliff, Cliiiiiiff!\""
+  },{
+   "0000551D;00000052": "My hips won't stop now. Every time I push in, her juice splashes onto her stomach."
+  },{
+   "00005585;00000014": "\"Ah... nn... ahh...\""
+  },{
+   "000055A0;00000033": "As my hips hit her, her breasts bounce up and down."
+  },{
+   "000055E9;0000000C": "\"I... I...!\""
+  },{
+   "000055FC;00000056": "Her walls move and tightens on me. At that instant, I push myself deep and release it."
+  },{
+   "00005668;0000000A": "\"Ahhhhh!!\""
+  },{
+   "000056A5;00000027": "My cum splashes over and over into her."
+  },{
+   "000056CF;00000031": "As I do so, her walls convulse and tighten on me."
+  },{
+   "00005716;0000000E": "\"Ahh... ah...\""
+  },{
+   "0000572B;00000040": "She arches her head back and her breasts shake as she convulses."
+  },{
+   "0000576E;00000034": "As I let out the last drop, I fall onto her breasts."
+  },{
+   "000057D4;0000001B": "\"Mena... did it feel good?\""
+  },{
+   "000057F6;00000032": "After a while, we're cuddling while holding hands."
+  },{
+   "0000583E;0000001B": "\"Yeah... it was amazing...\""
+  },{
+   "00005870;00000024": "\"I'm glad it felt good for you too.\""
+  },{
+   "000058AA;00000031": "\"Thanks... it's because you were gentle with me.\""
+  },{
+   "000058F2;00000024": "\"But I couldn't hold it in the end.\""
+  },{
+   "0000592C;00000025": "\"But that was the same for me too...\""
+  },{
+   "00005967;00000026": "\"But we can love each other more now.\""
+  },{
+   "000059A4;00000009": "\"Yeah...\""
+  },{
+   "000059C3;0000004C": "\"I want to be with you more. I want to sleep, have sex, wake up together...\""
+  },{
+   "00005A26;0000000C": "\"Yeah.Yeah.\""
+  },{
+   "00005A39;00000033": "My heart's thumping, hearing such a thing from her."
+  },{
+   "00005A82;0000002C": "\"Eat together, then sleep together again...\""
+  },{
+   "00005AC5;0000000F": "\"Mena... um...\""
+  },{
+   "00005AEA;00000021": "\"...And together, we'll... what?\""
+  },{
+   "00005B22;00000022": "\"U-Um... I want to do it again...\""
+  },{
+   "00005B5A;00000008": "\"Eh...?\""
+  },{
+   "00005B69;0000000D": "Mena blushes."
+  },{
+   "00005B8C;00000009": "\"Okay...\""
+  },{
+   "00005BAC;0000002F": "\"No, you don't have to if you don't want to...\""
+  },{
+   "00005BF1;0000001C": "\"No... I want to do more...\""
+  },{
+   "00005C24;00000006": "\"Huh?\""
+  },{
+   "00005C31;00000035": "When I look into her eyes, her face turns bright red."
+  },{
+   "00005C7C;00000011": "\"...You idiot...\""
+  },{
+   "00005C94;00000032": "I find her really cute and embrace her in my arms."
+  },{
+   "00005CDC;00000007": "\"Oh...\""
+  },{
+   "00005CEA;00000033": "She puts her arm around my back and hugs me gently."
+  },{
+   "00005D45;0000003C": "I caress Mena's breasts, lick her nipples, and suck on them."
+  },{
+   "00005D97;00000008": "\"Hmm...\""
+  },{
+   "00005DA6;00000027": "She moans every time and numbs my head."
+  },{
+   "00005DD0;00000042": "After I suck on her pink nipples again, I start to kiss downwards."
+  },{
+   "00005E15;00000051": "I enjoy her softness and smoothness with my tongue as I move down to her stomach."
+  },{
+   "00005E7C;00000010": "\"Cliff... no...\""
+  },{
+   "00005E93;0000004B": "In contrast to her line, Mena embraces my head closer to her as I kiss her."
+  },{
+   "00005EF4;0000003C": "\"If you give me a hickey, people will see it in the bath...\""
+  },{
+   "00005F37;0000003C": "That might be bad. I stop sucking and start licking instead."
+  },{
+   "00005F89;0000000E": "\"Ahn... no...\""
+  },{
+   "00005F9E;00000037": "Mena's stomach is shining with the traces of my tongue."
+  },{
+   "00005FD8;00000032": "My hands are feeling Mena's breasts while I do so."
+  },{
+   "0000600D;0000003E": "Every time I pinch her nipples, she twists her body and moans."
+  },{
+   "00006061;00000012": "\"Oh... that's...!\""
+  },{
+   "0000607A;0000003D": "Mena's pussy, covered with thin hair, is in front of my eyes."
+  },{
+   "000060BA;0000004C": "I kiss her stomach once more, spread her legs slowly, and put my face there."
+  },{
+   "0000611C;00000015": "\"No... don't look...\""
+  },{
+   "00006138;00000024": "But she won't try to close her legs."
+  },{
+   "00006173;0000001C": "\"Sorry, I want to see it...\""
+  },{
+   "000061A5;0000000E": "\"Ahh... no...\""
+  },{
+   "000061BA;00000056": "She must've given up, as she loosens her legs. I can see her wet, shining, pink pussy."
+  },{
+   "00006213;00000045": "It was only a slit when we took a bath together when we were young..."
+  },{
+   "0000625B;0000004D": "I get curious, put my fingers on both side of her pussy, and push them apart."
+  },{
+   "000062AB;00000039": "It makes a wet sound as it reveals her pink inside walls."
+  },{
+   "000062FA;00000019": "\"It's so embarrassing...\""
+  },{
+   "0000631A;0000002A": "I'm so excited that I can barely hear her."
+  },{
+   "00006347;00000046": "My eyes are stuck to her hole. It's flowing out her juice like a lake."
+  },{
+   "00006390;0000003D": "I'm sucked onto it and I kiss it. I can tell that she jumped."
+  },{
+   "000063D0;00000041": "I lick up and down. I put my tongue into her hole and push it in."
+  },{
+   "00006427;0000001F": "\"Ahhh... it's moving inside...\""
+  },{
+   "0000644D;00000047": "I want to move in deeper, so I stick my tongue out and push my face in."
+  },{
+   "00006497;00000024": "I'm suffocating with Mena's smell..."
+  },{
+   "000064D1;00000014": "\"Cliff... I... I...\""
+  },{
+   "000064EC;00000058": "I can't hold it any longer. I take my wet face off and place myself in between her legs."
+  },{
+   "00006575;0000000E": "\"Hmm... ah...\""
+  },{
+   "0000658A;0000001A": "My face is on her pussy..."
+  },{
+   "000065A7;00000042": "I keep drinking from the fountain hidden between her slender legs."
+  },{
+   "000065FF;00000020": "\"Don't make... so much noise...\""
+  },{
+   "00006626;00000044": "I don't care if it makes noise. I keep licking up and down her slit."
+  },{
+   "0000666D;0000003A": "Every time I do so, more juice flows out and wets my chin."
+  },{
+   "000066BD;00000011": "\"Ohh... Cliff...\""
+  },{
+   "000066D5;00000039": "Mena pushes down my head and tries to push me on herself."
+  },{
+   "00006711;00000028": "My hands are still fondling her breasts."
+  },{
+   "0000674F;00000009": "\"Kya...?\""
+  },{
+   "0000675F;00000023": "She suddenly lets out a high voice."
+  },{
+   "00006799;0000001B": "\"Oh, sorry... did it hurt?\""
+  },{
+   "000067BB;00000027": "I quickly look up and look at her face."
+  },{
+   "000067E5;00000040": "She looks embarrassed as I see her face from between her breats."
+  },{
+   "0000683B;0000001F": "\"No... It just felt really....\""
+  },{
+   "00006871;00000014": "\"Did you feel good?\""
+  },{
+   "0000689B;00000011": "\"I don't know...\""
+  },{
+   "000068B3;0000002C": "I look down and look at where I just licked."
+  },{
+   "000068E2;00000043": "I can see a small bud-like thing right below where her slit starts."
+  },{
+   "00006928;0000000E": "...What is it?"
+  },{
+   "00006939;0000000A": "I lick it."
+  },{
+   "00006959;00000006": "\"Kya!\""
+  },{
+   "00006976;0000000E": "\"Oh, sorry...\""
+  },{
+   "0000698B;00000014": "Does this feel good?"
+  },{
+   "000069B6;00000020": "\"Hey... does it feel good here?\""
+  },{
+   "000069EC;0000000D": "\"...Maybe...\""
+  },{
+   "00006A00;0000002F": "I put my face onto her pussy again and lick it."
+  },{
+   "00006A45;00000007": "\"Hm...\""
+  },{
+   "00006A53;00000020": "I roll it around with my tongue."
+  },{
+   "00006A89;00000016": "\"Ohh... it's great...\""
+  },{
+   "00006AA6;00000038": "So it must feel good. I get happy and concentrate there."
+  },{
+   "00006AF4;00000020": "\"No... my head's going blank...\""
+  },{
+   "00006B1B;00000028": "I suck on her while I pinch her nipples."
+  },{
+   "00006B59;00000014": "\"N-No... ahhhhhhh!!\""
+  },{
+   "00006B74;0000004E": "Mena arches her back. She shakes and wets my face as she spurts out her juice."
+  },{
+   "00006BC5;00000036": "After a while in that posture, she falls onto the bed."
+  },{
+   "00006C11;0000000F": "\"Haa... haa...\""
+  },{
+   "00006C27;00000034": "Her breasts move up and down as she breathes wildly."
+  },{
+   "00006C72;0000001F": "\"Mena... did you reach orgasm?\""
+  },{
+   "00006CA7;00000017": "\"Haa... haa... yeah...\""
+  },{
+   "00006CE7;0000000D": "\"Ah... hm...\""
+  },{
+   "00006CFB;00000027": "My tongue licks her slit over and over."
+  },{
+   "00006D25;00000047": "I spread her slit with my tongue and suck at her juice once in a while."
+  },{
+   "00006D82;00000017": "\"Ahh... again... no...\""
+  },{
+   "00006DB0;00000014": "\"I can't stop it...\""
+  },{
+   "00006DCB;00000026": "And I kiss her at the top of her slit."
+  },{
+   "00006E07;00000007": "\"Oh...\""
+  },{
+   "00006E15;0000004D": "Mena's voice tremble in anticipation. I gently lick the place that's covered."
+  },{
+   "00006E78;00000010": "\"Oh... there...\""
+  },{
+   "00006E8F;0000005D": "She shakes and tells me she's feeling good. I pat her hip and move my hand up to her breasts."
+  },{
+   "00006EEF;00000059": "I feel softness in my hands. As I caress her breasts, Mena puts her hands on top of mine."
+  },{
+   "00006F5E;00000014": "\"Ah... ah... hmm...\""
+  },{
+   "00006F79;00000033": "I move my tongue faster as I play with her nipples."
+  },{
+   "00006FAF;00000031": "My mouth is wet from my own saliva and her juice."
+  },{
+   "00006FF6;0000001F": "\"Cliff... I'm about to come...\""
+  },{
+   "0000702C;0000000B": "\"Go ahead.\""
+  },{
+   "0000703E;0000005D": "I like seeing Mena have an orgasm. I think my brain goes numb whenever I hear her cute voice."
+  },{
+   "000070B1;00000013": "\"Ahh! Ah! Ahhn...!\""
+  },{
+   "000070CB;0000006D": "I stick my tongue out, insert it into her, and wiggle it around. Mena arches her back as I lick on her walls."
+  },{
+   "0000713B;0000001A": "And when I suck in hard..."
+  },{
+   "0000716B;00000008": "\"Hmmm!!\""
+  },{
+   "0000717E;00000039": "My tongue is squeezed and she squirts juice onto my face."
+  },{
+   "000071CD;0000000D": "\"......Ah...\""
+  },{
+   "000071E1;00000033": "She convulses a few times, then falls onto the bed."
+  },{
+   "0000722A;00000016": "\"Haa... Haa... Haa...\""
+  },{
+   "00007247;00000053": "She moves her beautiful breasts and I see her dreamy face as she enjoys her orgasm."
+  },{
+   "000072B1;00000019": "\"Mena, did it feel good?\""
+  },{
+   "000072E0;00000009": "\"Yeah...\""
+  },{
+   "000072F0;0000002C": "She manages to answer under her wild breath."
+  },{
+   "0000731F;0000005F": "She has no energy to hide her spreading legs, and her juice is making a big stain on the sheet."
+  },{
+   "0000739C;00000007": "\"Oh...\""
+  },{
+   "000073AA;00000040": "Mena's voice tremble in anticipation as she feels my tip on her."
+  },{
+   "00007401;00000016": "\"I'm putting it in...\""
+  },{
+   "0000742D;0000001B": "\"Yeah... please come in...\""
+  },{
+   "0000744F;00000023": "Mena looks back at me with a smile."
+  },{
+   "00007475;0000002D": "I kiss her forehead and slowly insert myself."
+  },{
+   "000074CE;00000011": "\"Ahh... ahhhh...\""
+  },{
+   "000074E6;00000036": "Mena lets out a long moan as she feels me go into her."
+  },{
+   "0000751F;00000046": "When my penis is fully wrapped in her, I loosen up and lean onto Mena."
+  },{
+   "0000757B;00000014": "\"Hm... it's warm...\""
+  },{
+   "00007596;00000046": "She wraps her arms around my back. I can feel her breasts on my chest."
+  },{
+   "000075DF;00000052": "She clings onto me with her arms and legs as if to say that she wants to be close."
+  },{
+   "00007634;0000002A": "We stay close to feel each other's warmth."
+  },{
+   "00007675;00000014": "\"I'm going to move.\""
+  },{
+   "0000769F;00000009": "\"Okay...\""
+  },{
+   "000076AF;0000003C": "When I ask her, she nods, and I start to move my hips a bit."
+  },{
+   "0000771D;0000000E": "\"Ah... ahh...\""
+  },{
+   "00007732;0000001C": "She moans as I move my hips."
+  },{
+   "00007759;00000039": "I suppress my urge to move faster and keep moving slowly."
+  },{
+   "000077A8;00000010": "\"Ahh... ahhh...\""
+  },{
+   "000077BF;00000039": "Mena shakes her head as if to tell me she can't stand it."
+  },{
+   "0000780F;00000017": "\"Mena... I'm almost...\""
+  },{
+   "0000784E;00000021": "\"Yeah, come... hm... I'm also...\""
+  },{
+   "00007876;00000056": "She speaks under her moaning. I put my body onto her and move as if to stop her words."
+  },{
+   "000078E2;00000018": "\"Ohh... it's rubbing...\""
+  },{
+   "00007901;00000049": "Her breasts are squashed by me. I can clearly feel her perked up nipples."
+  },{
+   "0000794D;0000006F": "I can't move much since her legs are holding me tight, but this closeness makes me happy and gives me pleasure."
+  },{
+   "000079BF;00000055": "We're one right now. We strike our hips together while we lust at each other's mouth."
+  },{
+   "00007A2A;0000001F": "\"Please... I'm almost there...\""
+  },{
+   "00007A60;00000012": "\"Yeah... Take it.\""
+  },{
+   "00007A79;0000002D": "I insert myself into the deepest part of her."
+  },{
+   "00007AD8;00000006": "\"Ahh!\""
+  },{
+   "00007AE5;0000004B": "My tip hits her end. With my penis there, I shake my body as if convulsing."
+  },{
+   "00007B46;00000013": "\"Ahh! Ahhhhhhhhhh!\""
+  },{
+   "00007B60;0000003F": "The movement finishes her. Mena arches back and reaches orgasm."
+  },{
+   "00007BB6;00000007": "\"Kuh!!\""
+  },{
+   "00007BDE;0000002E": "It finishes me too as I ejaculate deep in her."
+  },{
+   "00007C0F;0000004A": "Lightning flashes through my brain and I ejaculate over and over into her."
+  },{
+   "00007C6F;00000009": "\"Ahh....\""
+  },{
+   "00007C7F;00000056": "After the flash that lasted like eternity, I feel a comfortable feeling of exhaustion."
+  },{
+   "00007CD8;00000025": "I put my face on her soft body again."
+  },{
+   "00007D00;00000029": "And I fall alseep feeling her kindness..."
+  },{
+   "00007D52;00000009": "\"Mena...\""
+  },{
+   "00007D78;0000002D": "I get off of her and lift one of her legs up."
+  },{
+   "00007DBB;0000000D": "\"Ah... hm...\""
+  },{
+   "00007DCF;00000042": "I guess my thing stimulates her in some way as I pull at her hips."
+  },{
+   "00007E14;00000032": "She moans as I move my body to adjust my position."
+  },{
+   "00007E5D;0000000E": "\"I'm going...\""
+  },{
+   "00007E81;00000009": "\"Okay...\""
+  },{
+   "00007E91;0000004D": "I pull out slowly. I can see my thing, wet with her juice, coming out of her."
+  },{
+   "00007EE1;00000042": "Looking, I can see that Mena's also looking at it with a red face."
+  },{
+   "00007F26;00000042": "I get it out except the tip, then push it in hard without warning."
+  },{
+   "00007F94;00000009": "\"Ahhhn!!\""
+  },{
+   "00007FA4;00000037": "My penis pushed her and shake her well- shaped breasts."
+  },{
+   "00007FDE;00000034": "I want to see it again, so I keeping moving my hips."
+  },{
+   "00008028;00000013": "\"Ahn, ahn, ahhhn!!\""
+  },{
+   "00008042;0000004E": "She looks more seductive than ever and I can tell she's only feeling pleasure."
+  },{
+   "00008093;0000003E": "I move my hips endlessly. Her breasts keep moving up and down."
+  },{
+   "000080F9;00000011": "\"Cliff! Cliff!!!\""
+  },{
+   "00008111;00000042": "Mena screams out my name and tells me she's about to reach orgasm."
+  },{
+   "00008156;00000036": "I can't stop either. I frantically move inside of her."
+  },{
+   "0000818F;0000005E": "I'm about to explode and my penis expands. I pull it out once and push it in as hard as I can."
+  },{
+   "00008203;0000002E": "\"Ah, ah, ah, ah, ahh...... Ahhhhhhhhhhhhhhh!!\""
+  },{
+   "00008238;0000005A": "She arches her back and convulses. Watching her shaking breasts, I let out my first surge."
+  },{
+   "000082C1;00000044": "It splashes into her depth many times and is sucked in even further."
+  },{
+   "0000833F;00000038": "\"Ahh... your hot thing is... coming in... my stomach...\""
+  },{
+   "0000837E;00000051": "I look down at Mena's white stomach. The deep part is wrapping me ever so gently."
+  },{
+   "000083D2;0000004E": "She places her hand on her stomach, as if to love the hotness inside of her..."
+  },{
+   "00008423;00000015": "She looks so happy..."
+  },{
+   "00008461;00000017": "\"Mena... Get on top...\""
+  },{
+   "000084A0;00000008": "\"...Eh?\""
+  },{
+   "000084BF;00000032": "\"I think it'll feel better for you if you move...\""
+  },{
+   "00008507;0000000C": "\"Really...?\""
+  },{
+   "0000852A;00000017": "\"...You don't want to?\""
+  },{
+   "00008557;0000001A": "\"Well... if you say so...\""
+  },{
+   "00008584;0000003F": "I get off her for now. The thing in her slips out with a sound."
+  },{
+   "000085D9;00000007": "\"Hm...\""
+  },{
+   "000085E7;00000056": "She lets out a small voice from the sudden stimulation. I lay down and beckon to Mena."
+  },{
+   "00008654;00000009": "\"Here...\""
+  },{
+   "00008673;00000024": "\"Okay... it's a bit embarrassing...\""
+  },{
+   "0000869E;0000003E": "Mena grabs the hand I hold out and timidly comes on top of me."
+  },{
+   "000086F3;0000000F": "\"Slowly, okay?\""
+  },{
+   "00008718;00000022": "\"Okay... don't let go of my hand.\""
+  },{
+   "00008751;00000007": "\"Okay.\""
+  },{
+   "0000875F;00000046": "Mena balances herself while holding my hand and slowly lowers her hip."
+  },{
+   "000087A8;00000021": "I feel her inner thigh at my tip."
+  },{
+   "000087DF;00000007": "\"Hm...\""
+  },{
+   "000087ED;00000040": "But she can't get it right and my thing slips on her many times."
+  },{
+   "00008844;00000040": "\"Mena... you don't have to put it in, so just sit down for now.\""
+  },{
+   "0000889A;00000025": "\"Okay... I don't think I can do-kya!\""
+  },{
+   "000088C6;00000044": "Mena tries to sit down, but she loses her balance and falls onto me."
+  },{
+   "00008930;0000001D": "\"S-Sorry. Are you all right?\""
+  },{
+   "00008964;00000036": "\"Yeah, I was just a bit surprised. Are you all right?\""
+  },{
+   "000089B0;00000010": "\"Yeah... sorry.\""
+  },{
+   "000089D7;0000001B": "\"No, I made you do this...\""
+  },{
+   "00008A09;00000018": "\"Then spread your legs.\""
+  },{
+   "00008A37;0000000D": "\"Oh... okay.\""
+  },{
+   "00008A4B;00000040": "Mena lays on top of me, spreads her legs, and lifts up her butt."
+  },{
+   "00008A8E;00000023": "I grab my penis and push it in her."
+  },{
+   "00008AE3;00000007": "\"Oh...\""
+  },{
+   "00008AF1;0000002C": "With a warm sensation, my tip goes into her."
+  },{
+   "00008B34;00000021": "\"Mena... lower your butt slowly.\""
+  },{
+   "00008B6B;00000015": "\"Okay... fu... hmmm!\""
+  },{
+   "00008B87;0000006D": "Mena lowers herself while bearing the strong stimulation. My thing is swallowed by her as she lowers herself."
+  },{
+   "00008BF7;00000022": "...Finally, everything enters her."
+  },{
+   "00008C2F;0000000F": "\"Haa... haa...\""
+  },{
+   "00008C45;00000050": "She breathes hard, as she must have been trying hard. Her stomach is convulsing."
+  },{
+   "00008CAC;00000014": "\"Are you all right?\""
+  },{
+   "00008CE8;00000021": "\"Yeah... just let me rest a bit.\""
+  },{
+   "00008D20;00000007": "\"Okay.\""
+  },{
+   "00008D3D;00000009": "\"Thanks.\""
+  },{
+   "00008D69;00000042": "Mena puts her head on my chest happily. She rubs her cheeks on it."
+  },{
+   "00008DC2;00000007": "\"What?\""
+  },{
+   "00008DDF;00000027": "\"Well... I'm just thinking it's Cliff.\""
+  },{
+   "00008E1D;00000011": "\"I don't get it.\""
+  },{
+   "00008E44;0000000E": "\"It's fine...\""
+  },{
+   "00008E59;0000003F": "I don't get it, but it makes me happy just by seeing her happy."
+  },{
+   "00008E9B;00000039": "I put my arms around her head and stroke her hair gently."
+  },{
+   "00008EEA;00000009": "\"Hmm....\""
+  },{
+   "00008EFA;00000045": "She lets out a happy voice. It seems like she'll purr any minute now."
+  },{
+   "00008F42;0000002C": "...We enjoy the warm atmosphere for a while."
+  },{
+   "00008F96;0000000B": "\"... Phew.\""
+  },{
+   "00008FB7;0000001A": "\"All right. I'm fine now.\""
+  },{
+   "00008FD8;00000013": "She murmurs softly."
+  },{
+   "00009002;00000019": "\"Okay. Um, can you move?\""
+  },{
+   "00009031;00000008": "\"Hmm...\""
+  },{
+   "00009040;00000043": "She moves her hips, but she doesn't seem to know how to move right."
+  },{
+   "00009086;00000047": "I finally get tired of waiting, so I grab her butt and push up my hips."
+  },{
+   "000090FF;00000008": "\"Kyan!?\""
+  },{
+   "0000911E;00000026": "\"Sorry... I can't hold it any longer.\""
+  },{
+   "0000914B;0000003D": "I keep grabbing her butt while I push up my hips a few times."
+  },{
+   "0000919E;00000011": "\"Nn, ahh, ahhh!!\""
+  },{
+   "000091B6;0000002F": "Mena embraces my head and endures the pleasure."
+  },{
+   "000091E8;00000031": "I use the bedspring to push myself up many times."
+  },{
+   "0000921C;00000043": "I can see her round butt moving up and down as I thrust my hips up."
+  },{
+   "00009275;0000000D": "\"Hm! Hm! Hm!\""
+  },{
+   "00009289;00000023": "We keep moving in a uniform rhythm."
+  },{
+   "000092C2;00000013": "\"Ah, ah, ah, ah...\""
+  },{
+   "000092DC;00000046": "The rhythm slowly gets faster and it changes into small, quick strokes"
+  },{
+   "00009325;00000046": "The sound of our hips hitting and the wet sound echo through the room."
+  },{
+   "00009382;0000001B": "\"Mena, Mena... I'm coming!\""
+  },{
+   "000093C5;0000001D": "\"Yeah, yeah, please come...!\""
+  },{
+   "000093E9;00000040": "After our movement gets up to top-speed, I push my hips up high."
+  },{
+   "0000945B;0000000E": "\"Ahhhhhhhhh!!\""
+  },{
+   "0000948A;0000002A": "I push myself deep into her and ejaculate."
+  },{
+   "000094B7;0000002B": "I can feel her butt convulsing in my hands."
+  },{
+   "000094F8;0000000C": "\"Ahhh......\""
+  },{
+   "00009517;00000039": "After her orgasm, she leans her exhausted body onto mine."
+  },{
+   "00009566;0000000F": "\"Haa... haa...\""
+  },{
+   "0000957C;00000033": "I feel her hot breath on me. I pat her head gently."
+  },{
+   "000095C5;00000015": "\"......Zzz... Zzz...\""
+  },{
+   "000095F1;00000007": "\"Mena?\""
+  },{
+   "000095FF;0000003B": "When I notice... Mena's sleeping with her head on my chest."
+  },{
+   "0000963D;00000072": "She looks so peaceful. It's an innocent face not any different from the time we use to sleep together as children."
+  },{
+   "000096C6;00000013": "\"Good night, Mena.\""
+  },{
+   "000096E0;00000041": "I embrace her small body and fall asleep while still connected..."
+  },{
+   "00009746;00000019": "\"Get on top of me again.\""
+  },{
+   "00009775;00000009": "\"Okay...\""
+  },{
+   "000097AA;00000013": "\"Hm... ah... ahhh.\""
+  },{
+   "000097C4;0000002C": "I feel like I'm sucked in as she puts it in."
+  },{
+   "000097F3;00000062": "She must be getting used to it, as I can go into her more easily now even though it's still tight."
+  },{
+   "0000986B;00000017": "\"Hm... it's so full...\""
+  },{
+   "00009899;00000016": "\"Yeah... it's all in.\""
+  },{
+   "000098B6;00000047": "Our touching stomachs is warm. But the connection below is even warmer."
+  },{
+   "00009914;00000015": "\"Mena, you can move.\""
+  },{
+   "0000993F;00000007": "\"Okay.\""
+  },{
+   "0000995C;00000010": "\"...Hm... Hm...\""
+  },{
+   "00009973;00000038": "Still holding on to me, Mena moves her body up and down."
+  },{
+   "000099AE;00000061": "Her soft breasts are pressed against me while she moves. I can feel something hard in the center."
+  },{
+   "00009A12;0000005F": "I guess this is her favorite position. We can't move fast, but we can feel each other's warmth."
+  },{
+   "00009A87;00000013": "\"Hm... hm... hm...\""
+  },{
+   "00009AA1;00000056": "She rubs her cheeks on my chest from time to time. I just put my arms around her back."
+  },{
+   "00009AFA;00000060": "I can't move at all even though I'm all the way in her. But I get pleasure every time she moves."
+  },{
+   "00009B70;00000014": "\"Ahh... ah... ah...\""
+  },{
+   "00009B8B;0000004A": "I must hit her in the right place from time to time as she moves her hips."
+  },{
+   "00009BD8;0000002C": "It gets me excited as I see her hips moving."
+  },{
+   "00009C07;00000025": "I slowly move my hips along with her."
+  },{
+   "00009C2F;00000018": "It's not too big, but..."
+  },{
+   "00009C4A;0000002A": "I hear a wet sound coming from between us."
+  },{
+   "00009C8B;00000009": "\"Mena...\""
+  },{
+   "00009C9B;0000002E": "I call out to her and reach out for her mouth."
+  },{
+   "00009CDF;00000007": "\"Hm...\""
+  },{
+   "00009CED;0000003B": "We kiss each other, then scramble for each other's tongues."
+  },{
+   "00009D2B;00000030": "While we do that, our hips start to move faster."
+  },{
+   "00009D5E;0000003F": "I reach out and grab her butt. I slowly strengthen my movement."
+  },{
+   "00009DB3;00000017": "\"Hm... hm... hm... ah.\""
+  },{
+   "00009DD1;0000003E": "Mena moans between our mouths. I start to feel my cum well up."
+  },{
+   "00009E25;00000018": "\"Hm... nha... ah.. ahh.\""
+  },{
+   "00009E44;0000003B": "We can tell we're both about to come without saying a word."
+  },{
+   "00009E82;0000004F": "My penis is fully erect, about to explode, and she squeezes on me to accept it."
+  },{
+   "00009ED4;0000003F": "We move slowly until the end, and I finally ejaculate into her."
+  },{
+   "00009F5D;0000000C": "\"Ahhhh...!!\""
+  },{
+   "00009F70;0000002F": "I let it out over and over again inside of her."
+  },{
+   "00009FB5;0000004B": "\"It's hitting me... your hot cum is hitting me... no, I can't bear it...!!\""
+  },{
+   "0000A007;00000054": "Feeling my cum inside of her, Mena orgasms. She hugs me hard and takes the pleasure."
+  },{
+   "0000A062;00000013": "I keep ejaculating."
+  },{
+   "0000A078;0000003F": "Mena's pussy tightens on me as if to suck everything out of me."
+  },{
+   "0000A0CD;0000001A": "\"Fuaaaa... ah... ah......\""
+  },{
+   "0000A0EE;0000003B": "Letting out a large breath, Mena puts her head on my chest."
+  },{
+   "0000A12C;00000044": "We embrace each other while feeling the lingerments of our orgasm..."
+  },{
+   "0000A198;0000002C": "\"Hey... you're always doing it to me, so...\""
+  },{
+   "0000A1DA;0000001C": "\"...I'll do it this time...\""
+  },{
+   "0000A1FD;0000003E": "With that, Mena moves and puts her face in front of my crotch."
+  },{
+   "0000A252;00000028": "My erect penis is right in front of her."
+  },{
+   "0000A290;0000001F": "\"Wow... It gets big like this?\""
+  },{
+   "0000A2C5;00000023": "\"It was smaller a long time ago...\""
+  },{
+   "0000A2EF;0000003A": "It troubles me when she compares it to when I was small..."
+  },{
+   "0000A340;0000001A": "\"It's because I like you.\""
+  },{
+   "0000A370;00000018": "\"That's embarrassing...\""
+  },{
+   "0000A38F;00000034": "She blushes, but doesn't take her eyes off my penis."
+  },{
+   "0000A3C6;00000059": "She touches it with her hands for a while, but then, she slowly puts her mouth toward it."
+  },{
+   "0000A436;00000008": "\"Ugh...\""
+  },{
+   "0000A445;0000005B": "My tip is surrounded by something warm. It feels different from when I'm connected to Mena."
+  },{
+   "0000A4A3;00000047": "It's not tight, but it's so hot... and her tongue nervously touches me."
+  },{
+   "0000A500;00000007": "\"Hm...\""
+  },{
+   "0000A50E;0000000D": "*Lick* *Lick*"
+  },{
+   "0000A51E;0000001E": "Mena licks me with wet sounds."
+  },{
+   "0000A553;00000009": "\"Whoa...\""
+  },{
+   "0000A563;00000029": "I let out a voice since it feels so good."
+  },{
+   "0000A5A2;0000001B": "\"Hmm... does it feel good?\""
+  },{
+   "0000A5C4;00000019": "Mena lets go and asks me."
+  },{
+   "0000A5F4;00000017": "\"Yeah... it's amazing.\""
+  },{
+   "0000A621;00000019": "\"Then feel more of it...\""
+  },{
+   "0000A641;00000020": "She puts her tongue on it again."
+  },{
+   "0000A664;0000004F": "She licks my penis from tip to bottom, and she slowly puts it inside her mouth."
+  },{
+   "0000A6C9;00000007": "\"Hm...\""
+  },{
+   "0000A6D7;00000071": "My thing doesn't fit in her small mouth, and she starts licking again when she has about half of it in her mouth."
+  },{
+   "0000A75E;0000001B": "\"Ahh... Hm... Umm... Hm...\""
+  },{
+   "0000A780;00000054": "Seeing her licking me, and with the stimulation of her tongue, I'm about to explode."
+  },{
+   "0000A7EB;00000010": "\"Mena... I...!!\""
+  },{
+   "0000A802;00000051": "She must've noticed that my thing is expanding. Her tongue starts to move faster."
+  },{
+   "0000A856;0000003E": "She puts it in her mouth again and moves her head up and down."
+  },{
+   "0000A8AB;0000000B": "\"Whoa....!\""
+  },{
+   "0000A8BD;0000006B": "Her mouth surrounds my whole penis as she moves up and down. And to add to that, her tongue tickles my tip."
+  },{
+   "0000A92B;00000020": "And when she sucks hard on me..."
+  },{
+   "0000A962;00000009": "\"Uh...!!\""
+  },{
+   "0000A98B;0000003A": "My penis expands even larger and shoot cum into her mouth."
+  },{
+   "0000A9C8;0000001A": "*Splurt* *Splurt* *Splurt*"
+  },{
+   "0000A9F8;0000000D": "\"Uh... hm...\""
+  },{
+   "0000AA0C;00000060": "I can hear her painful voice. But I can't stand it and push myself in her mouth as I let it out."
+  },{
+   "0000AA6F;00000019": "*Splurt* ........*Splurt*"
+  },{
+   "0000AA8B;00000036": "When I finally stop, my penis slips out of her tongue."
+  },{
+   "0000AAD7;00000013": "\"Cough... cough...\""
+  },{
+   "0000AB01;00000027": "\"M-Mena. I'm sorry. Are you all right?\""
+  },{
+   "0000AB3E;0000001B": "\"Uhh... it tastes weird...\""
+  },{
+   "0000AB60;00000011": "Did she drink it?"
+  },{
+   "0000AB74;00000035": "She smiles bitterly with some cum still on her mouth."
+  },{
+   "0000ABBF;00000017": "\"I'll get you clean...\""
+  },{
+   "0000ABEF;00000033": "She licks her mouth as she starts to lick me again."
+  },{
+   "0000AC25;0000004E": "She licks off all the cum on it and sucks on my tip. Then, she licks it again."
+  },{
+   "0000AC89;0000000E": "\"Hm... hmm...\""
+  },{
+   "0000AC9E;0000003B": "Even though it's clean already, Mena's still sucking on it."
+  },{
+   "0000ACDC;00000037": "As she does so, my penis starts to regain its hardness."
+  },{
+   "0000AD2A;00000016": "\"Mena, it's fine now.\""
+  },{
+   "0000AD4F;00000020": "I lift up her face and kiss her."
+  },{
+   "0000AD72;00000028": "Ugh... this tastes weird. Is this my...?"
+  },{
+   "0000AD9D;00000030": "I try hard not to frown, and I lift up her body."
+  },{
+   "0000ADE4;00000021": "\"Let's both feel good this time.\""
+  },{
+   "0000AE1B;00000009": "\"Okay...\""
+  },{
+   "0000AE2B;00000038": "I position Mena so she's has her butt facing towards me."
+  },{
+   "0000AE66;00000037": "I grab her firm butt and move them on top of my waists."
+  },{
+   "0000AEB4;00000013": "\"Move down slowly.\""
+  },{
+   "0000AEDE;00000007": "\"Hm...\""
+  },{
+   "0000AF0C;00000009": "\"Hmmm...\""
+  },{
+   "0000AF1C;00000056": "My penis disappears beneath her butt. Unable to put it in right, Mena shakes her butt."
+  },{
+   "0000AF75;00000036": "I hold her butt still and slowly move it down onto me."
+  },{
+   "0000AFDD;00000019": "\"Oh... it's coming in...\""
+  },{
+   "0000AFFD;0000004A": "As I enter her with a sound, my penis is surrounded by warm, gentle walls."
+  },{
+   "0000B04A;00000028": "Finally, Mena's butt touches my stomach."
+  },{
+   "0000B088;0000000E": "\"Hmm.. haa...\""
+  },{
+   "0000B09D;0000003F": "She keeps herself up with her hand as she enjoys the insertion."
+  },{
+   "0000B0DF;00000033": "I reach out, grab her buttcheeks, and squeeze them."
+  },{
+   "0000B128;0000000E": "\"Ahn... no...\""
+  },{
+   "0000B13D;0000002E": "I can see the hole between her big buttcheeks."
+  },{
+   "0000B16E;00000047": "I keep watching it, thinking how it hasn't changed since she was small."
+  },{
+   "0000B1DD;00000022": "\"Geez... what are you looking at?\""
+  },{
+   "0000B216;0000000E": "\"Your butt...\""
+  },{
+   "0000B23A;00000026": "\"Uhh... don't look in strange places.\""
+  },{
+   "0000B277;0000001F": "\"But you're cute here as well.\""
+  },{
+   "0000B2AC;0000000A": "\"Idiot...\""
+  },{
+   "0000B2BD;00000046": "I can't see her face since she's looking down, but I bet it's all red."
+  },{
+   "0000B306;00000053": "I spread her buttcheeks. Then, I see my penis that's fully inserted below her anus."
+  },{
+   "0000B36F;00000027": "\"Geez... I'm telling you to stop it...\""
+  },{
+   "0000B3AD;0000002F": "\"It's amazing. I can see that it's all in you.\""
+  },{
+   "0000B3F2;00000007": "\"No...\""
+  },{
+   "0000B400;0000004D": "She might really cry if I keep going, so I hold her butt and pull myself out."
+  },{
+   "0000B47F;00000008": "\"Ahh...\""
+  },{
+   "0000B48E;00000025": "I see my wet thing coming out of her."
+  },{
+   "0000B4B6;0000005C": "Her tight pussy tries to hold onnto me as her pink walls are pulled out along with my penis."
+  },{
+   "0000B528;0000000F": "\"Hm... ummm...\""
+  },{
+   "0000B53E;0000004F": "I stop when my tip is the only thing in and loosen my arm as I caress her butt."
+  },{
+   "0000B5A3;0000000A": "\"Ahhhn...\""
+  },{
+   "0000B5B4;0000004E": "She starts to come down under her own weight. Her butt quickly hides my penis."
+  },{
+   "0000B619;0000000F": "\"Mena... move.\""
+  },{
+   "0000B63E;0000000A": "\"...Okay.\""
+  },{
+   "0000B64F;00000056": "She puts strength into her knees and raises herself. I support her butt using my arms."
+  },{
+   "0000B6BB;0000000D": "\"Hm... hm...\""
+  },{
+   "0000B6CF;00000073": "My thing appears again from under her butt. When I can see about half of it, she lowers herself and hides it again."
+  },{
+   "0000B745;0000002D": "She repeats the slow movements over and over."
+  },{
+   "0000B788;00000013": "\"Hm... hm... hm...\""
+  },{
+   "0000B7A2;0000006F": "She slowly moves faster as she starts to moan. I support her when she moves up, and let go when she comes down."
+  },{
+   "0000B814;00000043": "As I help her, she slowly starts to move on me as if jumping on me."
+  },{
+   "0000B86D;00000016": "\"Ahh... ahh... ahh...\""
+  },{
+   "0000B88A;0000002D": "I hear the sound of her butt hitting my hips."
+  },{
+   "0000B8BA;00000022": "It slowly changes into wet sounds."
+  },{
+   "0000B8F2;00000016": "\"Ahhhn! Ah, ah, ah...\""
+  },{
+   "0000B90F;00000055": "She starts to move frantically, and her butt jumps every time I push up with my hips."
+  },{
+   "0000B97A;00000010": "\"Cliff! Cliff!!\""
+  },{
+   "0000B991;0000003F": "She calls out my name and tells me she's about to reach orgasm."
+  },{
+   "0000B9E7;00000017": "\"Mena... I'm coming...\""
+  },{
+   "0000BA05;0000004C": "I push up fast so I can reach it with her. Her juice splashes on my stomach."
+  },{
+   "0000BA54;00000053": "And the instant her walls contract and convulse, I push into her with all my might."
+  },{
+   "0000BABD;00000014": "\"Ahhhhhhhhhhhhhhh!!\""
+  },{
+   "0000BAD8;0000000A": "I explode."
+  },{
+   "0000BB03;0000002C": "My cum splashes onto the womb inside of her."
+  },{
+   "0000BB32;00000011": "*Splurt* *Splurt*"
+  },{
+   "0000BB59;00000011": "\"Ahhh! Ahhhhhhh!\""
+  },{
+   "0000BB71;00000042": "She raises a voice of delight as she feels my cum splash into her."
+  },{
+   "0000BBB6;00000037": "After what seems like eternity, she falls onto my legs."
+  },{
+   "0000BBF0;0000003D": "Her small hole between her butt is twitching with her breath."
+  },{
+   "0000BC30;0000002E": "And my cum flows out from the slit below that."
+  },{
+   "0000BC74;00000016": "\"Haa... haa... haa...\""
+  },{
+   "0000BC91;00000049": "I enjoy the warm fatigue of orgasm and keep feeling Mena's smooth butt..."
+  },{
+   "0000BD03;00000032": "\"Mena, um... can you do it with your mouth again?\""
+  },{
+   "0000BD4B;00000011": "\"Eh? Oh, okay...\""
+  },{
+   "0000BD63;00000068": "She must still be tranced out from her orgasm. But she manages to move and get her face between my legs."
+  },{
+   "0000BDF7;00000019": "\"Then I'm gonna lick it.\""
+  },{
+   "0000BE17;00000023": "She declares and starts licking it."
+  },{
+   "0000BE3D;0000002F": "The wet, warm sensation moves across my member."
+  },{
+   "0000BE82;0000000D": "\"Hm... ah...\""
+  },{
+   "0000BE96;0000003B": "She kisses the tip and licks it while sucking on the tip..."
+  },{
+   "0000BED4;00000027": "I can't think because it feels so good."
+  },{
+   "0000BF11;0000001B": "\"Hey... does it feel good?\""
+  },{
+   "0000BF33;00000024": "She asks with my thing in her mouth."
+  },{
+   "0000BF6E;00000024": "\"Yeah... your tongue feels great...\""
+  },{
+   "0000BFA8;00000007": "\"Hm...\""
+  },{
+   "0000BFB6;0000005A": "She nods slightly, puts more of my penis into her mouth, and starts to move it in and out."
+  },{
+   "0000C013;00000055": "Her mouth jerks me, and I feel a different pleasure from when I'm connected with her."
+  },{
+   "0000C07E;00000013": "\"Hm... hm... hm...\""
+  },{
+   "0000C098;0000001C": "She moves faster and faster."
+  },{
+   "0000C0CB;00000007": "\"Kuh!!\""
+  },{
+   "0000C0D9;00000039": "A hot sensation runs through me and explodes out the tip."
+  },{
+   "0000C132;00000011": "*Splurt* *Splurt*"
+  },{
+   "0000C159;00000007": "\"Hm...\""
+  },{
+   "0000C167;00000025": "The splashing cum fills Mena's mouth."
+  },{
+   "0000C1A2;0000000C": "\"Hmm... hm.\""
+  },{
+   "0000C1B5;00000037": "It looks like she's desperately trying to drink it all."
+  },{
+   "0000C1EF;0000002E": "But it overflows and drips down from her lips."
+  },{
+   "0000C233;0000000D": "\"Hm... nm...\""
+  },{
+   "0000C247;00000048": "I finally release my final drop and look at her face in blank amazement."
+  },{
+   "0000C292;0000004C": "I can feel her tongue move, and her throat moves as if to swallow something."
+  },{
+   "0000C2F5;00000009": "\"Mena...\""
+  },{
+   "0000C305;0000001A": "I'm watch it in amazement."
+  },{
+   "0000C338;00000047": "After drinking what's in her mouth, she uses her tongue to clean me up."
+  },{
+   "0000C382;00000040": "And she continues to suck on me as if to tell me she wants more."
+  },{
+   "0000C3C5;00000036": "My penis is still rock hard from seeing her like that."
+  },{
+   "0000C412;00000018": "\"Mena... it's fine now.\""
+  },{
+   "0000C440;0000000E": "\"Hm... but...\""
+  },{
+   "0000C465;00000026": "\"I want to put it in you this time...\""
+  },{
+   "0000C4A1;00000009": "\"Okay...\""
+  },{
+   "0000C4BD;00000031": "Mena moves and places her hips on my erect penis."
+  },{
+   "0000C4F1;0000003D": "She gently directs me to her pussy and slowly lowers herself."
+  },{
+   "0000C56C;0000000D": "\"Ha... um...\""
+  },{
+   "0000C580;0000003C": "I can see myself going into the slit between her buttcheeks."
+  },{
+   "0000C5BF;0000003B": "I can't see my penis anymore, and her butt hits my stomach."
+  },{
+   "0000C622;00000012": "\"Hm... it's in...\""
+  },{
+   "0000C64B;00000014": "\"Yeah, it's all in.\""
+  },{
+   "0000C666;00000046": "The hole above our connection point is twitching as if it's breathing."
+  },{
+   "0000C6C2;00000014": "\"Then... I'll move.\""
+  },{
+   "0000C6DD;00000021": "With that, she lifts up her hips."
+  },{
+   "0000C701;00000030": "I see myself coming out of her, now shining wet."
+  },{
+   "0000C748;0000001C": "\"You were this wet already?\""
+  },{
+   "0000C77A;00000022": "\"You did so much to me already...\""
+  },{
+   "0000C7B3;0000001B": "\"Yeah... but it's amazing.\""
+  },{
+   "0000C7D5;0000005C": "I'm all outside except the tip. Her juice flows from her pussy and makes me feel her warmth."
+  },{
+   "0000C863;00000007": "\"Hm...\""
+  },{
+   "0000C871;0000006B": "She starts to drop down and take me in again. Her juice, which is pushed out, starts to drip down my penis."
+  },{
+   "0000C8DF;00000045": "And her hip touches my stomach again. Our wet skin makes a wet sound."
+  },{
+   "0000C93A;00000008": "\"Hmm...\""
+  },{
+   "0000C949;00000073": "It might be hard for her as she doesn't move anymore. She wiggles as if finding a spot where it feels good for her."
+  },{
+   "0000C9D2;00000005": "\"Hm!\""
+  },{
+   "0000C9DE;00000044": "She then starts to move back and forth as if rubbing her butt on me."
+  },{
+   "0000CA25;0000003B": "With the help of her juice, her butt slides smoothly on me."
+  },{
+   "0000CA63;00000055": "My penis rubs inside of her as she does so, and provides pleasure for the both of us."
+  },{
+   "0000CACE;0000001B": "\"Nha... ah... ah... ahn...\""
+  },{
+   "0000CAF0;0000005E": "She circles her hips from time to time, moves it up and down, as she tries to obtain pleasure."
+  },{
+   "0000CB51;0000003E": "I kindly wrap my hands around her butt and help her movements."
+  },{
+   "0000CBA5;00000014": "\"Ahh... ah... no...\""
+  },{
+   "0000CBC0;00000061": "Every time she pushes her butt out, my hand is pushed so that it opens and closes her buttcheeks."
+  },{
+   "0000CC24;00000033": "I can see that even her butt is wet with her juice."
+  },{
+   "0000CC7F;00000011": "\"Ah? ....... No!\""
+  },{
+   "0000CC97;00000043": "She raises her voice. It's because my thumb touched her other hole."
+  },{
+   "0000CCF0;00000027": "\"Geez... where are you touching me...?\""
+  },{
+   "0000CD2E;00000018": "\"You moved a lot, so...\""
+  },{
+   "0000CD4D;00000031": "Mena doesn't stop even though I'm touching there."
+  },{
+   "0000CD81;00000027": "I start to poke her there as she moves."
+  },{
+   "0000CDAB;0000004A": "It's interesting, but it seems her walls squeeze me every time I poke her."
+  },{
+   "0000CDF8;00000045": "I get curious, so I lick on my index finger and place it on her hole."
+  },{
+   "0000CE53;00000010": "\"No... again...\""
+  },{
+   "0000CE6A;00000037": "But I don't stop there, as I insert my finger into her."
+  },{
+   "0000CEB7;00000007": "\"Kya!!\""
+  },{
+   "0000CEC5;0000004D": "She stops this time. But she must want to move, as she moves her hips around."
+  },{
+   "0000CF44;00000015": "\"Hey... no... Ahhh!!\""
+  },{
+   "0000CF60;0000005A": "When I bend my finger in her, she jumps. I can feel my penis through the thin wall in her."
+  },{
+   "0000CFBD;0000001D": "I start to move in her place."
+  },{
+   "0000CFF0;00000014": "\"No... ah... nha...\""
+  },{
+   "0000D00B;00000046": "I can feel my movement on my finger. I push my finger in even further."
+  },{
+   "0000D067;0000001B": "\"No... don't put it i-kya!\""
+  },{
+   "0000D099;00000013": "\"... Does it hurt?\""
+  },{
+   "0000D0B3;00000045": "I get worried and ask. I can't believe it myself that I'm doing this."
+  },{
+   "0000D120;00000028": "\"It doesn't hurt, but it feels weird...\""
+  },{
+   "0000D15F;0000000A": "\"I see...\""
+  },{
+   "0000D170;00000060": "I like the answer, so I move my hips again. Her butt move as well, and rubs itself on my finger."
+  },{
+   "0000D202;00000017": "\"Hya... no way... I...\""
+  },{
+   "0000D230;0000001F": "\"Do you feel it back here too?\""
+  },{
+   "0000D256;00000031": "I move my finger as if to rub on her inner walls."
+  },{
+   "0000D29D;00000028": "\"Hm... I can't be feeling good there...\""
+  },{
+   "0000D2CC;00000035": "She tightens on my penis every time I move my finger."
+  },{
+   "0000D317;00000028": "\"No... I can't... hold it any longer...\""
+  },{
+   "0000D346;00000072": "She must be about to reach climax from this new stimulation. I start to move faster so I can reach orgasm as well."
+  },{
+   "0000D3CE;00000016": "\"Han... ahn... hmm...\""
+  },{
+   "0000D3EB;0000003A": "Her butt moves in front of me, with my finger still in it."
+  },{
+   "0000D43B;00000012": "\"Aha! Ahh! Nhaaa!\""
+  },{
+   "0000D454;0000005B": "Mena moans while frailing her hair around. I take my finger out her butt and raise my body."
+  },{
+   "0000D4C5;00000009": "\"Eh...!?\""
+  },{
+   "0000D4FA;0000001F": "\"Ohh! It's great, Cliff! Ahh!!\""
+  },{
+   "0000D520;0000003C": "I violently push myself into her. Her butt shakes as I move."
+  },{
+   "0000D55F;0000004B": "My penis rubs against her inner walls, and her juice drips down her thighs."
+  },{
+   "0000D5C1;0000000E": "\"Mena, Mena!!\""
+  },{
+   "0000D5D6;00000037": "I embrace her body, grab her shaking breasts, and move."
+  },{
+   "0000D623;00000028": "\"No... it's hitting me... deep... ahh!!\""
+  },{
+   "0000D652;00000048": "My tip is hitting the deepest part of her and pushing up her whole body."
+  },{
+   "0000D6B0;00000022": "\"Cliff! No, I'm about to come...!\""
+  },{
+   "0000D6D9;0000004F": "She can't run away since I'm holding her from behind, and she nears her orgasm."
+  },{
+   "0000D72B;00000037": "I push myself into the deepest part of her and explode."
+  },{
+   "0000D79D;0000000E": "\"It's hot...!\""
+  },{
+   "0000D7B2;00000021": "Mena yells at the sudden hotness."
+  },{
+   "0000D7F4;00000013": "I keep ejaculating."
+  },{
+   "0000D80A;0000002F": "The hotness keeps hitting her and fills her up."
+  },{
+   "0000D83C;00000038": "I keep ejaculating while moving my hips from behind her."
+  },{
+   "0000D88A;00000027": "\"Ohh... it's spreading inside of me...\""
+  },{
+   "0000D8B8;00000021": "I keep splashing my cum into her."
+  },{
+   "0000D8DC;0000004A": "After releasing the last drop, I fall onto the bed with Mena in my arms..."
+  },{
+   "0000D948;00000010": "\"Oh... hold on.\""
+  },{
+   "0000D95F;0000002C": "When I try to get off of her, Mena stops me."
+  },{
+   "0000D9A1;00000022": "\"Can we stay like this for a bit?\""
+  },{
+   "0000D9DA;0000000D": "\"Yeah, okay.\""
+  },{
+   "0000D9EE;00000023": "We lay on the bed, still connected."
+  },{
+   "0000DA14;00000059": "When I fondle her breasts from behind her, she kindly smiles and puts her hand over mine."
+  },{
+   "0000DA70;00000040": "And her pussy starts to squeeze me as I start to go erect again."
+  },{
+   "0000DAB3;00000028": "As if looking forward to the next one..."
+  },{
+   "0000DB0D;00000014": "\"Ah... ah... ah...!\""
+  },{
+   "0000DB28;00000051": "Mena's moan and the sound of our bodies hitting each other echo through the room."
+  },{
+   "0000DBB1;00000014": "\"Cliff...! Ahhh...!\""
+  },{
+   "0000DBCC;00000028": "I grab Mena's cute butt and keep moving."
+  },{
+   "0000DBF7;00000043": "Even though I came in her once, we're still lusting for each other."
+  },{
+   "0000DC3D;00000042": "Her juice and my cum mix together to create a perverted wet sound."
+  },{
+   "0000DC95;00000013": "\"It's... great...!\""
+  },{
+   "0000DCAF;00000023": "Mena gets on me and moves her hips."
+  },{
+   "0000DCD5;00000032": "Mena moans as I grab her breasts and squeeze them."
+  },{
+   "0000DD1D;00000016": "\"Hah... hmm... haa...\""
+  },{
+   "0000DD40;00000039": "At that moment, I realize that there' someone in my room."
+  },{
+   "0000DD8F;00000008": "\"Eh...?\""
+  },{
+   "0000DDA8;00000043": "Mena is spaced out, but she turns in wonder since I stopped moving."
+  },{
+   "0000DE01;00000012": "\"...What's wrong?\""
+  },{
+   "0000DE2A;00000017": "\"Oh... it's nothing...\""
+  },{
+   "0000DE54;00000032": "I start to move again as if to evade the question."
+  },{
+   "0000DE9C;0000001D": "\"Ahh... nha... ah... ahn...!\""
+  },{
+   "0000DEC0;0000003D": "When I look into the darkness, the darkness looks back at me."
+  },{
+   "0000DF04;00000029": "...The darkness has cute, sparkling eyes."
+  },{
+   "0000DF30;0000002C": "I sigh in my mind so that Mena won't notice."
+  },{
+   "0000DF5F;0000003C": "...I stop moving, hold Mena from behind, and raise her body."
+  },{
+   "0000DFB9;00000013": "\"Wha-what? ...Kya!\""
+  },{
+   "0000DFD3;0000004A": "Her butt lands on my stomach and her weight causes me to go deep into her."
+  },{
+   "0000E033;00000011": "\"Ahh... ahhhhh!!\""
+  },{
+   "0000E04B;00000036": "Mena is sitting on top of me with her legs wide apart."
+  },{
+   "0000E097;00000031": "\"...What kind of a pose are you making me do...?\""
+  },{
+   "0000E0CF;0000002D": "Mena comlains as she recocers from her shock."
+  },{
+   "0000E112;0000001D": "\"This is too embarrassing...\""
+  },{
+   "0000E146;00000016": "\"Nobody's watching...\""
+  },{
+   "0000E163;00000020": "I smiles bitterly at my big lie."
+  },{
+   "0000E199;0000001B": "\"That's true, but... hya!?\""
+  },{
+   "0000E1BB;0000002F": "Something licks where Mena and I are connected."
+  },{
+   "0000E210;00000010": "\"K-Kitty-chan!?\""
+  },{
+   "0000E227;0000003D": "Kitty came through the broken ceiling and snuck into my room."
+  },{
+   "0000E267;0000003B": "Well, it's no surprise that she noticed what we were doing."
+  },{
+   "0000E2B8;00000013": "\"No, Kitty-chan...\""
+  },{
+   "0000E2D2;00000052": "Mena still doesn't get what's going on, but she's captivated by Kitty's technique."
+  },{
+   "0000E33A;0000001A": "\"Cliff... Kitty-chan's...\""
+  },{
+   "0000E35B;00000045": "Kitty licks where Mena feels the most sensation, as well as my penis."
+  },{
+   "0000E3A3;00000030": "I can't think of anything else but the pleasure."
+  },{
+   "0000E3EA;00000023": "\"Mena, Cliff... does it feel good?\""
+  },{
+   "0000E423;0000000F": "\"Ahh... no...!\""
+  },{
+   "0000E439;00000031": "Kitty caresses my balls as if telling me to move."
+  },{
+   "0000E46D;00000041": "...I've calmed down a bit, so I hold Mena again and start moving."
+  },{
+   "0000E4C4;0000001C": "\"No! This is too strong...!\""
+  },{
+   "0000E4E7;00000035": "My penis is wet from Mena's juice and Kitty's saliva."
+  },{
+   "0000E51F;00000032": "It drips down to my balls and down onto the sheet."
+  },{
+   "0000E567;00000018": "\"Ahh... ahh... ahhh...!\""
+  },{
+   "0000E586;00000030": "Kitty licks on my penis when I pull out of Mena."
+  },{
+   "0000E5B9;00000039": "Kitty then sucks on Mena's clit when I insert it back in."
+  },{
+   "0000E5F5;0000003C": "I start to move faster as I squeeze her breasts from behind."
+  },{
+   "0000E647;00000019": "\"Ahh, ah, ahh, ahhh....!\""
+  },{
+   "0000E667;00000058": "Mena shakes her head and her hair hits me. Kitty's tongue starts to move faster as well."
+  },{
+   "0000E6C2;00000028": "And when Mena's voice reaches its max..."
+  },{
+   "0000E700;00000029": "\"Ah, ah, ah, ah, ah... Ahhhhhhhhhhhhhh!!\""
+  },{
+   "0000E740;00000007": "\"Kuh!!\""
+  },{
+   "0000E752;0000000C": "I ejaculate."
+  },{
+   "0000E761;0000003F": "Within the pleasure I've never felt before, I come inside Mena."
+  },{
+   "0000E7B6;00000011": "\"Haaa! Ahhhhhhh!\""
+  },{
+   "0000E7CE;0000001A": "*Splurt* *Splurt* *Splurt*"
+  },{
+   "0000E7EB;0000004E": "The pleasure that almost make my penis cramp makes me ejaculate over and over."
+  },{
+   "0000E83C;0000002B": "It overflows and starts to drip out of her."
+  },{
+   "0000E87E;00000007": "\"Oh...\""
+  },{
+   "0000E88C;0000001E": "Kitty sees it and jumps on it."
+  },{
+   "0000E8AD;0000001D": "She licks it and sucks it up."
+  },{
+   "0000E8E1;00000024": "\"Hm... your sperm tastes so good...\""
+  },{
+   "0000E936;0000000F": "\"Ahh... fua...\""
+  },{
+   "0000E94C;00000032": "Mena reacts to Kitty's tongue and shakes her body."
+  },{
+   "0000E995;00000017": "\"Give me more of it...\""
+  },{
+   "0000E9B3;00000058": "Even though I let out my last drop... Kitty's tongue is keeping me erect inside of Mena."
+  },{
+   "0000EA0E;00000049": "I start to get horny again. I grab Mena's breasts and start moving again."
+  },{
+   "0000EA7F;00000017": "\"Ahh... ahh... ahhh...\""
+  },{
+   "0000EA9D;00000055": "Mena has no power left in her to resist and can only accept the pleasure we give her."
+  },{
+   "0000EAF5;0000002C": "It doesn't look like our night's over yet..."
+  },{
+   "0000EB6B;00000016": "\"Ahh... ah... hmm...!\""
+  },{
+   "0000EB88;0000002C": "I hold Mena from the back and put it in her."
+  },{
+   "0000EBCA;00000018": "\"Ahh... ahh... ahhh....\""
+  },{
+   "0000EBE9;00000058": "Kitty buries her face in between her legs and gives both of us pleasure with her tongue."
+  },{
+   "0000EC57;00000029": "\"Kitty-chan... if you lick me so much...\""
+  },{
+   "0000EC97;00000020": "\"Hmm... It tastes good, Mena...\""
+  },{
+   "0000ECCD;00000016": "\"No... Ah... ahaa...!\""
+  },{
+   "0000ECEA;00000022": "Kitty is slurping on Mena's juice."
+  },{
+   "0000ED0F;0000003D": "The sound excites both of us and gets our crotch even wetter."
+  },{
+   "0000ED63;0000002D": "\"Wow... Cliff's is all the way in you, Mena.\""
+  },{
+   "0000EDA6;00000019": "\"No... don't say that...\""
+  },{
+   "0000EDC6;00000011": "I push up on her."
+  },{
+   "0000EDDA;0000004D": "Kitty caresses my balls while licking on the part of my penis that's outside."
+  },{
+   "0000EE2A;00000044": "She spreads Mena's legs, so it allows me to insert deeper into Mena."
+  },{
+   "0000EE84;00000028": "\"Aha! It's in deep, it's in so deep...!\""
+  },{
+   "0000EEB3;00000029": "My tip keeps hitting her at the very end."
+  },{
+   "0000EEF2;00000022": "\"No... Ahh... I'm gonna go crazy!\""
+  },{
+   "0000EF1B;00000044": "Kitty stops licking on me. I think she's licking on Mena's clit now."
+  },{
+   "0000EF62;0000003F": "Mena shakes her head and takes in the vast amounts of pleasure."
+  },{
+   "0000EFA4;00000042": "Her pussy tightens even more and it causes me to move even faster."
+  },{
+   "0000EFFC;00000017": "\"Ahh... ahhh... I'm...\""
+  },{
+   "0000F01A;0000004C": "Mena tells me she's almost at orgasm. I start to move to reach mine as well."
+  },{
+   "0000F069;00000034": "I grab her breasts from behind her and move my hips."
+  },{
+   "0000F0A0;00000037": "Her walls jerk on my penis and I'm almost at my limits."
+  },{
+   "0000F0ED;00000020": "\"Ohh... no... I'm gonna come...\""
+  },{
+   "0000F114;00000031": "Something hot wells up and goes through my penis."
+  },{
+   "0000F148;0000000F": "At that time..."
+  },{
+   "0000F1A1;0000001A": "I push myself deep in her."
+  },{
+   "0000F1C6;0000000E": "And I explode."
+  },{
+   "0000F1EA;0000000E": "\"Ahhhhhhhhh!!\""
+  },{
+   "0000F1FF;00000011": "*Splurt* *Splurt*"
+  },{
+   "0000F226;00000024": "\"It's hitting me... no... nooooo!!!\""
+  },{
+   "0000F251;0000002E": "Mena arches her back and tightens on my penis."
+  },{
+   "0000F282;0000003B": "The motion causes me to ejaculate cum over and over in her."
+  },{
+   "0000F2D4;00000019": "\"Wow, you let out a lot.\""
+  },{
+   "0000F2F4;0000002E": "When I pull it out, my cum gushes out of Mena."
+  },{
+   "0000F339;00000008": "\"Hmm...\""
+  },{
+   "0000F348;0000003B": "Kitty quickly gets her face there and starts to suck on it."
+  },{
+   "0000F399;0000000F": "\"Oh... ahhh...\""
+  },{
+   "0000F3AF;00000048": "Mena's body jumps in my arms from having Kitty's tongue inserted in her."
+  },{
+   "0000F40E;0000000F": "\"Hmm... hmm...\""
+  },{
+   "0000F433;0000000F": "\"Ahh... ahh...\""
+  },{
+   "0000F449;00000045": "The cum keeps coming out and Mena bears the pleasure Kitty gives her."
+  },{
+   "0000F4A5;00000016": "\"Phew, that was good.\""
+  },{
+   "0000F4C2;00000040": "When Kitty finally gets away from Mena, Mena's body loses power."
+  },{
+   "0000F533;00000016": "\"Haa... haa... haa...\""
+  },{
+   "0000F550;00000036": "Her breasts move up and down along with her breathing."
+  },{
+   "0000F59E;00000014": "\"Oh, it's here too.\""
+  },{
+   "0000F5B9;00000032": "My penis is suddenly surrounded by something warm."
+  },{
+   "0000F5EE;00000047": "It seems Kitty noticed the cum on my penis and started sucking on them."
+  },{
+   "0000F64D;0000000D": "\"Hmn.. hm...\""
+  },{
+   "0000F661;0000002A": "She licks and sucks out the remaining cum."
+  },{
+   "0000F6A2;00000009": "\"Whoa...\""
+  },{
+   "0000F6B2;00000025": "I get erect again from the sensation."
+  },{
+   "0000F6EE;00000008": "\"Hmm...\""
+  },{
+   "0000F6FD;00000032": "With a sound, my penis jumps out of Kitty's mouth."
+  },{
+   "0000F743;0000002C": "With a wet sound, my dick slips out of Mena."
+  },{
+   "0000F785;0000000B": "\"Ahhhhhh!!\""
+  },{
+   "0000F797;0000002D": "Mena reaches orgasm from the final sensation."
+  },{
+   "0000F7DB;00000007": "\"Whoa.\""
+  },{
+   "0000F7E9;00000029": "My penis is surrounded by something warm."
+  },{
+   "0000F844;00000007": "\"Hm...\""
+  },{
+   "0000F852;00000046": "Kitty is sucking on it. Her mouth and her tongue causes me to explode."
+  },{
+   "0000F8AF;00000008": "\"Ohh...\""
+  },{
+   "0000F8C2;00000008": "*Splurt*"
+  },{
+   "0000F8E1;00000008": "\"Hmm...\""
+  },{
+   "0000F8F0;0000002A": "I hit Kitty's throat with my first splash."
+  },{
+   "0000F921;0000001A": "*Splurt* *Splurt* *Splurt*"
+  },{
+   "0000F93E;0000003B": "It doesn't stop and I keep squirting my cum into her mouth."
+  },{
+   "0000F990;00000013": "\"Hm... hm... hm...\""
+  },{
+   "0000F9AA;00000027": "Kitty drinks every last drop of my cum."
+  },{
+   "0000F9D4;00000036": "I feel like my power's being sucked out from my penis."
+  },{
+   "0000FA21;0000000E": "\"Oh... ohh...\""
+  },{
+   "0000FA36;00000030": "I let out a weak voice and hug Mena powerlessly."
+  },{
+   "0000FA69;0000003C": "Kitty might've sucked me dry if I didn't feel Mena's warmth."
+  },{
+   "0000FAA8;00000048": "But in contrast to my weakening powers, my penis gets harder and harder."
+  },{
+   "0000FB07;00000007": "\"Oh...\""
+  },{
+   "0000FB15;00000034": "She lets me go. My penis feels good in the cold air."
+  },{
+   "0000FB60;00000026": "\"I'm sorry. Are you all right, Cliff?\""
+  },{
+   "0000FB9D;00000019": "\"Hm... yeah, I'm fine...\""
+  },{
+   "0000FBCD;0000001A": "\"I'm glad to hear that...\""
+  },{
+   "0000FBEE;00000018": "Kitty smiles innocently."
+  },{
+   "0000FC1D;0000001D": "\"I'll give some back to you.\""
+  },{
+   "0000FC41;0000002F": "With that, she puts my dick in her mouth again."
+  },{
+   "0000FC73;00000042": "She tickles it with her tongue and gently wraps me with her mouth."
+  },{
+   "0000FCB8;0000003F": "For some strange reason, I feel like power's coming back to me."
+  },{
+   "0000FD0E;00000007": "\"Hm...\""
+  },{
+   "0000FD1C;00000021": "My fully erect penis is released."
+  },{
+   "0000FD40;00000037": "It's so erect, as if I haven't let anything out at all."
+  },{
+   "0000FD8E;0000001C": "\"Oh... you can do it again.\""
+  },{
+   "0000FDB1;0000003A": "Kitty gently grabs my penis and directs me to Mena's slit."
+  },{
+   "0000FE01;00000007": "\"Hm...\""
+  },{
+   "0000FE0F;00000049": "Mena, who's still in a trance, jumps from the feeling of my penis on her."
+  },{
+   "0000FE6F;00000014": "\"I'm putting it in.\""
+  },{
+   "0000FE8A;00000022": "I go into Mena as Kitty guides me."
+  },{
+   "0000FED4;0000000F": "\"Ah... ahhh...\""
+  },{
+   "0000FEEA;00000029": "Mena moans from the feeling of insertion."
+  },{
+   "0000FF16;0000003C": "Mena's butt touches my thighs. My tip hits her deepest part."
+  },{
+   "0000FF68;0000000D": "\"Ah... mm...\""
+  },{
+   "0000FF8C;00000012": "\"Let's play more.\""
+  },{
+   "0000FFA5;0000005A": "Kitty calls out and buries her face again. We start to move as soon as we feel her tongue."
+  },{
+   "00010015;00000013": "\"Ah... ah... ah...\""
+  },{
+   "0001003F;00000013": "\"Hm... hm... hm...\""
+  },{
+   "00010059;00000043": "The night is endless, and the sun won't be coming up for a while..."
+  },{
+   "000101A0;0000001D": "I want to make her feel good."
+  },{
+   "0001024E;0000000C": "oral_secound"
+  },{
+   "000102A0;00000007": "Next..."
+  },{
+   "00010310;00000024": "I want to make her feel even more..."
+  }]
+}
